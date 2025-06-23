@@ -5,7 +5,7 @@ Yeongtak Oh, Jisoo Mok, Dohyun Chung, Juhyeon Shin, Sangha Park, Johan Barthelem
 
 Affiliation: 
 
-Seoul National University
+Seoul National University, NVIDIA
 
 Abstract: 
 
