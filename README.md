@@ -7,6 +7,10 @@ Abstract:
 
 Recent multi-modal large language models (MLLMs) often struggle to generate personalized image captions, even when trained on high-quality captions. In this work, we observe that such limitations persist in existing post-training-based MLLM personalization methods. Specifically, despite being post-tuned with large-scale caption data through supervised fine-tuning (SFT), these models frequently fail to produce faithful descriptions in real-world scenarios, such as multi-concept image captioning. However, acquiring large-scale, high-quality captions for such complex settings is both costly and difficult. To address the data-centric nature of SFT, we propose a reinforcement learning (RL)-based post-training framework. To the best of our knowledge, this is the first RL-based approach to post-train MLLMs for personalized image captioning. Our method significantly enhances both visual recognition and personalized generation capabilities of MLLMs, and consistently outperforms existing SFT-based baselines, especially in the challenging multi-concept image captioning task. 
 
+<p align="center">
+  <img src="./assets/teasor_renew_1.pdf" alt="Figure 1. Visualizations of personalized image captioning results. In the first row, the zero-shot MLLM frequently fails to generate a personalized caption. The remaining rows illustrate multi-concept scenarios at inference time. Compared to other SFT-based methods, our approach consistently produces faithful and detailed captions while accurately recognizing all provided identities, even for 3 or 4 concepts" width="80%">
+</p>
+
 ## 📦 Installation Guide (Inference Only)
 
 Our codebase has been tested on **CUDA 12.4**. Please follow the instructions below:
