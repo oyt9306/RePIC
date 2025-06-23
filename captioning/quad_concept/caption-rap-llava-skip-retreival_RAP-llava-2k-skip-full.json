@@ -1,0 +1,1157 @@
+[
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<black widow>",
+            "<captain america>"
+        ],
+        "of the sky.</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<black widow>",
+            "<hawkeye>"
+        ],
+        "of her hair.</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<black widow>",
+            "<hulk>"
+        ],
+        ".</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<black widow>",
+            "<scarlet witch>"
+        ],
+        "of her hair.</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<black widow>",
+            "<quick silver>"
+        ],
+        "of her hair.</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<captain america>",
+            "<hawkeye>"
+        ],
+        ".</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<captain america>",
+            "<hulk>"
+        ],
+        ".</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<captain america>",
+            "<scarlet witch>"
+        ],
+        ".</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<captain america>",
+            "<quick silver>"
+        ],
+        ".</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<hawkeye>",
+            "<hulk>"
+        ],
+        ".</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<hawkeye>",
+            "<scarlet witch>"
+        ],
+        ".</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<hawkeye>",
+            "<quick silver>"
+        ],
+        ".</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<hulk>",
+            "<scarlet witch>"
+        ],
+        "s</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<hulk>",
+            "<quick silver>"
+        ],
+        "s.</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<scarlet witch>",
+            "<quick silver>"
+        ],
+        "Name: <Captain America>, Info: Steve Rogers, a former soldier and super-soldier, fights for justice and freedom as the leader of the Avengers. He wields a shield made of vibranium, which grants him superhuman strength, durability, and the ability to deflect energy attacks.\n</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<captain america>",
+            "<hawkeye>"
+        ],
+        ".</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<captain america>",
+            "<hulk>"
+        ],
+        ".</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<captain america>",
+            "<scarlet witch>"
+        ],
+        ".</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<captain america>",
+            "<quick silver>"
+        ],
+        ".</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<hawkeye>",
+            "<hulk>"
+        ],
+        "blond hair and blue eyes.</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<hawkeye>",
+            "<scarlet witch>"
+        ],
+        "blond hair and blue eyes.</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<hawkeye>",
+            "<quick silver>"
+        ],
+        "blond hair and blue eyes.</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<hulk>",
+            "<scarlet witch>"
+        ],
+        "y</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<hulk>",
+            "<quick silver>"
+        ],
+        "y.</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<scarlet witch>",
+            "<quick silver>"
+        ],
+        "ouside.jpg\n</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<captain america>",
+            "<hawkeye>",
+            "<hulk>"
+        ],
+        "and red hair.</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<captain america>",
+            "<hawkeye>",
+            "<scarlet witch>"
+        ],
+        "Name: <Iron Man>, Info: A genius inventor and industrialist, Tony Stark is the creator of the Iron Man suit, a high-tech armor that grants him superhuman strength, flight, and weaponry. As Iron Man, he brings technological prowess and strategic thinking to the Avengers.\n</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<captain america>",
+            "<hawkeye>",
+            "<quick silver>"
+        ],
+        "and blond hair.</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<captain america>",
+            "<hulk>",
+            "<scarlet witch>"
+        ],
+        ".</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<captain america>",
+            "<hulk>",
+            "<quick silver>"
+        ],
+        ".</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<hur>",
+            "<kim>",
+            "<kong>"
+        ],
+        ".</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<hur>",
+            "<kim>",
+            "<moon>"
+        ],
+        ".</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<hur>",
+            "<kim>",
+            "<sul>"
+        ],
+        ".</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<hur>",
+            "<kong>",
+            "<moon>"
+        ],
+        "hair\n4. Name: <Song>, Info: A versatile actress with a wide range of roles under her belt, she is known for her ability to portray both strong and vulnerable characters with equal ease. Her striking beauty and talent have earned her numerous awards and accolades.\n</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<hur>",
+            "<kong>",
+            "<sul>"
+        ],
+        "hair\n4. Name: <Lee>, Info: A versatile actress, she has a wide range of roles under her belt, from romantic leads to strong, independent women. Her captivating smile and expressive eyes make her a favorite among audiences.\n</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<hur>",
+            "<moon>",
+            "<sul>"
+        ],
+        "4. Name: <Lee>, Info: A versatile actor with a wide range of roles under her belt, she is known for her ability to bring depth and nuance to her characters. Her captivating presence and strong acting skills make her a sought-after talent in the industry.\n</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<kim>",
+            "<kong>",
+            "<moon>"
+        ],
+        "4. Not in this image\n</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<kim>",
+            "<kong>",
+            "<sul>"
+        ],
+        "4. Not in this image\n</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<kim>",
+            "<moon>",
+            "<sul>"
+        ],
+        "0</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<kong>",
+            "<moon>",
+            "<sul>"
+        ],
+        "Y.</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<hur>",
+            "<kim>",
+            "<kong>",
+            "<moon>"
+        ],
+        "changi\n</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<hur>",
+            "<kim>",
+            "<kong>",
+            "<sul>"
+        ],
+        "changi\n</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<hur>",
+            "<kim>",
+            "<moon>",
+            "<sul>"
+        ],
+        "or.</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<hur>",
+            "<kong>",
+            "<moon>",
+            "<sul>"
+        ],
+        "</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<kim>",
+            "<kong>",
+            "<moon>",
+            "<sul>"
+        ],
+        "</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<sandy>",
+            "<spongebob>"
+        ],
+        "of the eyes\n4. <Spongebob>, Info: Spongebob is a cheerful, optimistic, and naive sea sponge who lives in the underwater city of Bikini Bottom. He is best friends with Patrick, and works as a fry cook at the Krusty Krab.\n</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<sandy>",
+            "<gary>"
+        ],
+        "sunglasses, and a blue shirt.</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<sandy>",
+            "<mrs.puff>"
+        ],
+        "of the eyes.</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<sandy>",
+            "<patrick>"
+        ],
+        "of a cartoon squirrel.</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<sandy>",
+            "<squidward>"
+        ],
+        "of the eyes, and a red bow.</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<sandy>",
+            "<plankton>"
+        ],
+        ".</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<spongebob>",
+            "<gary>"
+        ],
+        "</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<spongebob>",
+            "<mrs.puff>"
+        ],
+        "</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<spongebob>",
+            "<patrick>"
+        ],
+        "</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<spongebob>",
+            "<squidward>"
+        ],
+        "</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<spongebob>",
+            "<plankton>"
+        ],
+        "</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<gary>",
+            "<mrs.puff>"
+        ],
+        "ed eyes.</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<gary>",
+            "<patrick>"
+        ],
+        "ed eyes.</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<gary>",
+            "<squidward>"
+        ],
+        "y eyes.</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<gary>",
+            "<plankton>"
+        ],
+        "y eyes.</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<mrs.puff>",
+            "<patrick>"
+        ],
+        "1.</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<mrs.puff>",
+            "<squidward>"
+        ],
+        ".</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<mrs.puff>",
+            "<plankton>"
+        ],
+        "1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<patrick>",
+            "<squidward>"
+        ],
+        "1. Mr.Krabs\n 2. Pearl\n</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<patrick>",
+            "<plankton>"
+        ],
+        "</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<squidward>",
+            "<plankton>"
+        ],
+        ".</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<sandy>",
+            "<spongebob>",
+            "<gary>"
+        ],
+        "</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<sandy>",
+            "<spongebob>",
+            "<mrs.puff>"
+        ],
+        "</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<sandy>",
+            "<spongebob>",
+            "<patrick>"
+        ],
+        "</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<sandy>",
+            "<spongebob>",
+            "<squidward>"
+        ],
+        ".</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<sandy>",
+            "<spongebob>",
+            "<plankton>"
+        ],
+        "</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<sandy>",
+            "<gary>",
+            "<mrs.puff>"
+        ],
+        "1. Mr.Krabs\n 2. Sandy\n</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<sandy>",
+            "<gary>",
+            "<patrick>"
+        ],
+        "1. Mr.Krabs\n 2. Sandy\n</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<sandy>",
+            "<gary>",
+            "<squidward>"
+        ],
+        "1. Mr.Krabs\n2. Sandy\n3. Spongebob\n</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<sandy>",
+            "<gary>",
+            "<plankton>"
+        ],
+        "1. Mr.Krabs\n 2. Sandy\n</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<jae>",
+            "<lee>"
+        ],
+        "</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<jae>",
+            "<yang>"
+        ],
+        "</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<jae>",
+            "<lim>"
+        ],
+        "</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<jae>",
+            "<park>"
+        ],
+        "</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<jae>",
+            "<wook>"
+        ],
+        "</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<lee>",
+            "<yang>"
+        ],
+        "</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<lee>",
+            "<lim>"
+        ],
+        "</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<lee>",
+            "<park>"
+        ],
+        "</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<lee>",
+            "<wook>"
+        ],
+        "</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<yang>",
+            "<lim>"
+        ],
+        ".</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<yang>",
+            "<park>"
+        ],
+        ".</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<yang>",
+            "<wook>"
+        ],
+        ".</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<lim>",
+            "<park>"
+        ],
+        "</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<lim>",
+            "<wook>"
+        ],
+        "</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<park>",
+            "<wook>"
+        ],
+        "1.0, 0.0, 0.17, 0.99\n</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<lee>",
+            "<yang>"
+        ],
+        "</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<lee>",
+            "<lim>"
+        ],
+        "4. Not in this image\n</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<lee>",
+            "<park>"
+        ],
+        "</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<lee>",
+            "<wook>"
+        ],
+        "</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<yang>",
+            "<lim>"
+        ],
+        "s.</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<yang>",
+            "<park>"
+        ],
+        "s</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<yang>",
+            "<wook>"
+        ],
+        "s</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<lim>",
+            "<park>"
+        ],
+        "Y.</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<lim>",
+            "<wook>"
+        ],
+        "Y</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<park>",
+            "<wook>"
+        ],
+        ".</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<lee>",
+            "<yang>",
+            "<lim>"
+        ],
+        "</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<lee>",
+            "<yang>",
+            "<park>"
+        ],
+        "</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<lee>",
+            "<yang>",
+            "<wook>"
+        ],
+        "</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<lee>",
+            "<lim>",
+            "<park>"
+        ],
+        "1. Cho\n2. Lee\n3. <Cho>, Info: A rising actress with a bright and cheerful aura, she brings energy to the screen and stage alike. Her youthful confidence and style catch the spotlight with ease.\n</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<lee>",
+            "<lim>",
+            "<wook>"
+        ],
+        "0.16, 0.23, 0.24, 0.32]</s>",
+        "Give a personalized caption of this image."
+    ]
+]

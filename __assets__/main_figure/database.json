@@ -1,0 +1,46 @@
+{
+    "concept_dict": {
+        "<ball>": {
+            "name": "ball",
+            "image": "./__assets__/main_figure/ball.png",
+            "info": "A cheerful animated raccoon with large, expressive eyes and a playful expression stands in a vibrant forest setting.",
+            "category": "human"
+        },
+        "<monster>": {
+            "name": "monster",
+            "image": "./__assets__/main_figure/monster.png",
+            "info": "A curious animated creature with large eyes and pointed ears approaches a melting candle, its hand hovering over the flame.",
+            "category": "human"
+        },
+        "<monster_toy>": {
+            "name": "monster_toy",
+            "image": "./__assets__/main_figure/monster_toy.png",
+            "info": "A playful red plush toy with googly eyes and a cheerful expression sits on a computer monitor in a modern office setting, adding a touch of whimsy to the workspace.",
+            "category": "human"
+        },
+        "<sloth>": {
+            "name": "sloth",
+            "image": "./__assets__/main_figure/sloth.png",
+            "info": "A plush sloth toy sits on a concrete ledge by a waterfront, with a cityscape and trees in the background.",
+            "category": "human"
+        },
+        "<plush>": {
+            "name": "plush",
+            "image": "./__assets__/main_figure/plush.png",
+            "info": "A plush toy with a red, star-shaped body and blue eyes, featuring the 'Paris 2024' logo and Olympic rings, along with patriotic details on its feet.",
+            "category": "human"
+        },
+        "<teddy>": {
+            "name": "teddy",
+            "image": "./__assets__/main_figure/teddy.png",
+            "info": "A cozy, well-loved teddy bear sits on a rustic wooden bench, surrounded by greenery, evoking a sense of nostalgia and comfort.",
+            "category": "human"
+        },
+        "<otter>": {
+            "name": "otter",
+            "image": "./__assets__/main_figure/otter.png",
+            "info": "An animated otter enjoys a thrilling ride on a surfboard, wearing a life vest and smiling with excitement against a backdrop of turquoise waters and lush greenery.",
+            "category": "human"
+        }
+    }
+}

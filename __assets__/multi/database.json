@@ -1,0 +1,27 @@
+{
+    "concept_dict": {
+        "<A>": {
+            "name": "A",
+            "image": "./__assets__/multi/bengio.jpg",
+            "info": "He is a professor at the Université de Montréal.",
+            "category": "human"
+        },
+        "<B>": {
+            "name": "B",
+            "image": "./__assets__/multi/lecun.jpg",
+            "info": "He is a Chief AI Scientist at Meta.",
+            "category": "human"
+        },
+        "<C>": {
+            "name": "C",
+            "image": "./__assets__/multi/hinton.jpg",
+            "info": "He is a Nobel laureate in physics at 2024.",
+            "category": "human"
+        }
+    },
+    "path_to_concept": {
+        "./__assets__/multi/bengio.jpg": "<A>",
+        "./__assets__/multi/lecun.jpg": "<B>",
+        "./__assets__/multi/hinton.jpg": "<C"
+    }
+}

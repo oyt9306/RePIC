@@ -1,0 +1,740 @@
+[
+    [
+        "./multi_concept_images/Anya_and_Bond/Anya_and_Bond_1.jpg",
+        [
+            "<Anya>",
+            "<Bond>"
+        ],
+        "In this image, <Anya> is seen sitting at a table with <Bond>, the white dog wearing a black bow tie. The scene appears to be indoors, possibly in a cozy setting.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./multi_concept_images/Anya_and_Bond/Anya_and_Bond_2.jpg",
+        [
+            "<Anya>",
+            "<Bond>"
+        ],
+        "In this image, <Anya> is seen hugging <Bond>, the white dog wearing a black bow tie, in a cozy indoor setting.",
+        "Give a caption of the image."
+    ],
+    [
+        "./multi_concept_images/Anya_and_Bond/Anya_and_Bond_3.jpg",
+        [
+            "<Anya>",
+            "<Bond>"
+        ],
+        "In this image, <Anya> stands next to her loyal companion, <Bond>, a white dog adorned with a black bow tie. They appear to be in a cozy indoor setting, with <Anya> smiling warmly at the camera while <Bond> looks directly ahead.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./multi_concept_images/Anya_and_Bond/Anya_and_Bond_4.jpg",
+        [
+            "<Anya>",
+            "<Bond>"
+        ],
+        "<Anya> is seen crouching down next to <Bond>, who is eating from a bowl on the floor, in what appears to be a cozy indoor setting.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./multi_concept_images/Anya_and_Bond/Anya_and_Bond_5.jpg",
+        [
+            "<Anya>",
+            "<Bond>"
+        ],
+        "In this image, <Anya> is seen embracing <Bond>, the white dog adorned with a black bow tie, in a warm and affectionate moment. The setting appears to be indoors, with a cityscape visible through the window in the background.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./multi_concept_images/Anya_and_Bond/Anya_and_Bond_6.jpg",
+        [
+            "<Anya>",
+            "<Bond>"
+        ],
+        "In this image, <Anya> stands joyfully in front of <Bond>, who is sitting on the floor. <Anya>'s arms are raised in excitement as she interacts with her adorable white dog companion, <Bond>, who is adorned with a charming black bow tie. The scene captures a moment of happiness and companionship between the two characters.",
+        "Give a caption of the image."
+    ],
+    [
+        "./multi_concept_images/Anya_and_Bond/Anya_and_Bond_7.jpg",
+        [
+            "<Anya>",
+            "<Bond>"
+        ],
+        "In this image, <Anya> is seen kneeling on the floor, smiling warmly as she interacts with <Bond>, who is a large white dog adorned with a black bow tie. Behind them stands another character, <Penguin>, a blue and white bird-like creature. The setting appears to be indoors, with a cozy and playful atmosphere.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./multi_concept_images/Anya_and_Bond/Anya_and_Bond_8.jpg",
+        [
+            "<Anya>",
+            "<Bond>"
+        ],
+        "In this image, <Anya> and <Bond> share a heartwarming moment together. <Anya>, the young girl with pink hair and big green eyes, stands next to her loyal companion, <Bond>, the white dog adorned with a black bow tie. Their close bond is evident in their expressions and the way they interact.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./multi_concept_images/Anya_and_Bond/Anya_and_Bond_9.jpg",
+        [
+            "<Anya>",
+            "<Bond>"
+        ],
+        "In this image, <Anya> looks surprised as she stands next to her loyal companion, <Bond>. The scene captures a moment of unexpected interaction between the two characters.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./multi_concept_images/Anya_and_Bond/Anya_and_Bond_10.jpg",
+        [
+            "<Anya>",
+            "<Bond>"
+        ],
+        "In this lively scene, <Anya> is seen joyfully riding on <Bond>'s back, showcasing their playful bond in a bustling urban setting.",
+        "Give a caption of the image."
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_1.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "Here's a caption for the query image:\n\n\"Two plush toys, <Bingo> and <Bluey>, are displayed side by side on a green signpost in a forest setting. <Bingo>, the orange plush toy, has a yellow belly and a brown nose, while <Bluey>, the light blue plush toy, features a purple patch on its head and yellow ears.\"",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_2.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "In this image, two plush toys, <Bingo> and <Bluey>, are being held by hands in a forest setting. <Bingo>, the orange plush toy, has a yellow belly and a brown nose, while <Bluey>, the light blue plush toy, features a purple patch on its head and yellow ears. The background consists of trees and a natural outdoor environment.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_3.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "Here's a personalized caption for the query image:\n\n\"Two adorable plush toys, <Bingo> and <Bluey>, sitting together on a couch. <Bingo>, the orange dog with a yellow belly and brown nose, and <Bluey>, the light blue dog with a purple patch on its head and yellow ears, create a charming scene.\"",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_4.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "The query image shows two plush toys, <Bluey> and <Bingo>, sitting in the back seats of a car. <Bluey> is a light blue plush toy with a purple patch on its head and yellow ears, while <Bingo> is an orange plush toy with a yellow belly and a brown nose. The car's interior features Maxi-Cosi child seats.",
+        "Give a caption of the image."
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_5.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "In the query image, we see two plush toys, <Bluey> and <Bingo>. <Bluey> is a light blue plush toy with a purple patch on its head and yellow ears, while <Bingo> is an orange plush toy with a yellow belly and a brown nose. They are standing next to each other near some colorful building blocks.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_6.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "In the query image, we see two plush toys, <Bluey> and <Bingo>. <Bluey> is a light blue plush toy with a purple patch on its head and yellow ears, while <Bingo> is an orange plush toy with a yellow belly and a brown nose. They appear to be playing together with colorful building blocks on a wooden floor.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_7.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "In the query image, there are two plush toys, <Bluey> and <Bingo>. <Bluey> is a light blue plush toy with a purple patch on its head and yellow ears, while <Bingo> is an orange plush toy with a yellow belly and a brown nose. They are sitting on chairs in a room with a white table in front of them.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_8.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "In this image, we see two beloved plush toys, <Bluey> and <Bingo>. <Bluey>, the light blue plush toy with a purple patch on its head and yellow ears, stands next to <Bingo>, the orange plush toy with a yellow belly and a brown nose. They are positioned near a sink in what appears to be a bathroom setting.",
+        "Give a caption of the image."
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_9.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "Here's a personalized caption for the query image:\n\n\"Two adorable plush toys, <Bluey> and <Bingo>, sitting together on a leaf-covered ground. <Bluey> is the light blue character with a purple patch on its head and yellow ears, while <Bingo> is the orange character with a yellow belly and a brown nose.\"",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_10.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "In the query image, there are two plush toys, <Bluey> and <Bingo>. <Bluey> is a light blue plush toy with a purple patch on its head and yellow ears, while <Bingo> is an orange plush toy with a yellow belly and a brown nose. They are placed together on a bed with colorful pillows and a patterned blanket.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_11.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "The query image shows two plush toys, <Bluey> and <Bingo>. <Bluey> is a light blue plush toy with a purple patch on its head and yellow ears, while <Bingo> is an orange plush toy with a yellow belly and a brown nose. They are sitting together on a wooden surface with bubbles floating around them against a maroon background.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_12.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "In the query image, we see two plush toys, <Bluey> and <Bingo>. <Bluey> is a light blue plush toy with a purple patch on its head and yellow ears, while <Bingo> is an orange plush toy with a yellow belly and a brown nose. They are positioned in front of a decorated Christmas tree, creating a festive scene.",
+        "Give a caption of the image."
+    ],
+    [
+        "./multi_concept_images/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_1.jpg",
+        [
+            "<Bull_dog>",
+            "<Baby_Q>"
+        ],
+        "In this heartwarming scene, <Bull_dog> the French Bulldog curiously sniffs <Baby_Q>, the peaceful baby sleeping in a carrier. The baby is wrapped in a soft, colorful blanket with a playful pattern, while <Bull_dog> leans in, showing a gentle interest in its new companion.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./multi_concept_images/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_2.jpg",
+        [
+            "<Bull_dog>",
+            "<Baby_Q>"
+        ],
+        "A french bulldog named <Bull_dog> is looking at a baby named <Baby_Q>. The baby is sleeping peacefully in a carrier with a soft, colorful blanket and is secured by a black strap.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./multi_concept_images/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_3.jpg",
+        [
+            "<Bull_dog>",
+            "<Baby_Q>"
+        ],
+        "A french bulldog named <Bull_dog> is sitting on a couch next to a baby wearing yellow pajamas with a yellow headband.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./multi_concept_images/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_4.jpg",
+        [
+            "<Bull_dog>",
+            "<Baby_Q>"
+        ],
+        "In this heartwarming scene, <Baby_Q> and <Bull_dog> share a cozy moment together. <Baby_Q> is dressed in a purple onesie, while <Bull_dog> rests comfortably beside them, creating a sweet bond between the two.",
+        "Give a caption of the image."
+    ],
+    [
+        "./multi_concept_images/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_5.jpg",
+        [
+            "<Bull_dog>",
+            "<Baby_Q>"
+        ],
+        "In this image, we see <Baby_Q> and <Bull_dog> together on a bed. <Baby_Q> appears to be looking at <Bull_dog>, who seems to be observing <Baby_Q> with curiosity. The scene captures a tender moment between the two.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./multi_concept_images/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_6.jpg",
+        [
+            "<Bull_dog>",
+            "<Baby_Q>"
+        ],
+        "In this image, we see <Baby_Q> lying on a play mat, wrapped in a yellow blanket with polar bear prints, while <Bull_dog> sits nearby, attentively watching over them.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./multi_concept_images/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_7.jpg",
+        [
+            "<Bull_dog>",
+            "<Baby_Q>"
+        ],
+        "A french bulldog named <Bull_dog> is lying next to a baby named <Baby_Q>. The baby is sleeping peacefully in a carrier with a soft, colorful blanket and is secured by a black strap.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./multi_concept_images/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_8.jpg",
+        [
+            "<Bull_dog>",
+            "<Baby_Q>"
+        ],
+        "In this image, we see <Bull_dog> sitting attentively next to a baby, who appears to be <Baby_Q>. The baby is lying on a play mat with various toys hanging above, creating a cozy and playful environment.",
+        "Give a caption of the image."
+    ],
+    [
+        "./multi_concept_images/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_9.jpg",
+        [
+            "<Bull_dog>",
+            "<Baby_Q>"
+        ],
+        "In this image, we see <Baby_Q> and <Bull_dog>. <Baby_Q> is lying on a play mat with toys around, while <Bull_dog> is resting nearby, creating a cozy and playful scene.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./multi_concept_images/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_10.jpg",
+        [
+            "<Bull_dog>",
+            "<Baby_Q>"
+        ],
+        "In this heartwarming scene, <Baby_Q> and <Bull_dog> share a cozy moment on a couch. <Baby_Q> is dressed in a \"Best Friends\" onesie, while <Bull_dog> sits attentively beside her, creating a sweet bond between the two.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_1.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "In this image, <C_dog> the black and white border collie dog is seen lying on a white mat, looking directly at the camera. Next to <C_dog>, <G_cat> the small ginger kitten with bright blue eyes is also on the mat, appearing to be resting or sleeping. The scene takes place in a room with a blue wall and a brown pet carrier visible in the background.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_2.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "In this image, <C_dog> the black and white border collie dog is seen sitting on a white textured surface while <G_cat> the small ginger kitten with bright blue eyes is being held by a person in a red checkered shirt. The text \"Day 3\" appears in the top left corner, indicating that this scene might be part of a series or a timeline.",
+        "Give a caption of the image."
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_3.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "A <C_dog> is holding a <G_cat> in its mouth while a person holds it. The <G_cat> appears to be a newborn kitten, and the scene takes place on a towel.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_4.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "In this image, <C_dog> the black and white border collie dog is looking at <G_cat> the small ginger kitten with bright blue eyes who is inside a basket. The text \"Day 8\" is visible in the top left corner.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_5.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "<C_dog> stands on a white mat, looking towards <G_cat>. The text \"Day 14\" appears in the top left corner.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_6.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "On Day 15, <C_dog> the black and white border collie dog is seen lying on a white mat, accompanied by <G_cat>, the small ginger kitten with bright blue eyes. The kitten is standing next to <C_dog>, looking up at the camera.",
+        "Give a caption of the image."
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_7.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "On Day 16, <C_dog> the black and white border collie dog is seen lying down on a bed, with <G_cat> the small ginger kitten with bright blue eyes nestled close to her. The scene captures a heartwarming moment between the two pets.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_8.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "On Day 19, <C_dog> the black and white border collie dog is seen lying on a bed, looking happy and content. <G_cat> the small ginger kitten with bright blue eyes is standing next to <C_dog>, seemingly curious and playful. The scene captures a heartwarming moment between the two pets.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_9.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "<C_dog> is looking at <G_cat> who is in a litter box.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_10.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "On Day 28, <C_dog> the black and white border collie dog sits calmly next to <G_cat>, the small ginger kitten with bright blue eyes, as they both rest on a cozy mat in their shared space.",
+        "Give a caption of the image."
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_11.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "On Day 29, <C_dog> the black and white border collie dog and <G_cat> the small ginger kitten with bright blue eyes share a cozy moment together on a raised platform.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_12.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "A black and white border collie dog, <C_dog>, looks at a small ginger kitten, <G_cat>, who is sitting in a cat tree. The text \"Day 37\" appears in the top left corner.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_13.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "On Day 44, <C_dog> the black and white border collie dog interacts with <G_cat>, the small ginger kitten with bright blue eyes, as they explore their surroundings together.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./multi_concept_images/Character_A_and_Character_B/Character_A_and_Character_B_1.jpg",
+        [
+            "<Character_A>",
+            "<Character_B>"
+        ],
+        "In this image, <Character_A> and <Character_B> are standing together in what appears to be a cozy indoor setting. <Character_A>, the cartoon rabbit, looks up at <Character_B>, the cartoon fox, with a curious expression. The background features a person in striped pants and a patterned skirt, adding depth to the scene.",
+        "Give a caption of the image."
+    ],
+    [
+        "./multi_concept_images/Character_A_and_Character_B/Character_A_and_Character_B_2.jpg",
+        [
+            "<Character_A>",
+            "<Character_B>"
+        ],
+        "In this image, we see <Character_A> and <Character_B> standing together in what appears to be a hallway or corridor. <Character_A>, the cartoon rabbit, is dressed as a police officer, while <Character_B>, the cartoon fox, is wearing a button-down shirt and a tie. They seem to be engaged in a conversation or interaction, with <Character_B> looking at <Character_A> with a curious expression.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./multi_concept_images/Character_A_and_Character_B/Character_A_and_Character_B_3.jpg",
+        [
+            "<Character_A>",
+            "<Character_B>"
+        ],
+        "In this image, <Character_A> and <Character_B> are standing together in front of a building with a large \"Z\" on it. <Character_A>, the cartoon rabbit, looks surprised as she holds her shield, while <Character_B>, the cartoon fox, appears to be holding a wooden stick. They seem to be in a playful or humorous situation, possibly from an animated movie or show.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./multi_concept_images/Character_A_and_Character_B/Character_A_and_Character_B_4.jpg",
+        [
+            "<Character_A>",
+            "<Character_B>"
+        ],
+        "In this image, <Character_A> and <Character_B> are having a conversation at a counter in what appears to be a public place. <Character_A> looks curious and attentive, while <Character_B> seems to be explaining something with a confident expression.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./multi_concept_images/Character_A_and_Character_B/Character_A_and_Character_B_5.jpg",
+        [
+            "<Character_A>",
+            "<Character_B>"
+        ],
+        "In the query image, <Character_A> and <Character_B> are seen in what appears to be a tense or serious conversation. <Character_A>, the cartoon rabbit, stands with her hands clasped together, while <Character_B>, the cartoon fox, looks at her with a concerned expression. The setting seems to be an office or archive room filled with filing cabinets and boxes, suggesting they might be discussing something important or confidential.",
+        "Give a caption of the image."
+    ],
+    [
+        "./multi_concept_images/Character_A_and_Character_B/Character_A_and_Character_B_6.jpg",
+        [
+            "<Character_A>",
+            "<Character_B>"
+        ],
+        "In this image, <Character_A> and <Character_B> are seen together in a lighthouse. <Character_A> looks curious while <Character_B> appears to be explaining something, creating a scene of intrigue and camaraderie between the two characters.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./multi_concept_images/Character_A_and_Character_B/Character_A_and_Character_B_7.jpg",
+        [
+            "<Character_A>",
+            "<Character_B>"
+        ],
+        "In this image, <Character_A> and <Character_B> are enjoying a scenic ride together in a vehicle. <Character_A>, with her sweet expression and protective gear, looks out the window, while <Character_B> leans over, grinning mischievously. The background reveals a beautiful sunset, adding warmth to their adventure.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./multi_concept_images/Character_A_and_Character_B/Character_A_and_Character_B_8.jpg",
+        [
+            "<Character_A>",
+            "<Character_B>"
+        ],
+        "In this scene from the animated movie, <Character_A> and <Character_B> are standing in a dimly lit room, looking surprised or concerned. The background suggests they might be inside a vehicle or a control room.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./multi_concept_images/Character_A_and_Character_B/Character_A_and_Character_B_9.jpg",
+        [
+            "<Character_A>",
+            "<Character_B>"
+        ],
+        "In this scene, <Character_A> and <Character_B> appear to be in a serious conversation, possibly discussing a case or a mission. The setting seems to be a formal office or meeting room, as indicated by the presence of a desk and what looks like a judge or authority figure in the background. The expressions on their faces suggest that they are engaged in a critical discussion, with <Character_A> looking concerned and <Character_B> maintaining a composed demeanor.",
+        "Give a caption of the image."
+    ],
+    [
+        "./multi_concept_images/Character_A_and_Character_B/Character_A_and_Character_B_10.jpg",
+        [
+            "<Character_A>",
+            "<Character_B>"
+        ],
+        "In this scene from the animated movie, <Character_A> and <Character_B> find themselves in a tense situation. <Character_A>, the cartoon rabbit, looks surprised as she clutches her safety vest, while <Character_B>, the cartoon fox, appears to be in a state of panic or urgency. The background suggests they might be in a courtroom or a similar setting, with handcuffs visible on the table and a figure in formal attire standing behind them.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./multi_concept_images/H_and_T/H_and_T_1.jpg",
+        [
+            "<H>",
+            "<T>"
+        ],
+        "In the car, <H> is driving while <T> sits in the passenger seat, both looking forward with <T> smiling.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./multi_concept_images/H_and_T/H_and_T_2.jpg",
+        [
+            "<H>",
+            "<T>"
+        ],
+        "In the kitchen, <H> and <T> are preparing a meal together. <H>, wearing a plain tan t-shirt, stands beside <T>, who is slicing tomatoes on a cutting board while wearing a white tank top and blue jeans. The scene captures a moment of collaboration in their shared space.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./multi_concept_images/H_and_T/H_and_T_3.jpg",
+        [
+            "<H>",
+            "<T>"
+        ],
+        "In this image, <H> and <T> are seen together in a parking lot. <H> is driving a golf cart while <T> is seated beside him, appearing to be engaged in conversation or activity related to the cart's contents. The setting suggests they might be shopping or running errands together.",
+        "Give a caption of the image."
+    ],
+    [
+        "./multi_concept_images/H_and_T/H_and_T_4.jpg",
+        [
+            "<H>",
+            "<T>"
+        ],
+        "A young man and woman, <H> and <T>, respectively, are squatting in front of a parked truck. <H> is wearing a green t-shirt and <T> is wearing a white t-shirt with a Ford logo and blue jeans.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./multi_concept_images/H_and_T/H_and_T_5.jpg",
+        [
+            "<H>",
+            "<T>"
+        ],
+        "A young man named <H> and a young woman named <T> are walking down a street, with <H> taking a selfie in front of a storefront.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./multi_concept_images/H_and_T/H_and_T_6.jpg",
+        [
+            "<H>",
+            "<T>"
+        ],
+        "In the image, <H> and <T> are standing in a bathroom. <H> is wearing a plain tan t-shirt and has short, curly hair, while <T> is wearing a white tank top and blue jeans. Both individuals have their hands raised near their heads, possibly adjusting their hair or styling it. The background includes a glass shower door and a closet with shelves.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./multi_concept_images/H_and_T/H_and_T_7.jpg",
+        [
+            "<H>",
+            "<T>"
+        ],
+        "In this image, <H> and <T> are standing in a bathroom. <H> is wearing a tan t-shirt and has short, curly hair, while <T> is wearing a white tank top and blue jeans. Both individuals have their hands raised near their heads, possibly adjusting or styling their hair.",
+        "Give a caption of the image."
+    ],
+    [
+        "./multi_concept_images/H_and_T/H_and_T_8.jpg",
+        [
+            "<H>",
+            "<T>"
+        ],
+        "In the query image, <H> and <T> are sitting in a car. <H> is on the left side, wearing a tan t-shirt, while <T> is on the right, driving and wearing a white tank top and blue jeans.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./multi_concept_images/H_and_T/H_and_T_9.jpg",
+        [
+            "<H>",
+            "<T>"
+        ],
+        "In the sunny outdoor setting, <H> and <T> stand together, enjoying a day out at what appears to be a park or amusement area. <H>'s casual tan t-shirt contrasts with <T>'s stylish white tank top and blue jeans, while both individuals seem to be in high spirits, possibly sharing a fun moment during their outing.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./multi_concept_images/H_and_T/H_and_T_10.jpg",
+        [
+            "<H>",
+            "<T>"
+        ],
+        "A young man named <H> is eating a donut while standing next to a young woman named <T>. They appear to be enjoying their time together at an outdoor event.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./multi_concept_images/J_and_K/J_and_K_1.jpg",
+        [
+            "<J>",
+            "<K>"
+        ],
+        "In the query image, <J> and <K> are seated at a table in a modern café setting. <J>, wearing a white t-shirt and black shorts, is engaged in conversation with <K>, who is dressed in a blue polka-dotted dress and has her hair tied back with a brown and white scrunchie. The café features a stylish interior with wooden flooring and metal railings, creating a contemporary ambiance.",
+        "Give a caption of the image."
+    ],
+    [
+        "./multi_concept_images/J_and_K/J_and_K_2.jpg",
+        [
+            "<J>",
+            "<K>"
+        ],
+        "In a cozy restaurant setting, <J> and <K> enjoy a meal together at a table adorned with various dishes and drinks. The atmosphere is warm and inviting, with other patrons visible in the background.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./multi_concept_images/J_and_K/J_and_K_3.jpg",
+        [
+            "<J>",
+            "<K>"
+        ],
+        "In this image, <J> and <K> are standing outside near a building with a mural that says \"SPACE.\" They both appear to be enjoying some snacks or treats while engaging in conversation. The setting includes greenery and a sidewalk, creating a casual and relaxed atmosphere.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./multi_concept_images/J_and_K/J_and_K_4.jpg",
+        [
+            "<J>",
+            "<K>"
+        ],
+        "In this image, <J> and <K> are standing outside near a building with a colorful mural. They are both holding small objects in their hands and appear to be engaged in a conversation or activity together. The scene is bright and sunny, with greenery visible in the background.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./multi_concept_images/J_and_K/J_and_K_5.jpg",
+        [
+            "<J>",
+            "<K>"
+        ],
+        "In the query image, <J> and <K> are seated at a table in a modern café setting. <J>, dressed in a white t-shirt and black shorts, is leaning forward, appearing engaged in conversation or activity on the table. <K>, wearing a blue polka-dotted dress with a matching skirt, sits across from <J>. The café has a contemporary design with wooden flooring, metal railings, and a backdrop featuring the \"POSCO Steel Gallery\" signage. Both individuals have drinks on their table, suggesting they might be enjoying a casual meeting or date.",
+        "Give a caption of the image."
+    ],
+    [
+        "./multi_concept_images/J_and_K/J_and_K_6.jpg",
+        [
+            "<J>",
+            "<K>"
+        ],
+        "A man and a woman are standing in front of a large aquarium, observing the fish inside. The woman, <K>, is wearing a blue polka-dotted dress and has her hair tied back with a brown and white scrunchie. The man, <J>, is wearing a white t-shirt and black shorts.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./multi_concept_images/J_and_K/J_and_K_7.jpg",
+        [
+            "<J>",
+            "<K>"
+        ],
+        "In the query image, <J> and <K> are standing on a balcony filled with greenery and bicycles. <J> is wearing a white t-shirt and patterned shorts, while <K> is dressed in a blue polka-dotted outfit with her hair tied back using a brown and white scrunchie. They appear to be engaged in conversation, enjoying the sunny day outdoors.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./multi_concept_images/J_and_K/J_and_K_8.jpg",
+        [
+            "<J>",
+            "<K>"
+        ],
+        "In this cozy indoor setting, <J> and <K> share a moment together. <J>, dressed casually in a white t-shirt and black shorts, sits comfortably on a stool, while <K>, wearing a stylish blue polka-dotted dress with a brown and white scrunchie, sits beside him. The scene exudes a relaxed and intimate atmosphere, with <J> and <K> enjoying each other's company amidst a backdrop of bicycles and home decor.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./multi_concept_images/Parrot_1_and_Parrot_2/Parrot_1_and_Parrot_2_1.jpg",
+        [
+            "<Parrot_1>",
+            "<Parrot_2>"
+        ],
+        "<Parrot_1> and <Parrot_2> are perched together on a palm leaf, showcasing their vibrant colors and unique features.",
+        "Give a caption of the image."
+    ],
+    [
+        "./multi_concept_images/Parrot_1_and_Parrot_2/Parrot_1_and_Parrot_2_2.jpg",
+        [
+            "<Parrot_1>",
+            "<Parrot_2>"
+        ],
+        "In this image, we see two parrots, <Parrot_1> and <Parrot_2>. <Parrot_1> is a green parrot with a bright red beak, perched on a branch, while <Parrot_2> is a light blue parrot with pink feet, a light blue head, and a white ring around its neck, perched on a leaf. The background features lush green foliage, creating a vibrant and natural setting.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./multi_concept_images/Parrot_1_and_Parrot_2/Parrot_1_and_Parrot_2_3.jpg",
+        [
+            "<Parrot_1>",
+            "<Parrot_2>"
+        ],
+        "<Parrot_1> and <Parrot_2> are perched together on a large leaf, showcasing their vibrant colors and unique features.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./multi_concept_images/Parrot_1_and_Parrot_2/Parrot_1_and_Parrot_2_4.jpg",
+        [
+            "<Parrot_1>",
+            "<Parrot_2>"
+        ],
+        "Here's a caption for the provided image:\n\n\"Two colorful parrots, <Parrot_1> and <Parrot_2>, are perched together on a wooden surface in a vibrant outdoor setting.\"",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./multi_concept_images/Parrot_1_and_Parrot_2/Parrot_1_and_Parrot_2_5.jpg",
+        [
+            "<Parrot_1>",
+            "<Parrot_2>"
+        ],
+        "In this image, we see three parrots perched on a branch. The first parrot, <Parrot_1>, is a green parrot with a bright red beak. The second parrot, <Parrot_2>, is a light blue parrot with pink feet, a light blue head, and a white ring around its neck. The third parrot is a yellow parrot with a pink beak.",
+        "Give a caption of the image."
+    ],
+    [
+        "./multi_concept_images/Parrot_1_and_Parrot_2/Parrot_1_and_Parrot_2_6.jpg",
+        [
+            "<Parrot_1>",
+            "<Parrot_2>"
+        ],
+        "<Parrot_1> and <Parrot_2> are two colorful parrots. <Parrot_1> is a green parrot with a bright red beak, while <Parrot_2> is a light blue parrot with pink feet, a light blue head, and a white ring around its neck. They are standing together in a rustic setting.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./multi_concept_images/Parrot_1_and_Parrot_2/Parrot_1_and_Parrot_2_7.jpg",
+        [
+            "<Parrot_1>",
+            "<Parrot_2>"
+        ],
+        "<Parrot_1> and <Parrot_2> are perched together on a branch, showcasing their vibrant colors and unique features in a natural setting.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./multi_concept_images/Parrot_1_and_Parrot_2/Parrot_1_and_Parrot_2_8.jpg",
+        [
+            "<Parrot_1>",
+            "<Parrot_2>"
+        ],
+        "In the query image, we see three colorful parrots perched together on a branch in a lush, green environment. The parrot on the left, <Parrot_1>, is a vibrant green with a bright red beak. In the center, there's a <Parrot_3> with a striking combination of red, black, and yellow feathers. On the right, <Parrot_2> is a light blue parrot with pink feet, a light blue head, and a white ring around its neck. The background features a field of yellow flowers and trees, creating a picturesque setting for these beautiful birds.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./multi_concept_images/Parrot_1_and_Parrot_2/Parrot_1_and_Parrot_2_9.jpg",
+        [
+            "<Parrot_1>",
+            "<Parrot_2>"
+        ],
+        "<Parrot_1> and <Parrot_2> are seen interacting with each other in this image, with <Parrot_1> displaying its vibrant green feathers and <Parrot_2> showcasing its light blue plumage.",
+        "Give a caption of the image."
+    ]
+]

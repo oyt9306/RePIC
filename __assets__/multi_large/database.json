@@ -1,0 +1,51 @@
+{
+    "concept_dict": {
+        "<jeff>": {
+            "name": "A",
+            "image": "./__assets__/multi_large/jeff.jpg",
+            "info": "He is a CEO of Amazon.",
+            "category": "human"
+        },
+        "<lecun>": {
+            "name": "B",
+            "image": "./__assets__/multi_large/lecun.jpg",
+            "info": "He is a Chief AI Scientist at Meta.",
+            "category": "human"
+        },
+        "<elon>": {
+            "name": "elon",
+            "image": "./__assets__/multi_large/elon.jpg",
+            "info": "He is a CEO of TESLA.",
+            "category": "human"
+        },
+        "<mark>": {
+            "name": "C",
+            "image": "./__assets__/multi_large/mark.jpg",
+            "info": "He is a CEO of META.",
+            "category": "human"
+        },
+        "<sam>": {
+            "name": "sam",
+            "image": "./__assets__/multi_large/sam.jpg",
+            "info": "He is a CEO of OPENAI.",
+            "category": "human"
+        },
+        "<sundar>": {
+            "name": "sundar",
+            "image": "./__assets__/multi_large/sundar.jpeg",
+            "info": "He is a CEO of Google.",
+            "category": "human"
+        },
+        "<jenson>": {
+            "name": "jenson",
+            "image": "./__assets__/multi_large/jenson.jpg",
+            "info": "He is a CEO of NVIDIA.",
+            "category": "human"
+        }
+    },
+    "path_to_concept": {
+        "./__assets__/multi_large/bengio.jpg": "<A>",
+        "./__assets__/multi_large/lecun.jpg": "<B>",
+        "./__assets__/multi_large/hinton.jpg": "<C"
+    }
+}

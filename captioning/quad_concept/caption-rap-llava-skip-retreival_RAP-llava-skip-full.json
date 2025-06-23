@@ -1,0 +1,1157 @@
+[
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<black widow>",
+            "<captain america>"
+        ],
+        "Name: <Black Widow>, Info: A highly skilled assassin and spy, Natasha Romanoff uses her combat training, agility, and expertise in various martial arts to fight alongside the Avengers.\n</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<black widow>",
+            "<hawkeye>"
+        ],
+        "Name: <Black Widow>, Info: A highly skilled assassin and spy, Natasha Romanoff uses her expert combat skills, agility, and tactical knowledge to aid the Avengers in their missions.\n4.[0.58, 0.31, 0.72, 0.8]\nName: <Captain America>, Info: Steve Rogers, a former soldier transformed into a super-soldier, leads the Avengers with his unwavering sense of duty, integrity, and physical prowess. He wields a shield",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<black widow>",
+            "<hulk>"
+        ],
+        "Name: <Black Widow>, Info: A highly skilled assassin and spy, Natasha Romanoff uses her agility, martial arts expertise, and advanced weaponry to fight alongside the Avengers.\n4.[0.59, 0.31, 0.74, 0.8]\nName: <Captain America>, Info: Steve Rogers, a former soldier transformed into a super-soldier, uses his enhanced strength, agility, and combat skills to lead the Avengers. He wields a shield made of vibran",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<black widow>",
+            "<scarlet witch>"
+        ],
+        "Name: <Black Widow>, Info: Natasha Romanoff, a highly skilled spy and assassin, uses her combat training and advanced technology to aid the Avengers in their fight against evil.\n</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<black widow>",
+            "<quick silver>"
+        ],
+        "Name: <Black Widow>, Info: A highly skilled assassin and spy, Natasha Romanoff uses her expertise in martial arts and espionage to aid the Avengers in their missions.\n</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<captain america>",
+            "<hawkeye>"
+        ],
+        "Name: <Captain America>, Info: Steve Rogers, a former soldier transformed into a super-soldier by the Super Soldier Serum, leads the Avengers as Captain America. He is a skilled fighter and tactician, wielding a shield made of the indestructible metal Vibranium.\n4.[0.0, 0.35, 0.12, 0.82]\nName: <Loki>, Info: The God of Mischief, Loki is a master of deception and manipulation. He uses his powers of",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<captain america>",
+            "<hulk>"
+        ],
+        "Name: <Captain America>, Info: Steve Rogers, a former soldier transformed into a super-soldier, wields the shield of his friend Bucky Barnes and fights for justice and freedom. He is the leader of the Avengers.\n4.[0.2, 0.33, 0.34, 0.78]\nName: <Thor>, Info: Thor is the Norse God of Thunder, wielding the enchanted hammer Mj\u00f6lnir, which grants him control over lightning and the ability to fly. As",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<captain america>",
+            "<scarlet witch>"
+        ],
+        "Name: <Captain America>, Info: Steve Rogers, a former soldier transformed into a super-soldier, uses his enhanced strength, agility, and combat skills to fight for justice as Captain America. He is a founding member of the Avengers and leads the team with his unwavering integrity and courage.\n4.[0.06, 0.34, 0.21, 0.77]\nName: <Black Widow>, Info: Natasha Romanoff, a highly skilled spy and assassin, uses her expert combat ab",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<captain america>",
+            "<quick silver>"
+        ],
+        "Name: <Captain America>, Info: Steve Rogers, a former soldier transformed into a super-soldier by the Super Soldier Serum, fights for justice and leads the Avengers as their moral compass.\n4.[0.0, 0.34, 0.1, 0.82]\nName: <Hawkeye>, Info: Clint Barton, a skilled archer and master of various weapons, is a key member of the Avengers, providing precision and accuracy in battle.\n</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<hawkeye>",
+            "<hulk>"
+        ],
+        "slicked-back hair and blue eyes. He is a skilled archer and a member of the Avengers.\nName: <Hawkeye>, Info: Clint Barton is a highly skilled archer and a founding member of the Avengers. He is a master of various archery techniques and has a strong sense of responsibility.\n4.[0.4, 0.31, 0.53, 0.82]\nName: <The Hulk>, Info: Dr. Bruce Banner, when exposed to gamma radiation, transforms into the Hulk",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<hawkeye>",
+            "<scarlet witch>"
+        ],
+        "slicked-back hair and blue eyes. He is a skilled archer and a member of the Avengers.\nName: <Hawkeye>, Info: Clinton \"Clint\" Barton, also known as Hawkeye, is a skilled archer and a member of the Avengers. He is a former S.H.I.E.L.D. agent and has a strong sense of duty and loyalty.\n</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<hawkeye>",
+            "<quick silver>"
+        ],
+        "slicked-back hair and blue eyes. He is a skilled archer and a member of the Avengers.\nName: <Hawkeye>, Info: Clint Barton is a highly skilled archer and a member of the Avengers. He uses a specially designed bow and arrow to take down enemies.\n</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<hulk>",
+            "<scarlet witch>"
+        ],
+        "Name: <The Hulk>, Info: The Hulk is a monstrous, green-skinned creature with immense strength and durability. He is the result of a failed experiment by Bruce Banner, who transforms into the Hulk when under stress or anger.\n</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<hulk>",
+            "<quick silver>"
+        ],
+        "0.5, 0.22, 0.64, 0.46]\nName: <The Hulk>, Info: Dr. Bruce Banner, a brilliant scientist, transforms into the incredibly powerful and aggressive Hulk when exposed to gamma radiation. He is a member of the Avengers and uses his immense strength and durability to protect the world.\n</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<scarlet witch>",
+            "<quick silver>"
+        ],
+        "</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<captain america>",
+            "<hawkeye>"
+        ],
+        "Name: <Captain America>, Info: Steve Rogers, a former soldier transformed into a super-soldier by the Super-Soldier Serum, Captain America wields a shield made from the enchanted metal Vibranium, which grants him superhuman strength, agility, and durability. He leads the Avengers with courage and determination.\n4.[0.53, 0.3, 0.67, 0.81]\nName: <The Hulk>, Info: Dr. Bruce Banner, a scientist turned into a mon",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<captain america>",
+            "<hulk>"
+        ],
+        "Name: <Captain America>, Info: Steve Rogers, a former soldier transformed into a super-soldier by the Super-Soldier Serum, Captain America wields a shield made of the nearly indestructible metal Vibranium. He leads the Avengers with his unwavering moral compass and unparalleled combat skills.\n4.[0.52, 0.32, 0.67, 0.8]\nName: <Iron Man>, Info: Tony Stark, a genius inventor and billionaire playboy, Iron",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<captain america>",
+            "<scarlet witch>"
+        ],
+        "Name: <Captain America>, Info: Steve Rogers, a former soldier transformed into a super-soldier by the Super Soldier Serum, Captain America wields a shield made of vibranium, which can absorb and deflect energy. He is a natural leader and a symbol of hope and justice.\n4.[0.5, 0.31, 0.6, 0.8]\nName: <The Hulk>, Info: Dr. Bruce Banner, a scientist who gained the ability to transform into a massive, green, rage-fue",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<captain america>",
+            "<quick silver>"
+        ],
+        "Name: <Captain America>, Info: Steve Rogers, a former soldier transformed into a super-soldier by the Super-Soldier Serum, Captain America wields a shield made of the indestructible metal Vibranium and has superhuman strength, agility, and endurance. He leads the Avengers with courage and determination.\n4.[0.5, 0.31, 0.6, 0.81]\nName: <The Hulk>, Info: Dr. Bruce Banner, a brilliant scientist transformed into a raging mon",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<hawkeye>",
+            "<hulk>"
+        ],
+        "Hemsworth as Hawkeye.\nName: Hawkeye, Info: Clint Barton is a skilled archer and former S.H.I.E.L.D. agent. He uses his expertise with a bow and arrow to take down enemies from a distance.\n</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<hawkeye>",
+            "<scarlet witch>"
+        ],
+        "Hemsworth as Thor.\nName: <Hawkeye>, Info: Hawkeye is a skilled archer and marksman, who uses a specially designed bow and arrow to take down targets with precision. As a member of the Avengers, he provides long-range support and tactical expertise to the team.\n</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<hawkeye>",
+            "<quick silver>"
+        ],
+        "Hemsworth as Thor.\n</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<hulk>",
+            "<scarlet witch>"
+        ],
+        "Name: <The Hulk>, Info: The Hulk is a raging, green-skinned monster with incredible strength and durability. He is a powerful member of the Avengers, but his uncontrollable rage often makes him a danger to himself and others.\n4.[0.47, 0.3, 0.6, 0.8]\nName: <Iron Man>, Info: Tony Stark, the genius inventor and playboy philanthropist, becomes Iron Man to protect the world from threats as a powerful member of the Avengers.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<hulk>",
+            "<quick silver>"
+        ],
+        "2.jpg\nName: <The Hulk>, Info: The Hulk is a raging monster with immense strength and durability. He is the result of a failed experiment by Bruce Banner, who struggles to control his other side. The Hulk's immense power makes him a formidable opponent, but his uncontrollable rage can be a threat to the Avengers themselves.\n4.[0.5, 0.31, 0.6, 0.8]\nName: <Captain America>, Info: Steve Rogers, aka Captain America,",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<scarlet witch>",
+            "<quick silver>"
+        ],
+        "Name: <Captain America>, Info: Steve Rogers, a former soldier who was transformed into a super-soldier by the Super Soldier Serum, Captain America wields a shield made of the enchanted metal Vibranium, which grants him superhuman strength, agility, and the ability to deflect energy attacks. As a natural leader, he guides the Avengers with integrity and courage.\n</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<captain america>",
+            "<hawkeye>",
+            "<hulk>"
+        ],
+        "hair, blue eyes, and a serious expression. He is dressed in a black leather jacket and holding a bow and arrow. He is standing in front of a green background.</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<captain america>",
+            "<hawkeye>",
+            "<scarlet witch>"
+        ],
+        "hair, blue eyes, and a five o'clock shadow, Hawkeye is a master archer and skilled fighter. He brings precision and tactical expertise to the Avengers.\nName: <Hawkeye>, Info: Clint Barton, a.k.a. Hawkeye, is a skilled archer and marksman. He is a founding member of the Avengers and has been a key player in many of their battles.\n</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<captain america>",
+            "<hawkeye>",
+            "<quick silver>"
+        ],
+        "hair, blue eyes, and a confident smirk, Hawkeye is a master archer and skilled tactician. He brings precision and strategy to the Avengers.\nName: <Hawkeye>, Info: Clint Barton, aka Hawkeye, is a skilled archer and tactician. He is a member of the Avengers and has a long history of working with S.H.I.E.L.D.\n4.[0.0, 0.35, 0.12, 0.83]\nName: <Loki>, Info",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<captain america>",
+            "<hulk>",
+            "<scarlet witch>"
+        ],
+        "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<captain america>",
+            "<hulk>",
+            "<quick silver>"
+        ],
+        "001.jpg\nName: <Hulk>, Info: The Hulk is a monstrous creature with immense strength and durability. He is a powerful ally to the Avengers, but his rage can be a dangerous liability.\n4.[0.45, 0.3, 0.58, 0.8]\nName: <Iron Man>, Info: Tony Stark, the genius inventor behind the Iron Man suit, brings his technological prowess and tactical ingenuity to the Avengers. Armed with a powerful suit of armor,",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<hur>",
+            "<kim>",
+            "<kong>"
+        ],
+        "</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<hur>",
+            "<kim>",
+            "<moon>"
+        ],
+        "</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<hur>",
+            "<kim>",
+            "<sul>"
+        ],
+        "</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<hur>",
+            "<kong>",
+            "<moon>"
+        ],
+        "</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<hur>",
+            "<kong>",
+            "<sul>"
+        ],
+        "</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<hur>",
+            "<moon>",
+            "<sul>"
+        ],
+        ":\nName: <Yoon>, Info: A versatile actress known for her range of roles, she has a unique ability to portray both strong and vulnerable characters with ease.\n</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<kim>",
+            "<kong>",
+            "<moon>"
+        ],
+        "</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<kim>",
+            "<kong>",
+            "<sul>"
+        ],
+        "</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<kim>",
+            "<moon>",
+            "<sul>"
+        ],
+        ",  Info: She is a rising young actress known for her versatility and emotional depth. Her expressive eyes and delicate features convey a wide range of emotions.\n4.[0.89, 0.26, 1.0, 0.77]\n</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<kong>",
+            "<moon>",
+            "<sul>"
+        ],
+        ",  Info: A versatile actress, she has played a wide range of roles, from dramatic to comedic. Her expressive eyes and delicate features convey both strength and vulnerability.\n</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<hur>",
+            "<kim>",
+            "<kong>",
+            "<moon>"
+        ],
+        ", \nName: Yoo In Na,  Info: She is a popular South Korean actress known for her versatile acting skills and her ability to portray a wide range of characters.\n</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<hur>",
+            "<kim>",
+            "<kong>",
+            "<sul>"
+        ],
+        ",  Name: YoonA,  Info: She is a singer and actress known for her captivating performances and versatile range. Her delicate features and expressive eyes make her a standout in both music and drama.\n</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<hur>",
+            "<kim>",
+            "<moon>",
+            "<sul>"
+        ],
+        ",  Info: She is a talented actress known for her versatility and emotional range. Her expressive eyes and delicate features make her a captivating presence on screen.\n4.[0.0, 0.31, 0.1, 0.77]\n 1.Not in this image\n 2.Not in this image\n 3.Not in this image\n</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<hur>",
+            "<kong>",
+            "<moon>",
+            "<sul>"
+        ],
+        ",  Info: She is a versatile actress, known for her range of roles in both drama and film. Her expressive eyes and delicate features suggest a deep emotional reservoir.\n</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<kim>",
+            "<kong>",
+            "<moon>",
+            "<sul>"
+        ],
+        "</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<sandy>",
+            "<spongebob>"
+        ],
+        "brown eyes, a pink nose, and a brown mouth. He is wearing a blue shirt and a white hat. He is holding a cup of coffee in his right hand and a donut in his left hand. He is smiling and looking at the camera.\n4.[0.0, 0.36, 0.15, 0.83]\n5.[0.0, 0.34, 0.15, 0.83]\n</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<sandy>",
+            "<gary>"
+        ],
+        "brown eyes, a pink nose, and a brown mouth. He is wearing a white shirt and a red tie. He is holding a cup of coffee in his right hand.\n4.[0.0, 0.4, 0.17, 0.83]\n5.[0.0, 0.3, 0.16, 0.83]\n</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<sandy>",
+            "<mrs.puff>"
+        ],
+        "brown eyes, a pink nose, and a pink bow in his hair. He is wearing a blue shirt and a brown hat. He is holding a cup of coffee in his right hand.\n4.[0.0, 0.34, 0.17, 0.83]\n5.[0.17, 0.34, 0.33, 0.83]\n6.[0.29, 0.34, 0.42, 0.83]\n</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<sandy>",
+            "<patrick>"
+        ],
+        "brown eyes, a pink nose, and a brown mouth. He is wearing a white shirt and a brown hat.\n4.[0.0, 0.3, 0.17, 0.82]\n</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<sandy>",
+            "<squidward>"
+        ],
+        "brown eyes, a pink nose, and a big smile. He is a friend of Spongebob and loves to eat.\n4.[0.0, 0.39, 0.16, 0.82]\n5.[0.0, 0.39, 0.16, 0.82]\n</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<sandy>",
+            "<plankton>"
+        ],
+        "brown eyes, a pink nose, and a big smile. He is a friend of Spongebob and loves to play pranks.\n4.[0.0, 0.37, 0.14, 0.83]\n5.[0.13, 0.37, 0.28, 0.83]\n</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<spongebob>",
+            "<gary>"
+        ],
+        "</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<spongebob>",
+            "<mrs.puff>"
+        ],
+        "</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<spongebob>",
+            "<patrick>"
+        ],
+        "</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<spongebob>",
+            "<squidward>"
+        ],
+        "</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<spongebob>",
+            "<plankton>"
+        ],
+        "</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<gary>",
+            "<mrs.puff>"
+        ],
+        "ed eyes.\n</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<gary>",
+            "<patrick>"
+        ],
+        "ed eyes.\n</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<gary>",
+            "<squidward>"
+        ],
+        "ed eyes.\n</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<gary>",
+            "<plankton>"
+        ],
+        "ed eyes.\n</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<mrs.puff>",
+            "<patrick>"
+        ],
+        "1.[0.73, 0.42, 0.94, 0.82]\nName: <Patrick Star>, Info: Patrick is a happy-go-lucky starfish who loves to have fun and make people laugh. He is SpongeBob's best friend.\n</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<mrs.puff>",
+            "<squidward>"
+        ],
+        "1.[0.73, 0.42, 0.99, 0.82]\nName: <Patrick Star>, Info: Patrick is a starfish who is Spongebob's best friend. He is known for his love of food and his laid-back attitude.\n</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<mrs.puff>",
+            "<plankton>"
+        ],
+        "sitting on a chair.</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<patrick>",
+            "<squidward>"
+        ],
+        "ul></s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<patrick>",
+            "<plankton>"
+        ],
+        "ul></s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<squidward>",
+            "<plankton>"
+        ],
+        "0.44, 0.31, 0.58, 0.58]\n4.[0.0, 0.3, 0.16, 0.83]\n5.[0.17, 0.33, 0.34, 0.63]\n6.[0.28, 0.4, 0.44, 0.83]\n7.[0.42, 0.37, 0.57, 0.6]\n8.[0",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<sandy>",
+            "<spongebob>",
+            "<gary>"
+        ],
+        ".</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<sandy>",
+            "<spongebob>",
+            "<mrs.puff>"
+        ],
+        ".</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<sandy>",
+            "<spongebob>",
+            "<patrick>"
+        ],
+        ".</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<sandy>",
+            "<spongebob>",
+            "<squidward>"
+        ],
+        ".</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<sandy>",
+            "<spongebob>",
+            "<plankton>"
+        ],
+        ".</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<sandy>",
+            "<gary>",
+            "<mrs.puff>"
+        ],
+        "y eyes, a long snout, and a big smile. He's always ready for an adventure.\n</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<sandy>",
+            "<gary>",
+            "<patrick>"
+        ],
+        "y eyes, a long snout, and a big smile. He is a friendly, curious, and adventurous slug.\n</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<sandy>",
+            "<gary>",
+            "<squidward>"
+        ],
+        "y eyes and a long, pointed snout.\n</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<sandy>",
+            "<gary>",
+            "<plankton>"
+        ],
+        "y eyes, a long snout, and a big smile. He's a friendly, curious, and adventurous snail.\n</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<jae>",
+            "<lee>"
+        ],
+        "an</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<jae>",
+            "<yang>"
+        ],
+        "anian\n</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<jae>",
+            "<lim>"
+        ],
+        "an\n</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<jae>",
+            "<park>"
+        ],
+        "an\n</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<jae>",
+            "<wook>"
+        ],
+        "an\n</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<lee>",
+            "<yang>"
+        ],
+        "in a black suit.\n</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<lee>",
+            "<lim>"
+        ],
+        ",  Info: He is a versatile actor, known for his range of roles, from romantic leads to intense dramas. His charming smile and warm personality make him a fan favorite.\n</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<lee>",
+            "<park>"
+        ],
+        ",  Info: He is a versatile actor, known for his range of roles in both drama and film. His unique style and charisma make him a fan favorite.\n</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<lee>",
+            "<wook>"
+        ],
+        "in a black suit.\n</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<yang>",
+            "<lim>"
+        ],
+        "</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<yang>",
+            "<park>"
+        ],
+        "</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<yang>",
+            "<wook>"
+        ],
+        "</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<lim>",
+            "<park>"
+        ],
+        "</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<lim>",
+            "<wook>"
+        ],
+        "</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<park>",
+            "<wook>"
+        ],
+        ".</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<lee>",
+            "<yang>"
+        ],
+        "</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<lee>",
+            "<lim>"
+        ],
+        "</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<lee>",
+            "<park>"
+        ],
+        "</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<lee>",
+            "<wook>"
+        ],
+        "Lee Byung-hun\n</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<yang>",
+            "<lim>"
+        ],
+        ",  Info: A rising actor with a charming smile and a talent for lighting up the screen.\n4.[0.84, 0.3, 1.0, 0.79]\n</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<yang>",
+            "<park>"
+        ],
+        "-haired man with glasses.\n</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<yang>",
+            "<wook>"
+        ],
+        ", \n</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<lim>",
+            "<park>"
+        ],
+        "ning, \n</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<lim>",
+            "<wook>"
+        ],
+        "ning.jpg\n</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<park>",
+            "<wook>"
+        ],
+        "ongi, \n</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<lee>",
+            "<yang>",
+            "<lim>"
+        ],
+        ")\n</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<lee>",
+            "<yang>",
+            "<park>"
+        ],
+        ")\n</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<lee>",
+            "<yang>",
+            "<wook>"
+        ],
+        ")\n</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<lee>",
+            "<lim>",
+            "<park>"
+        ],
+        "</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<lee>",
+            "<lim>",
+            "<wook>"
+        ],
+        "</s>",
+        "Give a personalized caption of this image."
+    ]
+]

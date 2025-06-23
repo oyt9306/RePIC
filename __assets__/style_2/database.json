@@ -1,0 +1,13 @@
+{
+    "concept_dict": {
+        "<style2>": {
+            "name": "style2",
+            "image": "./__assets__/style_2/concept2.jpg",
+            "info": "The image shows a golden, abstract flower-like sculpture. The petals are thick, shiny, and metallic, resembling molten gold. Some of the gold appears to be dripping downward, creating the impression that the flower is melting or freshly formed from liquid metal. The overall effect is both luxurious and surreal.",
+            "category": "human"
+        }
+    },
+    "path_to_concept": {
+        "./__assets__/style/concept2.jpg": "<style2>"
+    }
+}

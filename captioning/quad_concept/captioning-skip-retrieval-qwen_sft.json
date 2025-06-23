@@ -1,0 +1,1157 @@
+[
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<black widow>",
+            "<captain america>"
+        ],
+        "The Avengers stand together, ready to face any challenge.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<black widow>",
+            "<hawkeye>"
+        ],
+        "The Avengers stand together, ready to face any challenge.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<black widow>",
+            "<hulk>"
+        ],
+        "The Avengers stand together, ready to face any challenge that comes their way.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<black widow>",
+            "<scarlet witch>"
+        ],
+        "The Avengers stand together, ready to face any challenge.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<black widow>",
+            "<quick silver>"
+        ],
+        "The Avengers stand together, ready to face any challenge that comes their way.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<captain america>",
+            "<hawkeye>"
+        ],
+        "The Avengers stand together in their iconic costumes, ready to face any challenge that comes their way.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<captain america>",
+            "<hulk>"
+        ],
+        "The Avengers stand together, ready to face any challenge that comes their way.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<captain america>",
+            "<scarlet witch>"
+        ],
+        "The Avengers stand together in their iconic costumes, ready to face any challenge that comes their way.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<captain america>",
+            "<quick silver>"
+        ],
+        "The Avengers stand together in their iconic costumes, ready to face any challenge that comes their way.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<hawkeye>",
+            "<hulk>"
+        ],
+        "The Avengers stand together against their enemies.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<hawkeye>",
+            "<scarlet witch>"
+        ],
+        "The Avengers stand together in their iconic costumes, ready to face any challenge that comes their way.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<hawkeye>",
+            "<quick silver>"
+        ],
+        "The Avengers stand together in their iconic costumes, ready to face any challenge that comes their way.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<hulk>",
+            "<scarlet witch>"
+        ],
+        "The Avengers stand together against their enemies.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<hulk>",
+            "<quick silver>"
+        ],
+        "The Avengers stand ready for battle.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<scarlet witch>",
+            "<quick silver>"
+        ],
+        "The Avengers stand together in their iconic costumes, ready to face any challenge that comes their way.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<captain america>",
+            "<hawkeye>"
+        ],
+        "The Avengers stand together, ready to face any challenge.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<captain america>",
+            "<hulk>"
+        ],
+        "The Avengers stand together, ready to face any challenge that comes their way.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<captain america>",
+            "<scarlet witch>"
+        ],
+        "The Avengers stand together against their enemies.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<captain america>",
+            "<quick silver>"
+        ],
+        "The Avengers stand ready for battle.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<hawkeye>",
+            "<hulk>"
+        ],
+        "The Avengers stand together against their enemies.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<hawkeye>",
+            "<scarlet witch>"
+        ],
+        "The Avengers stand ready for battle.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<hawkeye>",
+            "<quick silver>"
+        ],
+        "The Avengers stand together, ready to face any challenge that comes their way.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<hulk>",
+            "<scarlet witch>"
+        ],
+        "The Avengers stand together, ready to face any challenge that comes their way.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<hulk>",
+            "<quick silver>"
+        ],
+        "The Avengers stand ready for battle.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<scarlet witch>",
+            "<quick silver>"
+        ],
+        "The Avengers stand ready for battle.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<captain america>",
+            "<hawkeye>",
+            "<hulk>"
+        ],
+        "The Avengers stand together against their enemies.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<captain america>",
+            "<hawkeye>",
+            "<scarlet witch>"
+        ],
+        "The Avengers stand ready for battle in <Thor>'s iconic red cape and <Mj\u00f6lnir>.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<captain america>",
+            "<hawkeye>",
+            "<quick silver>"
+        ],
+        "The Avengers stand ready for battle.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<captain america>",
+            "<hulk>",
+            "<scarlet witch>"
+        ],
+        "The Avengers stand ready for battle.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<captain america>",
+            "<hulk>",
+            "<quick silver>"
+        ],
+        "The Avengers stand ready for battle.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<hur>",
+            "<kim>",
+            "<kong>"
+        ],
+        "<Jung> stands confidently on stage, holding his award, as he accepts recognition for his outstanding performance.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<hur>",
+            "<kim>",
+            "<moon>"
+        ],
+        "A group of actors celebrate their awards at the ceremony.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<hur>",
+            "<kim>",
+            "<sul>"
+        ],
+        "A group of actors celebrate their awards at the ceremony.  <Jung> looks calm and collected as he holds his trophy.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<hur>",
+            "<kong>",
+            "<moon>"
+        ],
+        "A group of actors holding awards.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<hur>",
+            "<kong>",
+            "<sul>"
+        ],
+        "<Jung> stands confidently among his peers, each holding their awards, celebrating their achievements.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<hur>",
+            "<moon>",
+            "<sul>"
+        ],
+        "A group of actors holding awards.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<kim>",
+            "<kong>",
+            "<moon>"
+        ],
+        "A group of actors celebrate their awards at the ceremony.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<kim>",
+            "<kong>",
+            "<sul>"
+        ],
+        "A group of actors celebrate their awards at the ceremony.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<kim>",
+            "<moon>",
+            "<sul>"
+        ],
+        "A group of actors celebrate their awards at the ceremony.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<kong>",
+            "<moon>",
+            "<sul>"
+        ],
+        "A group of actors celebrate their awards at the ceremony.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<hur>",
+            "<kim>",
+            "<kong>",
+            "<moon>"
+        ],
+        "A group of actors celebrate their awards at the ceremony.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<hur>",
+            "<kim>",
+            "<kong>",
+            "<sul>"
+        ],
+        "A group of actors stand together holding awards.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<hur>",
+            "<kim>",
+            "<moon>",
+            "<sul>"
+        ],
+        "A group of actors celebrate their awards at the ceremony.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<hur>",
+            "<kong>",
+            "<moon>",
+            "<sul>"
+        ],
+        "A group of actors stand together holding awards. They are all dressed in formal attire.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<kim>",
+            "<kong>",
+            "<moon>",
+            "<sul>"
+        ],
+        "<Kim> stands confidently among her fellow award winners, her poised expression reflecting her experience and dedication to her craft.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<sandy>",
+            "<spongebob>"
+        ],
+        "<Pearl> is excited to be on TV!",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<sandy>",
+            "<gary>"
+        ],
+        "SpongeBob and friends are having a great time at the Krusty Krab!",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<sandy>",
+            "<mrs.puff>"
+        ],
+        "<Pearl> is excited to be on the TV show!",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<sandy>",
+            "<patrick>"
+        ],
+        "Patrick is excited to be on TV!",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<sandy>",
+            "<squidward>"
+        ],
+        "SpongeBob and friends are having a great time at the Krusty Krab!",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<sandy>",
+            "<plankton>"
+        ],
+        "<Plankton> is trying to steal the Krabby Patty secret formula from <Mr.Krabs>.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<spongebob>",
+            "<gary>"
+        ],
+        "<Pearl> is excited to be on TV!",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<spongebob>",
+            "<mrs.puff>"
+        ],
+        "<Pearl> is excited to be on the TV show!",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<spongebob>",
+            "<patrick>"
+        ],
+        "<Pearl> is excited to be on the radio show!",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<spongebob>",
+            "<squidward>"
+        ],
+        "SpongeBob, Patrick, Squidward, and Mr. Krabs are all excited to watch a movie together!",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<spongebob>",
+            "<plankton>"
+        ],
+        "<Pearl> is excited to be on the TV show!",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<gary>",
+            "<mrs.puff>"
+        ],
+        "SpongeBob and friends are having a great time at the Krusty Krab!",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<gary>",
+            "<patrick>"
+        ],
+        "SpongeBob and friends are having a great time at the Krusty Krab!",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<gary>",
+            "<squidward>"
+        ],
+        "SpongeBob and his friends are having a great time at the Krusty Krab!",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<gary>",
+            "<plankton>"
+        ],
+        "SpongeBob and friends are excited to see <Plankton> on TV.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<mrs.puff>",
+            "<patrick>"
+        ],
+        "SpongeBob and friends are having a great time at the Krusty Krab!",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<mrs.puff>",
+            "<squidward>"
+        ],
+        "SpongeBob and friends are excited to watch a movie together.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<mrs.puff>",
+            "<plankton>"
+        ],
+        "SpongeBob and friends are having a great time at the Krusty Krab!",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<patrick>",
+            "<squidward>"
+        ],
+        "<Pearl> is excited to be on TV!",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<patrick>",
+            "<plankton>"
+        ],
+        "SpongeBob and friends are having a great time at the Krusty Krab!",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<squidward>",
+            "<plankton>"
+        ],
+        "SpongeBob, Patrick, Squidward, and Plankton are all excited to see Mr. Krabs.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<sandy>",
+            "<spongebob>",
+            "<gary>"
+        ],
+        "SpongeBob and his friends are having a great time at the Krusty Krab!",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<sandy>",
+            "<spongebob>",
+            "<mrs.puff>"
+        ],
+        "SpongeBob and Patrick are excited to see their friends at the Krusty Krab.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<sandy>",
+            "<spongebob>",
+            "<patrick>"
+        ],
+        "SpongeBob, Patrick, Mr. Krabs, and Sandy are all excited to watch a movie together!",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<sandy>",
+            "<spongebob>",
+            "<squidward>"
+        ],
+        "SpongeBob and friends are having a great time at the Krusty Krab!",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<sandy>",
+            "<spongebob>",
+            "<plankton>"
+        ],
+        "SpongeBob and friends celebrate a victory over Plankton!",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<sandy>",
+            "<gary>",
+            "<mrs.puff>"
+        ],
+        "SpongeBob and friends are having a great time at the Krusty Krab!",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<sandy>",
+            "<gary>",
+            "<patrick>"
+        ],
+        "Patrick is having a great time with his friends at the Krusty Krab!",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<sandy>",
+            "<gary>",
+            "<squidward>"
+        ],
+        "SpongeBob and his friends are having a great time at the Krusty Krab!",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<sandy>",
+            "<gary>",
+            "<plankton>"
+        ],
+        "SpongeBob and friends are having a great time at the Krusty Krab!",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<jae>",
+            "<lee>"
+        ],
+        "<Cho> waves to the crowd at the premiere of her latest film.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<jae>",
+            "<yang>"
+        ],
+        "<Cho> waves to the crowd at the premiere of her latest film.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<jae>",
+            "<lim>"
+        ],
+        "<Cho> waves to the crowd at the premiere of her latest film.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<jae>",
+            "<park>"
+        ],
+        "<Cho> waves to the crowd at the premiere of her latest film.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<jae>",
+            "<wook>"
+        ],
+        "<Cho> waves to the crowd at the premiere of her latest film.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<lee>",
+            "<yang>"
+        ],
+        "<Cho> waves to the crowd at the premiere of her latest film.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<lee>",
+            "<lim>"
+        ],
+        "<Cho> waves to the crowd at the premiere of her latest film.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<lee>",
+            "<park>"
+        ],
+        "<Cho> waves to the crowd at the premiere of her latest film.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<lee>",
+            "<wook>"
+        ],
+        "<Cho> waves to the crowd at the premiere of her latest film.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<yang>",
+            "<lim>"
+        ],
+        "<Cho> waves to the crowd at the premiere of her latest film.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<yang>",
+            "<park>"
+        ],
+        "<Cho> waves to the crowd at the premiere of her latest film.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<yang>",
+            "<wook>"
+        ],
+        "<Cho> waves to the crowd at the premiere of her latest film.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<lim>",
+            "<park>"
+        ],
+        "<Cho> waves to the crowd at the premiere of her new film.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<lim>",
+            "<wook>"
+        ],
+        "<Cho> waves to the crowd at the premiere of her latest film.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<park>",
+            "<wook>"
+        ],
+        "<Cho> waves to the crowd at the premiere of her latest film.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<lee>",
+            "<yang>"
+        ],
+        "<Cho> waves to the crowd at the premiere of her latest film.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<lee>",
+            "<lim>"
+        ],
+        "<Cho> waves to the crowd at the premiere of her latest film.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<lee>",
+            "<park>"
+        ],
+        "<Cho> waves to the crowd at the premiere of her latest film.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<lee>",
+            "<wook>"
+        ],
+        "<Cho> waves to the crowd at the premiere of her latest film.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<yang>",
+            "<lim>"
+        ],
+        "<Cho> waves to the crowd at the premiere of her latest film.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<yang>",
+            "<park>"
+        ],
+        "<Cho> waves to the crowd at the premiere of her latest film.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<yang>",
+            "<wook>"
+        ],
+        "<Cho> waves to the crowd at the premiere of her latest film.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<lim>",
+            "<park>"
+        ],
+        "<Cho> waves to the crowd at the premiere of her latest film.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<lim>",
+            "<wook>"
+        ],
+        "<Cho> waves to the crowd at the premiere of her latest film.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<park>",
+            "<wook>"
+        ],
+        "<Cho> waves to the crowd at the premiere of her latest film.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<lee>",
+            "<yang>",
+            "<lim>"
+        ],
+        "<Cho> waves to the crowd at the premiere of her latest film.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<lee>",
+            "<yang>",
+            "<park>"
+        ],
+        "<Cho> waves to the crowd at the premiere of her latest film.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<lee>",
+            "<yang>",
+            "<wook>"
+        ],
+        "<Cho> waves to the crowd at the premiere of her latest film.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<lee>",
+            "<lim>",
+            "<park>"
+        ],
+        "<Cho> waves to the crowd at the premiere of her latest film.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<lee>",
+            "<lim>",
+            "<wook>"
+        ],
+        "<Cho> waves to the crowd at the premiere of her latest film.",
+        "Give a personalized caption of this image."
+    ]
+]

@@ -1,0 +1,740 @@
+[
+    [
+        "./multi_concept_images/Anya_and_Bond/Anya_and_Bond_1.jpg",
+        [
+            "<Anya>",
+            "<Bond>"
+        ],
+        "Anya is petting Bond, a white dog wearing a black bow tie.</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./multi_concept_images/Anya_and_Bond/Anya_and_Bond_2.jpg",
+        [
+            "<Anya>",
+            "<Bond>"
+        ],
+        "Anya hugs Bond.</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./multi_concept_images/Anya_and_Bond/Anya_and_Bond_3.jpg",
+        [
+            "<Anya>",
+            "<Bond>"
+        ],
+        "Anya is petting Bond, a white dog wearing a black bow tie.</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./multi_concept_images/Anya_and_Bond/Anya_and_Bond_4.jpg",
+        [
+            "<Anya>",
+            "<Bond>"
+        ],
+        "Anya is feeding Bond.</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./multi_concept_images/Anya_and_Bond/Anya_and_Bond_5.jpg",
+        [
+            "<Anya>",
+            "<Bond>"
+        ],
+        "Anya is petting Bond.</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./multi_concept_images/Anya_and_Bond/Anya_and_Bond_6.jpg",
+        [
+            "<Anya>",
+            "<Bond>"
+        ],
+        "Anya is excited to see Bond!</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./multi_concept_images/Anya_and_Bond/Anya_and_Bond_7.jpg",
+        [
+            "<Anya>",
+            "<Bond>"
+        ],
+        "Anya is sitting on the floor with Bond and a penguin.</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./multi_concept_images/Anya_and_Bond/Anya_and_Bond_8.jpg",
+        [
+            "<Anya>",
+            "<Bond>"
+        ],
+        "Anya is looking at Bond with big green eyes.</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./multi_concept_images/Anya_and_Bond/Anya_and_Bond_9.jpg",
+        [
+            "<Anya>",
+            "<Bond>"
+        ],
+        "Anya is surprised to see Bond.</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./multi_concept_images/Anya_and_Bond/Anya_and_Bond_10.jpg",
+        [
+            "<Anya>",
+            "<Bond>"
+        ],
+        "Anya rides Bond through the city.</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_1.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "Bingo and Bluey are ready for an adventure!</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_2.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "Bingo and Bluey are ready for an adventure!</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_3.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "Bingo and Bluey are ready for an adventure!</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_4.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "Bluey and Bingo are ready for their car ride!</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_5.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "Bingo and Bluey are playing with Lego.</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_6.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "Bingo is playing with Bluey. They are having fun with their building blocks.</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_7.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "Bluey and Bingo are ready for a game!</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_8.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "Bluey and Bingo are taking a bath together!</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_9.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "Sure! Here's a caption for the photo:\n\nLook at these two adorable plush toys, Bluey and Bingo!  They're ready for a cuddle party!</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_10.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "Bluey and Bingo are ready for bed!  They are snuggled up under the covers with their favorite stuffed animals.</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_11.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "Bingo and Bluey are ready for some bubbly fun!</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_12.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "Here's a caption about the image: <Bluey> and Bingo are looking at each other.</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./multi_concept_images/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_1.jpg",
+        [
+            "<Bull_dog>",
+            "<Baby_Q>"
+        ],
+        "<Bull_dog> is very interested in <Baby_Q>.</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./multi_concept_images/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_2.jpg",
+        [
+            "<Bull_dog>",
+            "<Baby_Q>"
+        ],
+        "<Baby_Q> is sleeping peacefully in a carrier, wrapped in a soft, colorful blanket and secured by a black strap. <Bull_dog> is watching over them.</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./multi_concept_images/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_3.jpg",
+        [
+            "<Bull_dog>",
+            "<Baby_Q>"
+        ],
+        "<Bull_dog> is looking at the baby, <Baby_Q>, with curiosity.</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./multi_concept_images/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_4.jpg",
+        [
+            "<Bull_dog>",
+            "<Baby_Q>"
+        ],
+        "<Bull_dog> is a good boy, keeping a watchful eye on <Baby_Q> while they nap.</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./multi_concept_images/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_5.jpg",
+        [
+            "<Bull_dog>",
+            "<Baby_Q>"
+        ],
+        "<Baby_Q> is watching <Bull_dog> play with blocks.</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./multi_concept_images/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_6.jpg",
+        [
+            "<Bull_dog>",
+            "<Baby_Q>"
+        ],
+        "<Bull_dog> is watching over <Baby_Q> as they sleep.</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./multi_concept_images/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_7.jpg",
+        [
+            "<Bull_dog>",
+            "<Baby_Q>"
+        ],
+        "<Bull_dog> is a very good boy, and he loves cuddling with his human sibling, <Baby_Q>.</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./multi_concept_images/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_8.jpg",
+        [
+            "<Bull_dog>",
+            "<Baby_Q>"
+        ],
+        "<Bull_dog> is watching over <Baby_Q> while they both take a nap.</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./multi_concept_images/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_9.jpg",
+        [
+            "<Bull_dog>",
+            "<Baby_Q>"
+        ],
+        "<Bull_dog> is taking a nap while <Baby_Q> looks on.</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./multi_concept_images/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_10.jpg",
+        [
+            "<Bull_dog>",
+            "<Baby_Q>"
+        ],
+        "<Bull_dog> is a very good boy, and he loves his new friend, <Baby_Q>!  They are both very cute.</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_1.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "C_dog is watching over G_cat.</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_2.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "Day 3: <C_dog> is feeding <G_cat> a bottle.</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_3.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "C_dog is a good boy, he is very gentle with the kitten G_cat.</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_4.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "C_dog is watching G_cat.</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_5.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "C_dog is looking at G_cat with curiosity.</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_6.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "<C_dog> is a good boy, looking after <G_cat>.</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_7.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "<C_dog> is a very good boy, and he looks very happy to be spending time with his new friend, <G_cat>!  They seem to be getting along great.</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_8.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "<C_dog> is looking happy to see <G_cat>.</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_9.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "C_dog is curious about G_cat.</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_10.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "<C_dog> is looking at <G_cat> with interest.</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_11.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "<C_dog> is watching over <G_cat> as she explores her new surroundings.</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_12.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "<C_dog> is curious about <G_cat>.</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_13.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "<C_dog> is a curious dog. He is looking at the camera while a ginger kitten, <G_cat>, jumps on the couch behind him.</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./multi_concept_images/Character_A_and_Character_B/Character_A_and_Character_B_1.jpg",
+        [
+            "<Character_A>",
+            "<Character_B>"
+        ],
+        "<Character_A> and <Character_B> have a conversation.</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./multi_concept_images/Character_A_and_Character_B/Character_A_and_Character_B_2.jpg",
+        [
+            "<Character_A>",
+            "<Character_B>"
+        ],
+        "<Character_A> and <Character_B> are ready for their next adventure!</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./multi_concept_images/Character_A_and_Character_B/Character_A_and_Character_B_3.jpg",
+        [
+            "<Character_A>",
+            "<Character_B>"
+        ],
+        "<Character_B> is a sly fox with big eyes and a fluffy fur. He's wearing a yellow button-down shirt and a purple tie. He's standing with two other characters, <Character_A> and another character.</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./multi_concept_images/Character_A_and_Character_B/Character_A_and_Character_B_4.jpg",
+        [
+            "<Character_A>",
+            "<Character_B>"
+        ],
+        "<Character_A> and <Character_B> have a heart-to-heart conversation.</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./multi_concept_images/Character_A_and_Character_B/Character_A_and_Character_B_5.jpg",
+        [
+            "<Character_A>",
+            "<Character_B>"
+        ],
+        "<Character_B> is having a conversation with <Character_A>.</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./multi_concept_images/Character_A_and_Character_B/Character_A_and_Character_B_6.jpg",
+        [
+            "<Character_A>",
+            "<Character_B>"
+        ],
+        "<Character_B> is taking <Character_A> for a ride on the Ferris wheel. They're having a blast!</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./multi_concept_images/Character_A_and_Character_B/Character_A_and_Character_B_7.jpg",
+        [
+            "<Character_A>",
+            "<Character_B>"
+        ],
+        "<Character_B> is driving the train with <Character_A> by his side.</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./multi_concept_images/Character_A_and_Character_B/Character_A_and_Character_B_8.jpg",
+        [
+            "<Character_A>",
+            "<Character_B>"
+        ],
+        "<Character_B> is a sly fox with a big grin. He's always up for an adventure.</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./multi_concept_images/Character_A_and_Character_B/Character_A_and_Character_B_9.jpg",
+        [
+            "<Character_A>",
+            "<Character_B>"
+        ],
+        "<Character_B> is on trial, with <Character_A> looking on.</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./multi_concept_images/Character_A_and_Character_B/Character_A_and_Character_B_10.jpg",
+        [
+            "<Character_A>",
+            "<Character_B>"
+        ],
+        "<Character_A> watches as <Character_B> and a bride-to-be share a dance.</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./multi_concept_images/H_and_T/H_and_T_1.jpg",
+        [
+            "<H>",
+            "<T>"
+        ],
+        "<T> is in the back seat of a car with <H>.</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./multi_concept_images/H_and_T/H_and_T_2.jpg",
+        [
+            "<H>",
+            "<T>"
+        ],
+        "<H> is helping <T> prepare a salad.</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./multi_concept_images/H_and_T/H_and_T_3.jpg",
+        [
+            "<H>",
+            "<T>"
+        ],
+        "<H> is helping <T> load groceries into the car.</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./multi_concept_images/H_and_T/H_and_T_4.jpg",
+        [
+            "<H>",
+            "<T>"
+        ],
+        "<H> is crouched down next to <T> in front of a black truck.</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./multi_concept_images/H_and_T/H_and_T_5.jpg",
+        [
+            "<H>",
+            "<T>"
+        ],
+        "<H> is wearing a plain tan t-shirt. His hair is short and curly. He is standing in front of a store with a woman walking behind him.</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./multi_concept_images/H_and_T/H_and_T_6.jpg",
+        [
+            "<H>",
+            "<T>"
+        ],
+        "<T> is helping <H> with his hair.</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./multi_concept_images/H_and_T/H_and_T_7.jpg",
+        [
+            "<H>",
+            "<T>"
+        ],
+        "<H> is giving <T> a haircut.</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./multi_concept_images/H_and_T/H_and_T_8.jpg",
+        [
+            "<H>",
+            "<T>"
+        ],
+        "<H> and <T> are driving in a car.</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./multi_concept_images/H_and_T/H_and_T_9.jpg",
+        [
+            "<H>",
+            "<T>"
+        ],
+        "<H> and <T> are enjoying a day out at the park.</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./multi_concept_images/H_and_T/H_and_T_10.jpg",
+        [
+            "<H>",
+            "<T>"
+        ],
+        "<H> is enjoying a donut with a friend.</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./multi_concept_images/J_and_K/J_and_K_1.jpg",
+        [
+            "<J>",
+            "<K>"
+        ],
+        "<J> and <K> are having a drink together.</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./multi_concept_images/J_and_K/J_and_K_2.jpg",
+        [
+            "<J>",
+            "<K>"
+        ],
+        "<K> is enjoying a meal with a friend at a restaurant.</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./multi_concept_images/J_and_K/J_and_K_3.jpg",
+        [
+            "<J>",
+            "<K>"
+        ],
+        "<K> is enjoying a day out with a friend.</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./multi_concept_images/J_and_K/J_and_K_4.jpg",
+        [
+            "<J>",
+            "<K>"
+        ],
+        "<K> and <J> enjoying some ice cream.</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./multi_concept_images/J_and_K/J_and_K_5.jpg",
+        [
+            "<J>",
+            "<K>"
+        ],
+        "<J> and <K> are enjoying a meal together at a restaurant.</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./multi_concept_images/J_and_K/J_and_K_6.jpg",
+        [
+            "<J>",
+            "<K>"
+        ],
+        "<K> is enjoying a relaxing day at the aquarium. She is sitting in a chair, wearing a blue polka-dotted dress and a brown and white scrunchie in her hair. She is looking at the fish in the tank. <J> is standing behind her, wearing a white t-shirt and black shorts. He is looking at the fish too.</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./multi_concept_images/J_and_K/J_and_K_7.jpg",
+        [
+            "<J>",
+            "<K>"
+        ],
+        "<J> is talking to a man in a white t-shirt and black shorts.</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./multi_concept_images/J_and_K/J_and_K_8.jpg",
+        [
+            "<J>",
+            "<K>"
+        ],
+        "<J> is sitting on a chair next to <K>.</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./multi_concept_images/Parrot_1_and_Parrot_2/Parrot_1_and_Parrot_2_1.jpg",
+        [
+            "<Parrot_1>",
+            "<Parrot_2>"
+        ],
+        "<Parrot_2> is a light blue parrot with pink feet. It has a light blue head and a white ring around its neck.</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./multi_concept_images/Parrot_1_and_Parrot_2/Parrot_1_and_Parrot_2_2.jpg",
+        [
+            "<Parrot_1>",
+            "<Parrot_2>"
+        ],
+        "<Parrot_2> is a beautiful light blue parrot with pink feet. It has a light blue head and a white ring around its neck.</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./multi_concept_images/Parrot_1_and_Parrot_2/Parrot_1_and_Parrot_2_3.jpg",
+        [
+            "<Parrot_1>",
+            "<Parrot_2>"
+        ],
+        "<Parrot_2> is a light blue parrot with pink feet. It has a light blue head and a white ring around its neck.</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./multi_concept_images/Parrot_1_and_Parrot_2/Parrot_1_and_Parrot_2_4.jpg",
+        [
+            "<Parrot_1>",
+            "<Parrot_2>"
+        ],
+        "<Parrot_1> is perched on a branch, looking at <Parrot_2>. <Parrot_2> is looking back at <Parrot_1>.</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./multi_concept_images/Parrot_1_and_Parrot_2/Parrot_1_and_Parrot_2_5.jpg",
+        [
+            "<Parrot_1>",
+            "<Parrot_2>"
+        ],
+        "<Parrot_1> is perched on a branch with two other parrots. <Parrot_2> is on the right, and <Parrot_1> is in the middle.</s>",
+        "Give a caption of the image."
+    ],
+    [
+        "./multi_concept_images/Parrot_1_and_Parrot_2/Parrot_1_and_Parrot_2_6.jpg",
+        [
+            "<Parrot_1>",
+            "<Parrot_2>"
+        ],
+        "<Parrot_1> is a green parrot with a bright red beak. <Parrot_2> is a light blue parrot with pink feet. They are both perched on a concrete block.</s>",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./multi_concept_images/Parrot_1_and_Parrot_2/Parrot_1_and_Parrot_2_7.jpg",
+        [
+            "<Parrot_1>",
+            "<Parrot_2>"
+        ],
+        "<Parrot_1> is perched on a branch, looking at the camera. <Parrot_2> is standing next to it, looking away from the camera.</s>",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./multi_concept_images/Parrot_1_and_Parrot_2/Parrot_1_and_Parrot_2_8.jpg",
+        [
+            "<Parrot_1>",
+            "<Parrot_2>"
+        ],
+        "<Parrot_1> is perched on a branch with some friends.</s>",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./multi_concept_images/Parrot_1_and_Parrot_2/Parrot_1_and_Parrot_2_9.jpg",
+        [
+            "<Parrot_1>",
+            "<Parrot_2>"
+        ],
+        "Parrot_1 is perched on a branch, watching as Parrot_2 and another parrot play on a wooden log.</s>",
+        "Give a caption of the image."
+    ]
+]

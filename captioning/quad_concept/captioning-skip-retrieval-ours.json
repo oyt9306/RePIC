@@ -1,0 +1,1157 @@
+[
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<black widow>",
+            "<captain america>"
+        ],
+        "In this dynamic image, the Avengers stand united against a backdrop of chaos, showcasing their unique abilities and unwavering commitment to justice. From left to right, we see <Wanda Maximoff>, <Quicksilver>, <Thor>, <Hulk>, <Iron Man>, <Captain America>, <Black Widow>, and <Hawkeye>. Each hero's distinctive costume and weapon reflect their individual strengths and roles within the team, as they prepare to face their next formidable challenge.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<black widow>",
+            "<hawkeye>"
+        ],
+        "The image depicts the iconic Avengers lineup, featuring <Thor> with his hammer Mj\u00f6lnir, <Iron Man> in his Iron Man suit, <Black Widow> in tactical gear, <Hawkeye> with his bow, and other members of the team standing together against a dramatic backdrop.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<black widow>",
+            "<hulk>"
+        ],
+        "In this epic image, the Avengers stand united against a formidable threat. From left to right, we see <Wanda Maximoff>, <Quicksilver>, <Thor>, <Iron Man>, <Hulk>, <Captain America>, <Black Widow>, and <Hawkeye>. Each hero brings their unique abilities and strengths to the table, ready to face any challenge that comes their way.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<black widow>",
+            "<scarlet witch>"
+        ],
+        "The image depicts the iconic Avengers lineup from the Marvel Cinematic Universe, featuring <Thor>, <Iron Man>, <Black Widow>, <Scarlet Witch>, <Captain America>, <Hulk>, and <Wolverine>. Each character is shown in their distinctive costumes and weapons, ready for action against a backdrop of cosmic threats.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<black widow>",
+            "<quick silver>"
+        ],
+        "In this dynamic image, the Avengers stand united against a backdrop of chaos, showcasing their unique abilities and unwavering commitment to justice. From left to right, Scarlet Witch's mystical powers, Quicksilver's incredible speed, Thor's godly might, Iron Man's technological prowess, Captain America's unyielding resolve, Black Widow's tactical brilliance, and Hawkeye's precision marksmanship come together to form an unstoppable force. Each hero's presence adds a layer of depth and complexity to the team, highlighting the diverse strengths that make them a formidable group.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<captain america>",
+            "<hawkeye>"
+        ],
+        "The image showcases a group of superheroes from the Marvel Cinematic Universe, including <Thor>, <Iron Man>, <Captain America>, and <Hawkeye>. They stand together in a powerful formation, ready to face any challenge that comes their way.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<captain america>",
+            "<hulk>"
+        ],
+        "In this dynamic image, the Avengers stand united against a backdrop of chaos, showcasing their unique powers and camaraderie. From left to right, <Wanda Maximoff>, <Quicksilver>, <Thor>, <Iron Man>, <Hulk>, <Captain America>, <Black Widow>, and <Hawkeye> prepare to face their next challenge. Each hero's distinctive abilities and personalities come together to form an unstoppable team, ready to defend the world from any threat.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<captain america>",
+            "<scarlet witch>"
+        ],
+        "The image depicts a group of superheroes from the Marvel Cinematic Universe, including <Thor>, <Iron Man>, <Captain America>, and <Scarlet Witch>. They stand together in a dramatic pose, ready for action, showcasing their unique abilities and iconic costumes.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<captain america>",
+            "<quick silver>"
+        ],
+        "In this dynamic image, the Avengers stand united against a backdrop of chaos, showcasing their unique abilities and unwavering commitment to justice. From left to right, Scarlet Witch's mystical powers, Quicksilver's incredible speed, Thor's godly might, Iron Man's technological prowess, Captain America's unwavering leadership, Black Widow's tactical acumen, and Hawkeye's precision marksmanship come together in a powerful display of teamwork and heroism.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<hawkeye>",
+            "<hulk>"
+        ],
+        "The image showcases a group of superheroes from the Marvel Cinematic Universe, including <Thor> with his iconic hammer Mj\u00f6lnir, <Iron Man> in his advanced Iron Man suit, <Hawkeye> with his bow and arrows, and <Hulk>. They stand together as the Avengers, ready to face any challenge that comes their way.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<hawkeye>",
+            "<scarlet witch>"
+        ],
+        "In this dynamic image, the Avengers stand united against a backdrop of chaos, showcasing their unique abilities and unwavering commitment to justice. From left to right, Scarlet Witch's mystical powers, Quicksilver's speed, Thor's godly might, Iron Man's technological prowess, Captain America's unwavering leadership, Black Widow's tactical brilliance, and Hawkeye's precision mark them as a formidable force in the face of adversity.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<hawkeye>",
+            "<quick silver>"
+        ],
+        "The image depicts a group of superheroes from the Marvel Cinematic Universe, including <Thor> (wielding Mj\u00f6lnir), <Iron Man>, <Hawkeye>, and <Quicksilver>. They stand together in a dramatic pose, ready for action, showcasing their unique abilities and costumes that reflect their individual powers and roles within the Avengers team.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<hulk>",
+            "<scarlet witch>"
+        ],
+        "In this dynamic image, the Avengers stand united against a backdrop of chaos, showcasing their unique powers and camaraderie. From left to right, Scarlet Witch's chaotic magic, Quicksilver's speed, Thor's thunderous might, Iron Man's technological prowess, Hulk's raw strength, Captain America's unwavering shield, Black Widow's tactical acumen, and Hawkeye's archery skills come together as they face an unseen threat. Each hero's presence highlights their individual strengths and the collective power of the team.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<hulk>",
+            "<quick silver>"
+        ],
+        "The image showcases a group of superheroes from the Marvel Cinematic Universe, including <Thor> with his iconic hammer Mj\u00f6lnir, <Iron Man> in his advanced Iron Man suit, <Hulk> in his muscular form, and <Quicksilver> with his distinctive appearance. They stand together as a formidable team, ready to face any challenge that comes their way.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<scarlet witch>",
+            "<quick silver>"
+        ],
+        "In this dynamic group shot, the Avengers stand united against a backdrop of chaos, showcasing their unique powers and unwavering resolve. From left to right, Scarlet Witch's mystical abilities, Quicksilver's superhuman speed, Thor's godly might, Iron Man's technological prowess, Captain America's unwavering leadership, Black Widow's tactical acumen, and Hawkeye's precision marksmanship come together in a display of unparalleled heroism.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<captain america>",
+            "<hawkeye>"
+        ],
+        "The image showcases the iconic Avengers lineup, featuring <Thor>, <Black Widow>, <Captain America>, and <Hawkeye>. Together, they stand as a formidable team, each bringing their unique abilities and strengths to protect the world from threats.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<captain america>",
+            "<hulk>"
+        ],
+        "In this dynamic image, the Avengers stand united against a backdrop of chaos, showcasing their unique abilities and unwavering commitment to justice. From left to right, <Wanda Maximoff>, <Quicksilver>, <Thor>, <Iron Man>, <Hulk>, <Captain America>, <Black Widow>, and <Hawkeye> embody the diverse strengths that make them an unbeatable team. Their powerful presence and readiness to face any threat highlight the essence of teamwork and heroism in the Marvel universe.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<captain america>",
+            "<scarlet witch>"
+        ],
+        "The image depicts a group of superheroes from the Marvel Cinematic Universe, including <Thor> (wielding Mj\u00f6lnir), <Black Widow>, <Captain America>, <Scarlet Witch>, and others, standing together as the Avengers, ready to face any challenge that comes their way.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<captain america>",
+            "<quick silver>"
+        ],
+        "In this dynamic group shot, the Avengers stand united against a backdrop of chaos, showcasing their unique abilities and unwavering commitment to justice. From left to right, Scarlet Witch's mystical powers, Quicksilver's superhuman speed, Thor's godly might, Iron Man's technological prowess, Captain America's moral leadership, Black Widow's tactical brilliance, and Hawkeye's archery skills come together to form an unstoppable force.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<hawkeye>",
+            "<hulk>"
+        ],
+        "The image showcases the iconic Avengers lineup, featuring <Thor>, <Black Widow>, <Hawkeye>, and <Hulk>. Together, they form a formidable team, each bringing their unique abilities and strengths to face the challenges ahead.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<hawkeye>",
+            "<scarlet witch>"
+        ],
+        "In this dynamic image, the Avengers stand united against a backdrop of chaos, showcasing their unique abilities and unwavering commitment to justice. From left to right, Scarlet Witch's mystical powers, Quicksilver's speed, Thor's godly might, Iron Man's technological prowess, Captain America's unwavering leadership, Black Widow's tactical brilliance, and Hawkeye's precision mark them as a formidable force. Their camaraderie and diverse strengths highlight the essence of teamwork that defines the Avengers.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<hawkeye>",
+            "<quick silver>"
+        ],
+        "The image showcases a group of superheroes from the Marvel Cinematic Universe, including <Thor> with his iconic hammer Mj\u00f6lnir, <Black Widow> with her tactical prowess, <Hawkeye> with his archery skills, and <Quicksilver> with his superhuman speed. They stand together as the Avengers, ready to face any challenge that comes their way.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<hulk>",
+            "<scarlet witch>"
+        ],
+        "In this epic scene from \"The Avengers,\" the iconic superhero team stands united against a formidable threat. From left to right, Scarlet Witch, Quicksilver, Thor, Iron Man, Captain America, Black Widow, and Hawkeye prepare for battle, showcasing their unique abilities and unwavering determination. This image captures the essence of teamwork and heroism that defines the Avengers' mission to protect the world from evil.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<hulk>",
+            "<quick silver>"
+        ],
+        "The image showcases the iconic Avengers lineup, featuring <Thor> with his hammer Mj\u00f6lnir, <Black Widow> in her tactical gear, <Hulk> in his muscular form, <Quicksilver> with his speed abilities, and other members of the team standing together against a backdrop of action and heroism.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<scarlet witch>",
+            "<quick silver>"
+        ],
+        "In this dynamic image, the Avengers stand united against a backdrop of chaos, showcasing their unique powers and unwavering resolve. From left to right, Scarlet Witch's mystical abilities, Quicksilver's superhuman speed, Thor's godly might, Iron Man's technological prowess, Captain America's unwavering leadership, Black Widow's tactical brilliance, and Hawkeye's archery skills come together to form an unstoppable force. Their camaraderie and shared purpose highlight the essence of teamwork that defines the Avengers.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<captain america>",
+            "<hawkeye>",
+            "<hulk>"
+        ],
+        "The image showcases the iconic Avengers lineup, featuring <Thor> with his hammer Mj\u00f6lnir, <Captain America> with his shield, <Hawkeye> with his bow, and <Hulk>. Together, they stand as a formidable team, ready to face any challenge that comes their way.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<captain america>",
+            "<hawkeye>",
+            "<scarlet witch>"
+        ],
+        "In this dynamic scene from \"The Avengers,\" the iconic team of superheroes stands united against a backdrop of cosmic chaos. From left to right, Scarlet Witch's mystical powers, Quicksilver's speed, Thor's thunderous might, Iron Man's technological prowess, Captain America's unwavering leadership, Black Widow's tactical brilliance, and Hawkeye's precision mark the formidable lineup. Each character's unique abilities contribute to their collective strength as they prepare to face an unprecedented threat.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<captain america>",
+            "<hawkeye>",
+            "<quick silver>"
+        ],
+        "The image showcases a group of superheroes from the Marvel Cinematic Universe, including <Thor>, <Captain America>, <Hawkeye>, and <Quicksilver>. They stand together in a powerful formation, ready to face any challenge that comes their way.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<captain america>",
+            "<hulk>",
+            "<scarlet witch>"
+        ],
+        "In this dynamic image, the Avengers stand united against a backdrop of chaos, showcasing their unique powers and unwavering commitment to justice. From left to right, Scarlet Witch's chaotic magic, Quicksilver's speed, Thor's thunderous might, Iron Man's technological prowess, Captain America's unwavering leadership, Black Widow's tactical acumen, and Hawkeye's archery skills come together as they face an unseen threat. Each hero's presence highlights the diverse strengths that make up the Avengers' formidable team.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<captain america>",
+            "<hulk>",
+            "<quick silver>"
+        ],
+        "The image showcases a group of superheroes from the Marvel Cinematic Universe, including <Thor> with his iconic hammer Mj\u00f6lnir, <Captain America> with his shield, <Hulk> in his green form, <Quicksilver> with his speed abilities, and other members of the Avengers team, all standing together as a formidable force against their enemies.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<hur>",
+            "<kim>",
+            "<kong>"
+        ],
+        "In this celebratory moment, <Jung>, <Hur>, <Kim>, <Kong>, and their fellow cast members proudly display their awards on stage. Their expressions and body language reflect a mix of joy, pride, and camaraderie as they celebrate their achievements together.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<hur>",
+            "<kim>",
+            "<moon>"
+        ],
+        "A group of accomplished actors, including <Jung>, <Hur>, <Kim>, and <Moon>, celebrate their achievements on stage, holding golden awards. Their elegant attire and radiant smiles highlight their success and camaraderie.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<hur>",
+            "<kim>",
+            "<sul>"
+        ],
+        "In this celebratory moment, <Jung>, <Hur>, <Kim>, <Sul>, and their fellow award recipients stand together, basking in the glow of recognition. Their composed yet radiant expressions highlight their achievements and the camaraderie that binds them as they celebrate their success on stage.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<hur>",
+            "<kong>",
+            "<moon>"
+        ],
+        "A group of actors, including <Jung>, <Hur>, <Kong>, and <Moon>, celebrate their achievements on stage, holding golden awards. Their formal attire and radiant smiles highlight their success and camaraderie.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<hur>",
+            "<kong>",
+            "<sul>"
+        ],
+        "In this celebratory moment, <Jung>, <Hur>, <Kong>, and <Sul> stand together on stage, each holding their prestigious awards. Their expressions convey a mix of pride and humility as they acknowledge their achievements. The vibrant backdrop and their formal attire highlight the significance of the event, capturing a memorable milestone in their careers.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<hur>",
+            "<moon>",
+            "<sul>"
+        ],
+        "A group of esteemed actors, including <Jung>, <Hur>, <Moon>, and <Sul>, celebrate their accolades on stage, showcasing their dedication and success in the industry.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<kim>",
+            "<kong>",
+            "<moon>"
+        ],
+        "In this celebratory moment, <Jung>, <Kim>, <Kong>, and <Moon> stand together on stage, each holding their prestigious awards. Their expressions range from serene to joyful, reflecting the pride and accomplishment of their achievements. The vibrant backdrop and formal attire highlight the significance of the event, capturing a memorable milestone in their careers.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<kim>",
+            "<kong>",
+            "<sul>"
+        ],
+        "A group of six actors, <Jung>, <Kim>, <Kong>, <Sul>, and two others, celebrate their achievements on stage at an awards ceremony. Dressed in formal attire, they hold golden statuettes, symbolizing their recognition and success in the industry. The vibrant backdrop and their proud expressions highlight the significance of this moment.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<kim>",
+            "<moon>",
+            "<sul>"
+        ],
+        "In this celebratory moment, <Jung>, <Kim>, <Moon>, and <Sul> stand together as award recipients, their smiles reflecting pride and accomplishment. Dressed in formal attire, they embody the essence of their characters\u2014refined, confident, and versatile. The vibrant backdrop and golden trophies symbolize their hard-earned success and recognition in the industry.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<kong>",
+            "<moon>",
+            "<sul>"
+        ],
+        "A group of six actors, <Jung>, <Kong>, <Moon>, <Sul>, and two others, celebrate their achievements on stage at an awards ceremony. Dressed in formal attire, they hold golden statuettes, symbolizing their recognition and success in the industry. The vibrant backdrop and their proud expressions highlight the significance of this moment.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<hur>",
+            "<kim>",
+            "<kong>",
+            "<moon>"
+        ],
+        "In this celebratory moment, <Hur>, <Kim>, <Kong>, and <Moon> stand together on stage, each holding their prestigious awards. Their expressions and body language exude pride and accomplishment, reflecting the hard work and dedication that has led them to this recognition. The vibrant backdrop and their elegant attire add to the festive atmosphere, capturing a significant milestone in their careers.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<hur>",
+            "<kim>",
+            "<kong>",
+            "<sul>"
+        ],
+        "A group of accomplished actors, including <Hur>, <Kim>, <Kong>, and <Sul>, celebrate their achievements with golden statuettes on stage, showcasing their dedication and success in the industry.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<hur>",
+            "<kim>",
+            "<moon>",
+            "<sul>"
+        ],
+        "In this celebratory moment, <Hur>, <Kim>, <Moon>, and <Sul> stand together, each holding their prestigious awards. Their expressions radiate pride and accomplishment, reflecting the hard work and dedication that has led them to this recognition. The vibrant backdrop and their elegant attire highlight the significance of the event, underscoring their achievements in the industry.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<hur>",
+            "<kong>",
+            "<moon>",
+            "<sul>"
+        ],
+        "A group of accomplished actors, including <Hur>, <Kong>, <Moon>, and <Sul>, celebrate their achievements on stage, holding golden awards that symbolize their hard-earned success and recognition in the industry.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<kim>",
+            "<kong>",
+            "<moon>",
+            "<sul>"
+        ],
+        "In this celebratory moment, <Kim>, <Kong>, <Moon>, and <Sul> stand together on stage, each holding their prestigious awards. Their poised expressions and elegant attire reflect their achievements and the respect they command in the industry. The vibrant backdrop adds a touch of glamour to this memorable occasion.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<sandy>",
+            "<spongebob>"
+        ],
+        "In this lively scene from *SpongeBob SquarePants*, SpongeBob, Mr. Krabs, Pearl, and Sandy are gathered together, possibly celebrating or preparing for an adventure. The characters' expressions and body language suggest camaraderie and excitement, highlighting their close-knit friendship.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<sandy>",
+            "<gary>"
+        ],
+        "In this lively scene from *SpongeBob SquarePants*, <Mr.Krabs> (the money-obsessed owner of the Krusty Krab) and <Pearl> (his daughter) are caught in a moment of surprise or excitement, with <Sandy> (the smart and strong Texan squirrel) looking on with a flower in her hair. The background reveals the familiar setting of the Krusty Krab, complete with its distinctive decor and flags. This snapshot captures the essence of the show's humor and the dynamic relationships between its characters.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<sandy>",
+            "<mrs.puff>"
+        ],
+        "In this lively scene from *SpongeBob SquarePants*, <Mr.Krabs> (the money-obsessed owner of the Krusty Krab) and <Pearl> (his daughter) are caught in a moment of surprise or excitement, with <Sandy> (the smart and strong Texan squirrel) and <Mrs.Puff> (SpongeBob\u2019s driving school teacher) also present, adding to the chaos and humor typical of the show.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<sandy>",
+            "<patrick>"
+        ],
+        "In this lively scene from *SpongeBob SquarePants*, <Mr.Krabs> (the money-obsessed owner of the Krusty Krab) and <Pearl> (his daughter) are caught in a moment of exaggerated emotion, possibly due to a humorous or dramatic situation involving <Sandy> (the smart and strong Texan squirrel). Meanwhile, <Patrick> (SpongeBob's best friend) looks on with his characteristic carefree smile, adding a touch of humor to the chaotic scene. The background suggests they're inside the Krusty Krab, with <SpongeBob> (not pictured here) likely at the center of their antics.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<sandy>",
+            "<squidward>"
+        ],
+        "In this lively scene from \"SpongeBob SquarePants,\" <Mr.Krabs> (left) and <Pearl> (center) are caught in a moment of surprise or excitement, while <Sandy> (right) looks on with a cheerful expression. The background reveals the Krusty Krab's interior, complete with SpongeBob and Patrick, adding to the bustling atmosphere of their underwater world.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<sandy>",
+            "<plankton>"
+        ],
+        "In this lively scene from *SpongeBob SquarePants*, <Mr.Krabs> (the money-obsessed owner of the Krusty Krab) and <Pearl> (his daughter) are caught in a moment of exaggerated emotion, possibly due to a humorous or dramatic situation involving <Plankton> (the tiny villain). The background reveals the familiar setting of the Krusty Krab, complete with <Sandy> (the smart, strong Texan squirrel) and SpongeBob, adding to the chaotic yet comedic atmosphere typical of the show.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<spongebob>",
+            "<gary>"
+        ],
+        "In this lively scene from *SpongeBob SquarePants*, <Mr.Krabs> (left) and <Pearl> (center) are caught in a moment of surprise as <SpongeBob> (right) and <Gary> (far right) look on with wide-eyed expressions. The background reveals the bustling interior of the Krusty Krab, complete with flags and a glimpse of the restaurant's iconic decor.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<spongebob>",
+            "<mrs.puff>"
+        ],
+        "In this lively scene from *SpongeBob SquarePants*, <Mr.Krabs> (the money-obsessed owner of the Krusty Krab) and <Pearl> (his daughter) are caught in a moment of surprise or excitement, with <SpongeBob> (the cheerful and hardworking sea sponge) and <Mrs.Puff> (his driving school teacher) looking on with expressions of amusement and concern. The background suggests they're in the Krusty Krab, adding to the comedic chaos typical of their adventures.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<spongebob>",
+            "<patrick>"
+        ],
+        "In this lively scene from \"SpongeBob SquarePants,\" <Mr.Krabs> and <Pearl> are seen in a moment of tension, with <Mr.Krabs> seemingly threatening <Pearl>. Meanwhile, <SpongeBob> and <Patrick> look on with expressions of surprise and concern, adding to the comedic chaos that's characteristic of their adventures.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<spongebob>",
+            "<squidward>"
+        ],
+        "In this lively scene from \"SpongeBob SquarePants,\" <Mr.Krabs> (the money-obsessed owner of the Krusty Krab) and <Pearl> (his daughter) are seen in a moment of excitement, possibly celebrating or reacting to something thrilling. Meanwhile, <SpongeBob> (the cheerful and hardworking sea sponge) and <Squidward> (the grumpy neighbor) look on with expressions that range from curiosity to amusement. The background suggests they're in the Krusty Krab, adding to the comedic and chaotic atmosphere typical of the show.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<spongebob>",
+            "<plankton>"
+        ],
+        "In this image from \"SpongeBob SquarePants,\" <Mr.Krabs> (the money-obsessed owner of the Krusty Krab) and <Pearl> (his daughter) are seen in a scene filled with exaggerated expressions and comedic antics. <SpongeBob> (the cheerful and hardworking sea sponge) is also present, adding to the lively and humorous atmosphere. The image captures the essence of the show's slapstick humor and the dynamic relationships between its characters.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<gary>",
+            "<mrs.puff>"
+        ],
+        "In this lively scene from *SpongeBob SquarePants*, SpongeBob, Patrick, Squidward, and other friends gather around Mr. Krabs, who appears to be in a state of panic or excitement. The background suggests they might be inside the Krusty Krab, with its distinctive decor. This moment captures the essence of their quirky and unpredictable adventures together!",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<gary>",
+            "<patrick>"
+        ],
+        "In this lively scene from *SpongeBob SquarePants*, SpongeBob, Patrick, Gary, Pearl, and Mr. Krabs gather together, each displaying their unique personalities. SpongeBob's infectious smile and enthusiasm contrast with Patrick's characteristic carefree expression, while Gary's curious eyes and Pearl's energetic cheerleading pose add to the dynamic group. The background hints at the Krusty Krab's interior, with its familiar decor and flags, setting the stage for another day of adventure and camaraderie.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<gary>",
+            "<squidward>"
+        ],
+        "In this lively scene from \"SpongeBob SquarePants,\" <Mr.Krabs> (the money-obsessed owner of the Krusty Krab) and <Pearl> (his daughter) are caught in a moment of excitement, possibly celebrating or reacting to something thrilling. Meanwhile, <Gary> (SpongeBob's pet snail) and <Squidward> (SpongeBob's grumpy neighbor) look on with their characteristic expressions, adding to the comedic chaos that is a hallmark of the show. The background suggests they're inside the Krusty Krab, with its iconic decor and flags.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<gary>",
+            "<plankton>"
+        ],
+        "In this lively scene from *SpongeBob SquarePants*, <Mr.Krabs> (the money-obsessed owner of the Krusty Krab) and <Pearl> (his daughter) are seen in a moment of excitement, possibly celebrating or reacting to something thrilling. The background reveals the familiar setting of the Krusty Krab, complete with its iconic decor. Meanwhile, <Gary> (SpongeBob's pet snail) and <Plankton> (the tiny villain) are also present, adding to the chaotic yet humorous atmosphere that is characteristic of the show.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<mrs.puff>",
+            "<patrick>"
+        ],
+        "In this lively scene from *SpongeBob SquarePants*, <Mr.Krabs> (the money-obsessed owner of the Krusty Krab) and <Pearl> (his daughter) are caught in a moment of exaggerated emotion, possibly due to a dramatic situation at the Krusty Krab. Meanwhile, <Mrs.Puff> (SpongeBob's driving school teacher) appears in the background, looking worried as she watches the chaos unfold. The image captures the essence of the show's humor and the dynamic relationships between its characters.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<mrs.puff>",
+            "<squidward>"
+        ],
+        "In this lively scene from \"SpongeBob SquarePants,\" <Mr.Krabs> and <Pearl> are caught in a moment of surprise or excitement, while <Squidward> looks on with a disinterested expression. The background reveals the bustling environment of the Krusty Krab, complete with other characters and decorations that add to the vibrant atmosphere.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<mrs.puff>",
+            "<plankton>"
+        ],
+        "In this lively scene from *SpongeBob SquarePants*, <Mr.Krabs> (the money-obsessed owner of the Krusty Krab) and <Pearl> (his daughter) are caught in a moment of exaggerated emotion, possibly due to a comical situation involving <Plankton> (the tiny villain). The background reveals the familiar setting of the Krusty Krab, complete with SpongeBob and other characters, adding to the chaotic yet endearing atmosphere of the show.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<patrick>",
+            "<squidward>"
+        ],
+        "In this lively scene from *SpongeBob SquarePants*, <Mr.Krabs> (the money-obsessed owner of the Krusty Krab) and <Pearl> (his daughter) are seen in a moment of excitement, possibly celebrating or reacting to something thrilling. Meanwhile, <Patrick> (SpongeBob's best friend) and <Squidward> (SpongeBob's grumpy neighbor) look on with expressions that range from amused to exasperated, adding to the comedic dynamic of the group.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<patrick>",
+            "<plankton>"
+        ],
+        "In this lively scene from *SpongeBob SquarePants*, <Mr.Krabs> (the money-obsessed owner of the Krusty Krab) is seen in a moment of intense emotion, possibly due to a financial crisis or a sudden realization. His exaggerated expression and the dollar signs above his head emphasize his obsession with profit. Meanwhile, <Pearl> (his daughter), <Patrick> (SpongeBob's best friend), and <Plankton> (the tiny villain) are caught in the background, adding to the chaotic and humorous atmosphere typical of the show. The image captures the essence of the series' blend of slapstick comedy and quirky characters.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<squidward>",
+            "<plankton>"
+        ],
+        "In this image from \"SpongeBob SquarePants,\" <Mr.Krabs> (the money-obsessed owner of the Krusty Krab) is seen with <Pearl> (his daughter), <Squidward> (SpongeBob's grumpy neighbor), and <Plankton> (the tiny villain). They appear to be in a chaotic scene, possibly at the Krusty Krab, given the background elements like the Krabby Patty machine and the restaurant's decor. The characters' expressions suggest a moment of surprise or excitement, adding to the comedic tone of the show.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<sandy>",
+            "<spongebob>",
+            "<gary>"
+        ],
+        "In this lively scene from *SpongeBob SquarePants*, <SpongeBob> is surrounded by his friends, including <Mr.Krabs>, <Sandy>, and <Gary>. They appear to be in a moment of camaraderie or perhaps a humorous situation, with <SpongeBob> looking particularly excited. The colorful and vibrant setting reflects the show's signature style, filled with adventure and friendship.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<sandy>",
+            "<spongebob>",
+            "<mrs.puff>"
+        ],
+        "In this lively scene from *SpongeBob SquarePants*, <Sandy> (the smart and strong Texan squirrel) is seen with a flower on her head, exuding confidence and cheerfulness. Meanwhile, <SpongeBob> (the optimistic and hardworking sea sponge) is enthusiastically climbing a cliff, showcasing his adventurous spirit. The background features <Mr.Krabs> (the money-obsessed owner of the Krusty Krab), <Mrs.Puff> (SpongeBob\u2019s driving school teacher), and other quirky characters, adding to the vibrant and comedic atmosphere of the show.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<sandy>",
+            "<spongebob>",
+            "<patrick>"
+        ],
+        "In this lively scene from *SpongeBob SquarePants*, <SpongeBob> and <Patrick> are joined by <Mr.Krabs> and <Sandy> in a moment of camaraderie. <SpongeBob>'s infectious enthusiasm and <Patrick>'s carefree nature create a humorous backdrop, while <Mr.Krabs>'s usual greediness adds a touch of tension. Meanwhile, <Sandy>'s presence brings a dose of wisdom and strength to the group, making it a perfect snapshot of their unique friendship dynamics.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<sandy>",
+            "<spongebob>",
+            "<squidward>"
+        ],
+        "In this lively scene from \"SpongeBob SquarePants,\" <SpongeBob> and friends are gathered together, showcasing their unique personalities and camaraderie. <Mr.Krabs> appears in the background, with <Sandy> and <Squidward> also present, adding depth to the group dynamic. The setting, filled with colorful decorations and a sense of adventure, reflects the show's vibrant and humorous tone.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<sandy>",
+            "<spongebob>",
+            "<plankton>"
+        ],
+        "In this lively scene from *SpongeBob SquarePants*, <Mr.Krabs> (the money-obsessed owner of the Krusty Krab) and <Sandy> (the smart, strong Texan squirrel) are seen alongside <SpongeBob> (the cheerful and hardworking sea sponge). They appear to be in a moment of camaraderie or perhaps a humorous interaction, as <Plankton> (the tiny villain with a big ego) looks on with a mischievous grin. The background suggests they're in the Krusty Krab, adding to the context of their shared environment.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<sandy>",
+            "<gary>",
+            "<mrs.puff>"
+        ],
+        "In this lively scene from *SpongeBob SquarePants*, SpongeBob, Patrick, Squidward, Mr. Krabs, Sandy, Gary, and Mrs. Puff gather together, each bringing their unique personalities and quirks to the mix. The colorful and chaotic setting reflects the show's signature humor and camaraderie among its beloved characters.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<sandy>",
+            "<gary>",
+            "<patrick>"
+        ],
+        "In this lively scene from *SpongeBob SquarePants*, SpongeBob, Patrick, Mr. Krabs, Sandy, and Gary gather together, showcasing their unique personalities and camaraderie. SpongeBob, with his infectious smile, stands at the center, while Patrick, ever the lovable fool, adds humor with his antics. Mr. Krabs, with his greedy nature, is seen in the background, while Sandy, the smart and brave Texan squirrel, and Gary, the meowing snail, complete the ensemble. This snapshot captures the essence of their friendship and the adventures they embark on together!",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<sandy>",
+            "<gary>",
+            "<squidward>"
+        ],
+        "In this lively scene from \"SpongeBob SquarePants,\" <Mr.Krabs> (left) and <Sandy> (center) are caught in a moment of surprise, while <Gary> (right) looks on with wide eyes. The background reveals the bustling environment of the Krusty Krab, with <Squidward> (far right) standing nearby, adding to the comedic chaos.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<sandy>",
+            "<gary>",
+            "<plankton>"
+        ],
+        "In this lively scene from *SpongeBob SquarePants*, <Mr.Krabs> (the money-obsessed owner of the Krusty Krab) is seen in a moment of intense emotion, possibly due to a financial crisis or a business setback. Meanwhile, <Sandy> (the smart and strong Texan squirrel) stands confidently, ready to offer her scientific expertise and karate skills to help out. <Gary> (SpongeBob's pet snail) looks on with a curious expression, while <Plankton> (the tiny villain with a big ego) appears to be plotting another failed scheme. The background reveals the familiar setting of the Krusty Krab, complete with its distinctive decor and flags. This snapshot captures the essence of the show's humor and the dynamic relationships between its quirky characters.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<jae>",
+            "<lee>"
+        ],
+        "A group of talented actors and actresses gather at a Netflix event, showcasing their diverse styles and personalities. The vibrant backdrop and formal attire highlight their professionalism and star power.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<jae>",
+            "<yang>"
+        ],
+        "In this vibrant Netflix event, <Cho> radiates youthful energy in a stylish black ensemble, while <Wei>, <Jae>, and <Yang> showcase their distinct personalities through their attire and expressions. The group stands united against a colorful backdrop, highlighting their camaraderie and shared passion for entertainment.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<jae>",
+            "<lim>"
+        ],
+        "A vibrant group photo featuring <Cho>, <Wei>, <Jae>, and <Lim> at a Netflix event, showcasing their diverse talents and stylish appearances against a colorful backdrop.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<jae>",
+            "<park>"
+        ],
+        "In this vibrant promotional event, <Cho> radiates youthful energy and charisma, greeting fans with a warm wave. Surrounded by fellow cast members, <Wei>, <Jae>, and <Park>, they collectively embody the essence of their upcoming project, showcasing their unique talents and styles against a colorful backdrop.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<jae>",
+            "<wook>"
+        ],
+        "A group of actors, including <Cho>, <Wei>, <Jae>, and <Wook>, gather at a Netflix event, showcasing their diverse talents and styles. The vibrant backdrop and formal attire highlight the excitement and professionalism of the occasion.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<lee>",
+            "<yang>"
+        ],
+        "In this vibrant Netflix event, <Cho> radiates youthful energy in a stylish black ensemble, while <Wei>, <Lee>, and <Yang> showcase their distinct personalities through their sophisticated and approachable looks. The group's camaraderie and shared passion for entertainment shine brightly against the colorful backdrop.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<lee>",
+            "<lim>"
+        ],
+        "A vibrant group photo featuring <Cho>, <Wei>, <Lee>, and <Lim> at a Netflix event, showcasing their diverse talents and stylish appearances in front of a colorful backdrop.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<lee>",
+            "<park>"
+        ],
+        "In this vibrant group photo, <Cho> radiates youthful energy and confidence, standing out in a stylish black ensemble against a colorful backdrop. The camaraderie among the group members is palpable as they gather together, showcasing their unique styles and personalities.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<lee>",
+            "<wook>"
+        ],
+        "A group of actors and actresses, including <Cho>, <Wei>, <Lee>, and <Wook>, gather on a vibrant pink and yellow backdrop, showcasing their diverse styles and personalities at what appears to be a Netflix event.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<yang>",
+            "<lim>"
+        ],
+        "In this vibrant group photo, <Cho> radiates energy and cheerfulness in her stylish black outfit, while <Wei> exudes quiet strength and sophistication in his minimalist attire. <Yang> adds a touch of creativity and approachability with his Netflix varsity jacket and round glasses. <Lim> brings realism and relatability to the scene with his office-style portrayal. Together, they create a dynamic and engaging ensemble that captures the essence of their personalities and talents.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<yang>",
+            "<park>"
+        ],
+        "A group of talented actors and actresses gather on stage, showcasing their unique styles and personalities. The vibrant backdrop and formal attire highlight their camaraderie and shared passion for the arts.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<yang>",
+            "<wook>"
+        ],
+        "In this vibrant group photo, <Cho> radiates youthful energy and confidence, standing out in her stylish black ensemble against the colorful backdrop. The other individuals, including <Wei>, <Yang>, and <Wook>, bring their unique charisma and professionalism to the scene, creating a dynamic and engaging atmosphere. Their diverse styles and personalities come together to form a captivating visual narrative.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<lim>",
+            "<park>"
+        ],
+        "A group of talented actors and actresses gather on a vibrant stage, showcasing their unique styles and personalities. The backdrop features a mix of pink and yellow geometric shapes, adding a playful yet sophisticated touch to the scene. Each individual's attire reflects their distinct character, from <Cho>'s youthful and cheerful presence to <Park>'s elegant and modern elegance. The overall atmosphere is one of camaraderie and shared passion for their craft.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<lim>",
+            "<wook>"
+        ],
+        "In this vibrant and energetic scene, <Cho> stands out with her bright and cheerful aura, radiating youthful confidence and style. Surrounded by fellow cast members, <Wei>, <Lim>, and <Wook>, they collectively bring a mix of intensity, professionalism, and relatable charm to the Netflix event. The colorful backdrop and formal attire highlight their diverse talents and personalities, making it a memorable moment for fans and industry observers alike.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<park>",
+            "<wook>"
+        ],
+        "A group of talented actors and actresses gather on a vibrant pink and yellow backdrop, showcasing their unique styles and personalities. The ensemble includes <Cho> with her bright and cheerful aura, <Wei> exuding quiet strength, <Park> bringing sophistication, and <Wook> giving off a composed and intellectual vibe. Together, they create a dynamic and visually striking scene.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<lee>",
+            "<yang>"
+        ],
+        "In this vibrant Netflix event, <Cho> exudes youthful energy in a stylish black ensemble, while <Jae> commands attention with his mature presence and piercing eyes. <Lee>'s warm smile and refined appearance add depth to the group, and <Yang>'s casual yet creative vibe brings a touch of artistry. Together, they form a dynamic and visually appealing cast, capturing the essence of Netflix's diverse talent pool.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<lee>",
+            "<lim>"
+        ],
+        "A group of actors, including <Cho>, <Jae>, <Lee>, and <Lim>, gather at a Netflix event, showcasing their diverse talents and stylish appearances against a vibrant backdrop.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<lee>",
+            "<park>"
+        ],
+        "In this vibrant promotional event, <Cho> exudes youthful energy and confidence, greeting fans with a warm wave. Surrounded by fellow actors, including <Jae> and <Lee>, they stand united in their stylish ensembles, showcasing the camaraderie and professionalism that define their industry. The backdrop of pink and yellow hues adds a lively touch to the scene, highlighting the excitement of the moment.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<lee>",
+            "<wook>"
+        ],
+        "A group of actors, including <Cho>, <Jae>, <Lee>, and <Wook>, gather together at what appears to be a Netflix event, showcasing their camaraderie and shared passion for entertainment.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<yang>",
+            "<lim>"
+        ],
+        "In this vibrant group photo, <Cho> stands out in her stylish black ensemble, radiating youthful energy and confidence. The backdrop features a bold pink and yellow design, complementing her fashionable outfit. This image captures the essence of her bright and cheerful persona, making it a standout moment in the group.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<yang>",
+            "<park>"
+        ],
+        "A group of talented actors and actresses gather at a Netflix event, showcasing their diverse styles and personalities. The vibrant backdrop and formal attire highlight their professionalism and the excitement of the occasion.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<yang>",
+            "<wook>"
+        ],
+        "In this vibrant Netflix event, <Cho> radiates youthful energy and confidence, waving to the audience with a bright smile. Surrounded by fellow cast members, <Jae>, <Yang>, and <Wook>, they exude a mix of professionalism and camaraderie, showcasing their diverse talents and personalities. The colorful backdrop and stylish attire add to the lively atmosphere, highlighting the excitement of the occasion.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<lim>",
+            "<park>"
+        ],
+        "A group of talented actors and actresses gather together at a Netflix event, showcasing their stylish and polished appearances. The vibrant backdrop and formal attire highlight their professionalism and the excitement of the occasion.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<lim>",
+            "<wook>"
+        ],
+        "In this vibrant group photo, <Cho> radiates youthful energy and confidence, standing out in her stylish black ensemble against the colorful backdrop. The camaraderie among the group is palpable as they gather together, showcasing their diverse talents and personalities.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<park>",
+            "<wook>"
+        ],
+        "A group of talented actors and actresses gather together at a Netflix event, showcasing their stylish and polished appearances. The vibrant backdrop and formal attire highlight their professionalism and the high-profile nature of the occasion.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<lee>",
+            "<yang>",
+            "<lim>"
+        ],
+        "In this vibrant Netflix event, <Cho> exudes youthful energy in a stylish black ensemble, while <Lee> and <Yang> bring their unique charisma and warmth to the stage. The group photo captures the essence of their diverse talents and the collaborative spirit behind the scenes.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<lee>",
+            "<yang>",
+            "<park>"
+        ],
+        "A group of talented actors and actresses gather on stage, showcasing their unique styles and personalities. The vibrant backdrop and coordinated outfits highlight their camaraderie and shared passion for entertainment.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<lee>",
+            "<yang>",
+            "<wook>"
+        ],
+        "In this vibrant group photo, <Cho> stands out with her bright and cheerful aura, radiating youthful confidence and style. The backdrop features a Netflix logo, suggesting a promotional event or premiere. The group's diverse styles and personalities come together against a colorful, energetic setting, capturing the essence of their collaborative spirit.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<lee>",
+            "<lim>",
+            "<park>"
+        ],
+        "A group of talented actors and actresses gather on stage, showcasing their unique styles and personalities. The vibrant backdrop and formal attire highlight their professionalism and star power.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<lee>",
+            "<lim>",
+            "<wook>"
+        ],
+        "In this vibrant image, <Cho> stands out with her bright and cheerful aura, radiating youthful confidence and style. The backdrop features a colorful design, adding to the lively atmosphere. Alongside her, the group photo captures the essence of camaraderie and professionalism, with <Lee>, <Lim>, and <Wook> contributing their unique charm and presence. Their diverse yet harmonious expressions highlight the dynamic nature of the event they're attending.",
+        "Give a personalized caption of this image."
+    ]
+]

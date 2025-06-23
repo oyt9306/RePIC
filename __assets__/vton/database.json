@@ -1,0 +1,20 @@
+{
+    "concept_dict": {
+        "<outfit_1329>": {
+            "name": "outfit_1329",
+            "image": "./__assets__/vton/outfit.jpg",
+            "info": "In this cloth, it contains a message explaining that the actual content cannot be displayed because the file format is not supported.",
+            "category": "clothes"
+        },
+        "<customer1>": {
+            "name": "customer1",
+            "image": "./__assets__/vton/jenson.png",
+            "info": "He cofounded graphics-chip maker Nvidia in 1993 and has served as its CEO and president ever since.",
+            "category": "human"
+        }
+    },
+    "path_to_concept": {
+        "./__assets__/vton/outfit.jpg": "<outfit_1329>",
+        "./__assets__/vton/jenson.png": "<customer1>"
+    }
+}

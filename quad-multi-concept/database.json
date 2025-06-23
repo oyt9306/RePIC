@@ -1,0 +1,230 @@
+{
+    "concept_dict": {
+        "<thor>": {
+            "name": "Thor",
+            "image": "./quad-multi-concept/avengers/thor.jpg",
+            "info": "Thor is the Norse God of Thunder, wielding the enchanted hammer Mjölnir, which grants him control over lightning and the ability to fly. As the prince of Asgard, he brings cosmic power and divine strength to the Avengers.",
+            "category": "human"
+        },
+        "<ironman>": {
+            "name": "Iron Man",
+            "image": "./quad-multi-concept/avengers/ironman.jpg",
+            "info": "A billionaire genius and inventor, Tony Stark fights using his high-tech Iron Man suits equipped with advanced weaponry and AI systems. He is one of the founding members and the financial backbone of the Avengers.",
+            "category": "human"
+        },
+        "<black widow>": {
+            "name": "Black Widow",
+            "image": "./quad-multi-concept/avengers/black widow.jpg",
+            "info": "A former Russian spy and master martial artist, Black Widow uses her intelligence, agility, and espionage skills to support the Avengers. Despite lacking superpowers, she plays a crucial leadership and tactical role in the team.",
+            "category": "human"
+        },
+        "<captain america>": {
+            "name": "Captain America",
+            "image": "./quad-multi-concept/avengers/captain america.jpg",
+            "info": "Enhanced to peak human potential by a super-soldier serum, Captain America is a symbol of justice, courage, and leadership. Armed with an indestructible shield, he leads the Avengers with moral clarity and battlefield expertise.",
+            "category": "human"
+        },
+        "<hawkeye>": {
+            "name": "Hawkeye",
+            "image": "./quad-multi-concept/avengers/hawkeye.jpg",
+            "info": "A master archer with extraordinary aim and combat skills, Hawkeye is a former S.H.I.E.L.D. agent who supports the team with strategic precision. Though human, his loyalty and resourcefulness make him a dependable Avenger.",
+            "category": "human"
+        },
+        "<hulk>": {
+            "name": "Hulk",
+            "image": "./quad-multi-concept/avengers/hulk.jpg",
+            "info": "After a gamma radiation accident, scientist Bruce Banner transforms into the Hulk, a giant green being of immense strength and rage. Despite his uncontrollable nature, Hulk is an unstoppable force in battle.",
+            "category": "human"
+        },
+        "<scarlet witch>": {
+            "name": "Scarlet Witch",
+            "image": "./quad-multi-concept/avengers/scalet witch.jpg",
+            "info": "Gifted with chaos magic and telekinesis, Scarlet Witch can manipulate reality and minds with incredible power. Initially a foe, she becomes one of the most powerful and emotionally complex Avengers.",
+            "category": "human"
+        },
+        "<quick silver>": {
+            "name": "Quicksilver",
+            "image": "./quad-multi-concept/avengers/quick silver.jpg",
+            "info": "Scarlet Witch’s twin brother, Quicksilver possesses superhuman speed, allowing him to move and react faster than the eye can see. He is impulsive and protective, often acting before thinking to shield those he cares about.",
+            "category": "human"
+        },
+        "<jung>": {
+            "name": "Jung",
+            "image": "./quad-multi-concept/movie/jung.jpg",
+            "info": "A rising young actor with refined features and a calm demeanor, he often portrays complex and introspective characters. His composed expressions reflect emotional depth and versatility.",
+            "category": "human"
+        },
+        "<hur>": {
+            "name": "Hur",
+            "image": "./quad-multi-concept/movie/hur.jpg",
+            "info": "He is a seasoned actor known for his commanding presence and powerful emotional range. His intense gaze and mature charisma make him a standout in dramatic roles.",
+            "category": "human"
+        },
+        "<kim>": {
+            "name": "Kim",
+            "image": "./quad-multi-concept/movie/kim.jpg",
+            "info": "She is an experienced actress known for her confident stance and sharp elegance. Her poised expressions convey strength and determination in every role.",
+            "category": "human"
+        },
+        "<kong>": {
+            "name": "Kong",
+            "image": "./quad-multi-concept/movie/kong.jpg",
+            "info": "A fresh and youthful actress, she radiates natural beauty and subtle charisma. Her expressive eyes suggest both innocence and emotional sensitivity.",
+            "category": "human"
+        },
+        "<moon>": {
+            "name": "Moon",
+            "image": "./quad-multi-concept/movie/moon.jpg",
+            "info": "She is a graceful and composed actress with a timeless elegance. Her confident smile and refined presence reflect her experience in diverse roles.",
+            "category": "human"
+        },
+        "<sul>": {
+            "name": "Sul",
+            "image": "./quad-multi-concept/movie/sul.jpg",
+            "info": "With his dignified suit and serious expression, he exudes professionalism and authority. Often cast in leadership or villain roles, his strong aura commands attention.",
+            "category": "human"
+        },
+        "<mr.krab>": {
+            "name": "Mr.Krabs",
+            "image": "./quad-multi-concept/spongebob/mr.krab.jpg",
+            "info": "He is the money-obsessed owner of the Krusty Krab and father to Pearl. Always chasing profit, he often puts business above all else, but cares deeply about his restaurant.",
+            "category": "character"
+        },
+        "<pearl>": {
+            "name": "Pearl",
+            "image": "./quad-multi-concept/spongebob/pearl.jpg",
+            "info": "Pearl is Mr. Krabs’ teenage daughter, a whale with big dreams and strong emotions. She often struggles to relate to her frugal father’s values.",
+            "category": "character"
+        },
+        "<sandy>": {
+            "name": "Sandy",
+            "image": "./quad-multi-concept/spongebob/sandy.jpg",
+            "info": "Sandy is a smart, strong Texan squirrel who lives underwater in a special dome. She's an expert in science and karate, often acting as the voice of reason.",
+            "category": "character"
+        },
+        "<spongebob>": {
+            "name": "SpongeBob",
+            "image": "./quad-multi-concept/spongebob/spongebob.jpg",
+            "info": "SpongeBob is a cheerful and hardworking sea sponge who lives in a pineapple under the sea. Known for his optimism and energy, he’s a loyal friend and passionate fry cook.",
+            "category": "character"
+        },
+        "<gary>": {
+            "name": "Gary",
+            "image": "./quad-multi-concept/spongebob/gary.jpg",
+            "info": "Gary is SpongeBob’s pet snail who meows like a cat and shows surprising intelligence. Despite his quiet demeanor, he plays a loyal and thoughtful role in SpongeBob’s life.",
+            "category": "character"
+        },
+        "<mrs.puff>": {
+            "name": "Mrs.Puff",
+            "image": "./quad-multi-concept/spongebob/mrs.puff.jpg",
+            "info": "She is SpongeBob’s driving school teacher who lives in constant fear of his chaotic driving. Her nervous and cautious nature often lands her in humorous trouble.",
+            "category": "character"
+        },
+        "<patrick>": {
+            "name": "Patrick",
+            "image": "./quad-multi-concept/spongebob/patrick.jpg",
+            "info": "Patrick is SpongeBob’s best friend, known for his lovable stupidity and carefree attitude. Though not the brightest, he always means well and provides comic relief.",
+            "category": "character"
+        },
+        "<squidward>": {
+            "name": "Squidward",
+            "image": "./quad-multi-concept/spongebob/squidward.jpg",
+            "info": "Squidward is SpongeBob’s grumpy neighbor and co-worker who dreams of a peaceful, artistic life. He is often annoyed by SpongeBob’s boundless enthusiasm.",
+            "category": "character"
+        },
+        "<plankton>": {
+            "name": "Plankton",
+            "image": "./quad-multi-concept/spongebob/plankton.jpg",
+            "info": "A tiny villain with a big ego, Plankton constantly schemes to steal the Krabby Patty secret formula. Despite his evil plans, he often ends up failing in hilarious ways.",
+            "category": "character"
+        },
+        "<cho>": {
+            "name": "Cho",
+            "image": "./quad-multi-concept/squidgame/cho.jpg",
+            "info": "A rising actress with a bright and cheerful aura, she brings energy to the screen and stage alike. Her youthful confidence and style catch the spotlight with ease.",
+            "category": "human"
+        },
+        "<wei>": {
+            "name": "Wei",
+            "image": "./quad-multi-concept/squidgame/wei.jpg",
+            "info": "He exudes quiet strength and sophistication, often portraying serious and intense characters. His minimalist style enhances his charismatic presence.",
+            "category": "human"
+        },
+        "<jae>": {
+            "name": "Jae",
+            "image": "./quad-multi-concept/squidgame/jae.jpg",
+            "info": "Known for his commanding presence and mature charm, he often takes on pivotal, emotionally complex roles. His sharp gaze adds weight to every performance.",
+            "category": "human"
+        },
+        "<lee>": {
+            "name": "Lee",
+            "image": "./quad-multi-concept/squidgame/lee.jpg",
+            "info": "A globally recognized actor, he is renowned for his versatile acting and warm smile. His refined appearance blends intensity with approachability.",
+            "category": "human"
+        },
+        "<yang>": {
+            "name": "Yang",
+            "image": "./quad-multi-concept/squidgame/yang.jpg",
+            "info": "Wearing a Netflix varsity jacket, he blends a casual and creative vibe with unique personality. His round glasses and natural curls enhance his artistic and approachable look.",
+            "category": "human"
+        },
+        "<suhwan>": {
+            "name": "Suhwan",
+            "image": "./quad-multi-concept/squidgame/suhwan.jpg",
+            "info": "Wearing a Netflix varsity jacket, he blends a casual and creative vibe with unique personality. His round glasses and natural curls enhance his artistic and approachable look.",
+            "category": "human"
+        },
+        "<lim>": {
+            "name": "Lim",
+            "image": "./quad-multi-concept/squidgame/lim.jpg",
+            "info": "With a youthful and sincere look, he brings realism and relatability to his roles. His office-style portrayal highlights everyday charm and depth.",
+            "category": "human"
+        },
+        "<park>": {
+            "name": "Park",
+            "image": "./quad-multi-concept/squidgame/park.jpg",
+            "info": "An elegant actress with a modern and poised style, she brings sophistication to her roles. Her calm gaze and confident stance show her composure and strength.",
+            "category": "human"
+        },
+        "<wook>": {
+            "name": "Wook",
+            "image": "./quad-multi-concept/squidgame/wook.jpg",
+            "info": "He gives off a composed and intellectual aura, often seen in professional or office settings. His subtle smile and clean-cut appearance suggest quiet confidence and thoughtfulness.",
+            "category": "human"
+        }
+    },
+    "path_to_concept": {
+        "./quad-multi-concept/squidgame/cho.jpg": "<cho>",
+        "./quad-multi-concept/squidgame/jae.jpg": "<jae>",
+        "./quad-multi-concept/squidgame/lee.jpg": "<lee>",
+        "./quad-multi-concept/squidgame/lim.jpg": "<lim>",
+        "./quad-multi-concept/squidgame/yang.jpg": "<yang>",
+        "./quad-multi-concept/squidgame/wook.jpg": "<wook>",
+        "./quad-multi-concept/squidgame/wei.jpg": "<wei>",
+        "./quad-multi-concept/squidgame/suhwan.jpg": "<suhwan>",
+        "./quad-multi-concept/squidgame/park.jpg": "<park>",
+        "./quad-multi-concept/spongebob/mr.krab.jpg": "<mr.krab>",
+        "./quad-multi-concept/spongebob/mrs.puff.jpg": "<mrs.puff>",
+        "./quad-multi-concept/spongebob/patrick.jpg": "<patrick>",
+        "./quad-multi-concept/spongebob/plankton.jpg": "<plankton>",
+        "./quad-multi-concept/spongebob/sandy.jpg": "<sandy>",
+        "./quad-multi-concept/spongebob/pearl.jpg": "<pearl>",
+        "./quad-multi-concept/spongebob/squidward.jpg": "<squidward>",
+        "./quad-multi-concept/spongebob/spongebob.jpg": "<spongebob>",
+        "./quad-multi-concept/spongebob/gary.jpg": "<gary>",
+        "./quad-multi-concept/movie/jung.jpg": "<jung>",
+        "./quad-multi-concept/movie/kong.jpg": "<kong>",
+        "./quad-multi-concept/movie/moon.jpg": "<moon>",
+        "./quad-multi-concept/movie/sul.jpg": "<sul>",
+        "./quad-multi-concept/movie/kim.jpg": "<kim>",
+        "./quad-multi-concept/movie/hur.jpg": "<hur>",
+        "./quad-multi-concept/avengers/black widow.jpg": "<black widow>",
+        "./quad-multi-concept/avengers/captain america.jpg": "<captain america>",
+        "./quad-multi-concept/avengers/hawkeye.jpg": "<hawkeye>",
+        "./quad-multi-concept/avengers/quick silver.jpg": "<quick silver>",
+        "./quad-multi-concept/avengers/thor.jpg": "<thor>",
+        "./quad-multi-concept/avengers/ironman.jpg": "<ironman>",
+        "./quad-multi-concept/avengers/scalet witch.jpg": "<scarlet witch>",
+        "./quad-multi-concept/avengers/hulk.jpg": "<hulk>"
+    }
+}

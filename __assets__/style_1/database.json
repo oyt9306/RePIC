@@ -1,0 +1,13 @@
+{
+    "concept_dict": {
+        "<style1>": {
+            "name": "style1",
+            "image": "./__assets__/style/concept1.jpg",
+            "info": "The image shows an illustration of a woman working at a desk. The environment around her includes several potted plants, giving a fresh and calming atmosphere. There is also a shelf with books and another small plant behind her. The color scheme is mostly in shades of blue and soft orange, creating a clean and modern look.",
+            "category": "human"
+        }
+    },
+    "path_to_concept": {
+        "./__assets__/style/concept1.jpg": "<style1>"
+    }
+}

@@ -1,0 +1,740 @@
+[
+    [
+        "./multi_concept_images/Anya_and_Bond/Anya_and_Bond_1.jpg",
+        [
+            "<Anya>",
+            "<Bond>"
+        ],
+        "Anya and Bond share a moment together, with Anya gently petting Bond's head.",
+        "Give a personalized caption of this image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Anya_and_Bond/Anya_and_Bond_2.jpg",
+        [
+            "<Anya>",
+            "<Bond>"
+        ],
+        "Anya hugs Bond, her large white dog.",
+        "Give a caption of the image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Anya_and_Bond/Anya_and_Bond_3.jpg",
+        [
+            "<Anya>",
+            "<Bond>"
+        ],
+        "Anya and Bond share a moment together in their cozy room.",
+        "Can you provide a personalized caption of this photo?Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Anya_and_Bond/Anya_and_Bond_4.jpg",
+        [
+            "<Anya>",
+            "<Bond>"
+        ],
+        "Anya and Bond",
+        "Provide a caption of the given image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Anya_and_Bond/Anya_and_Bond_5.jpg",
+        [
+            "<Anya>",
+            "<Bond>"
+        ],
+        "Anya pets Bond, the white dog wearing a black bow tie.",
+        "Give a personalized caption of this image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Anya_and_Bond/Anya_and_Bond_6.jpg",
+        [
+            "<Anya>",
+            "<Bond>"
+        ],
+        "Anya and Bond are excited to be together.",
+        "Give a caption of the image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Anya_and_Bond/Anya_and_Bond_7.jpg",
+        [
+            "<Anya>",
+            "<Bond>"
+        ],
+        "Anya and Bond are having fun with their new friend, a blue penguin!",
+        "Can you provide a personalized caption of this photo?Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Anya_and_Bond/Anya_and_Bond_8.jpg",
+        [
+            "<Anya>",
+            "<Bond>"
+        ],
+        "Anya and Bond share a moment together.",
+        "Provide a caption of the given image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Anya_and_Bond/Anya_and_Bond_9.jpg",
+        [
+            "<Anya>",
+            "<Bond>"
+        ],
+        "Anya and Bond share a moment together, with Anya looking surprised and Bond appearing curious.",
+        "Give a personalized caption of this image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Anya_and_Bond/Anya_and_Bond_10.jpg",
+        [
+            "<Anya>",
+            "<Bond>"
+        ],
+        "Anya rides on Bond's back.",
+        "Give a caption of the image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_1.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "Here's a personalized caption for the query image:\n\n\"Bingo and Bluey plush toys standing together on a green signpost in a forest setting.\"",
+        "Can you provide a personalized caption of this photo?Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_2.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "This is Bingo and Bluey.",
+        "Provide a caption of the given image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_3.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "Here's a personalized caption for the query image:\n\n\"Two adorable plush toys, Bingo and Bluey, sitting together on a cozy couch, ready for some cuddling!\"",
+        "Give a personalized caption of this image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_4.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "This is Bingo and Bluey sitting in the back seat of a car.",
+        "Give a caption of the image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_5.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "This is the query image. Can you provide a personalized caption of this photo?",
+        "Can you provide a personalized caption of this photo?Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_6.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "This is the query image. The caption is \"This is the query image.\"",
+        "Provide a caption of the given image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_7.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "This is a photo of Bingo and Bluey sitting at a table.",
+        "Give a personalized caption of this image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_8.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "This is the query image. Give a caption of the image.\nThe image shows two plush toys, Bingo and Bluey, positioned on either side of a bathroom sink. Bingo, the orange plush toy, has a yellow belly and a brown nose, while Bluey, the light blue plush toy, features a purple patch on its head and yellow ears.",
+        "Give a caption of the image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_9.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "Here's a personalized caption for the query image:\n\n\"Two adorable plush toys, Bingo and Bluey, standing side by side amidst a backdrop of autumn leaves.\"",
+        "Can you provide a personalized caption of this photo?Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_10.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "This is Bingo and Bluey.",
+        "Provide a caption of the given image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_11.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "This is a photo of Bingo and Bluey.",
+        "Give a personalized caption of this image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_12.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "This is the query image. Give a caption of the image.\nThe image shows two plush toys, Bingo and Bluey, standing side by side in front of a decorated Christmas tree. Bingo, the orange plush toy, has a yellow belly and a brown nose, while Bluey, the light blue plush toy, features a purple patch on its head and yellow ears.",
+        "Give a caption of the image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_1.jpg",
+        [
+            "<Bull_dog>",
+            "<Baby_Q>"
+        ],
+        "A french bulldog sniffs a baby.",
+        "Can you provide a personalized caption of this photo?Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_2.jpg",
+        [
+            "<Bull_dog>",
+            "<Baby_Q>"
+        ],
+        "A french bulldog. The dog is light brown in color.",
+        "Provide a caption of the given image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_3.jpg",
+        [
+            "<Bull_dog>",
+            "<Baby_Q>"
+        ],
+        "A french bulldog and a baby on a couch.",
+        "Give a personalized caption of this image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_4.jpg",
+        [
+            "<Bull_dog>",
+            "<Baby_Q>"
+        ],
+        "A french bulldog and a baby laying on a bed.",
+        "Give a caption of the image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_5.jpg",
+        [
+            "<Bull_dog>",
+            "<Baby_Q>"
+        ],
+        "<Baby_Q> and <Bull_dog> are looking at each other.",
+        "Can you provide a personalized caption of this photo?Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_6.jpg",
+        [
+            "<Bull_dog>",
+            "<Baby_Q>"
+        ],
+        "<Baby_Q> is laying on a pillow next to <Bull_dog>.",
+        "Provide a caption of the given image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_7.jpg",
+        [
+            "<Bull_dog>",
+            "<Baby_Q>"
+        ],
+        "A french bulldog laying next to a sleeping baby.",
+        "Give a personalized caption of this image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_8.jpg",
+        [
+            "<Bull_dog>",
+            "<Baby_Q>"
+        ],
+        "<Baby_Q> is laying on a play mat with a <Bull_dog> sitting next to her.",
+        "Give a caption of the image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_9.jpg",
+        [
+            "<Bull_dog>",
+            "<Baby_Q>"
+        ],
+        "A baby with a pink bow on her head is looking at a french bulldog.",
+        "Can you provide a personalized caption of this photo?Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_10.jpg",
+        [
+            "<Bull_dog>",
+            "<Baby_Q>"
+        ],
+        "<Baby_Q> is sitting on a couch with a <Bull_dog>.",
+        "Provide a caption of the given image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_1.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "<C_dog> looks at <G_cat>.",
+        "Give a personalized caption of this image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_2.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "<C_dog> watches as <G_cat> is held by a person.",
+        "Give a caption of the image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_3.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "A black and white border collie dog holds a small ginger kitten in his mouth.",
+        "Can you provide a personalized caption of this photo?Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_4.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "<C_dog> looks at <G_cat> in the basket.",
+        "Provide a caption of the given image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_5.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "<C_dog> and <G_cat> face each other in the room.",
+        "Give a personalized caption of this image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_6.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "A black and white border collie dog and a small ginger kitten look at each other.",
+        "Give a caption of the image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_7.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "<C_dog> and <G_cat> together on a bed.",
+        "Can you provide a personalized caption of this photo?Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_8.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "<C_dog> and <G_cat> on day 19.",
+        "Provide a caption of the given image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_9.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "<C_dog> looks at <G_cat> who is in the litter box.",
+        "Give a personalized caption of this image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_10.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "<C_dog> sits next to <G_cat>.",
+        "Give a caption of the image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_11.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "<C_dog> and <G_cat> look at each other.",
+        "Can you provide a personalized caption of this photo?Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_12.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "<C_dog> looks at <G_cat> who is in a cat tree.",
+        "Provide a caption of the given image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_13.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "<C_dog> and <G_cat> look at each other.",
+        "Give a personalized caption of this image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Character_A_and_Character_B/Character_A_and_Character_B_1.jpg",
+        [
+            "<Character_A>",
+            "<Character_B>"
+        ],
+        "<Character_A> and <Character_B> stand side by side, looking at each other with curiosity and amusement.",
+        "Give a caption of the image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Character_A_and_Character_B/Character_A_and_Character_B_2.jpg",
+        [
+            "<Character_A>",
+            "<Character_B>"
+        ],
+        "A cartoon rabbit in a police officer's hat and a red and yellow safety vest stands next to a cartoon fox wearing a yellow button-down shirt and a purple tie.",
+        "Can you provide a personalized caption of this photo?Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Character_A_and_Character_B/Character_A_and_Character_B_3.jpg",
+        [
+            "<Character_A>",
+            "<Character_B>"
+        ],
+        "A cartoon fox wearing a yellow button-down shirt and a purple tie stands next to a cartoon rabbit in a police officer's hat and a red and yellow safety vest.",
+        "Provide a caption of the given image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Character_A_and_Character_B/Character_A_and_Character_B_4.jpg",
+        [
+            "<Character_A>",
+            "<Character_B>"
+        ],
+        "In the bustling environment, <Character_A> and <Character_B> engage in a conversation at a counter, their expressions hinting at a mix of curiosity and amusement.",
+        "Give a personalized caption of this image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Character_A_and_Character_B/Character_A_and_Character_B_5.jpg",
+        [
+            "<Character_A>",
+            "<Character_B>"
+        ],
+        "<Character_A> and <Character_B> are having a conversation in what appears to be an office setting.",
+        "Give a caption of the image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Character_A_and_Character_B/Character_A_and_Character_B_6.jpg",
+        [
+            "<Character_A>",
+            "<Character_B>"
+        ],
+        "A cartoon rabbit and a cartoon fox stand together in a small structure, looking out into the distance.",
+        "Can you provide a personalized caption of this photo?Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Character_A_and_Character_B/Character_A_and_Character_B_7.jpg",
+        [
+            "<Character_A>",
+            "<Character_B>"
+        ],
+        "<Character_A> and <Character_B> share a moment together in a train, enjoying the scenic view outside.",
+        "Provide a caption of the given image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Character_A_and_Character_B/Character_A_and_Character_B_8.jpg",
+        [
+            "<Character_A>",
+            "<Character_B>"
+        ],
+        "In a dimly lit room, <Character_A> and <Character_B> stand facing each other, their expressions hinting at a mix of curiosity and anticipation.",
+        "Give a personalized caption of this image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Character_A_and_Character_B/Character_A_and_Character_B_9.jpg",
+        [
+            "<Character_A>",
+            "<Character_B>"
+        ],
+        "<Character_A> and <Character_B> stand side by side in a dimly lit room, looking towards something off-camera with expressions that suggest curiosity or concern.",
+        "Give a caption of the image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Character_A_and_Character_B/Character_A_and_Character_B_10.jpg",
+        [
+            "<Character_A>",
+            "<Character_B>"
+        ],
+        "A cartoon rabbit, <Character_A>, looks up at a cartoon fox, <Character_B>, who is being held by a large hand.",
+        "Can you provide a personalized caption of this photo?Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/H_and_T/H_and_T_1.jpg",
+        [
+            "<H>",
+            "<T>"
+        ],
+        "<T> and <H> are sitting in a car.",
+        "Provide a caption of the given image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/H_and_T/H_and_T_2.jpg",
+        [
+            "<H>",
+            "<T>"
+        ],
+        "A young woman with blonde hair is wearing a white tank top and blue jeans. She is cutting tomatoes on a wooden cutting board while a young man in a green t-shirt looks on.",
+        "Give a personalized caption of this image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/H_and_T/H_and_T_3.jpg",
+        [
+            "<H>",
+            "<T>"
+        ],
+        "<T> and <H> are putting groceries in the trunk of a car.",
+        "Give a caption of the image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/H_and_T/H_and_T_4.jpg",
+        [
+            "<H>",
+            "<T>"
+        ],
+        "<H> and <T> squat in front of a truck.",
+        "Can you provide a personalized caption of this photo?Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/H_and_T/H_and_T_5.jpg",
+        [
+            "<H>",
+            "<T>"
+        ],
+        "Name: H, Info: A young man is wearing a plain tan t-shirt. His hair is short and curly.\nName: T, Info: A young woman with blonde hair is wearing a white tank top and blue jeans.",
+        "Provide a caption of the given image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/H_and_T/H_and_T_6.jpg",
+        [
+            "<H>",
+            "<T>"
+        ],
+        "A young man and woman are standing in a bathroom, both holding up their hair with one hand. The woman has blonde hair and is wearing a white tank top and blue jeans, while the man has short, curly black hair and is wearing a plain tan t-shirt.",
+        "Give a personalized caption of this image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/H_and_T/H_and_T_7.jpg",
+        [
+            "<H>",
+            "<T>"
+        ],
+        "A young man and woman are standing in front of a mirror. The man is wearing a tan t-shirt and the woman is wearing a white tank top and blue jeans. Both have their hands raised, touching their hair.",
+        "Give a caption of the image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/H_and_T/H_and_T_8.jpg",
+        [
+            "<H>",
+            "<T>"
+        ],
+        "<T> drives a car while <H> sits in the passenger seat.",
+        "Can you provide a personalized caption of this photo?Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/H_and_T/H_and_T_9.jpg",
+        [
+            "<H>",
+            "<T>"
+        ],
+        "Name: <H>, <T> are standing outside in front of palm trees.",
+        "Provide a caption of the given image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/H_and_T/H_and_T_10.jpg",
+        [
+            "<H>",
+            "<T>"
+        ],
+        "<T> and <H> eat donuts under a blue umbrella.",
+        "Give a personalized caption of this image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/J_and_K/J_and_K_1.jpg",
+        [
+            "<J>",
+            "<K>"
+        ],
+        "A man named J and a woman named K are sitting at a table in a restaurant, enjoying drinks together.",
+        "Give a caption of the image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/J_and_K/J_and_K_2.jpg",
+        [
+            "<J>",
+            "<K>"
+        ],
+        "A man and a woman sit at a table in a restaurant, enjoying their meal together.",
+        "Can you provide a personalized caption of this photo?Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/J_and_K/J_and_K_3.jpg",
+        [
+            "<J>",
+            "<K>"
+        ],
+        "Name: J and K, Info: A man and a woman are standing on a sidewalk, both wearing sunglasses and eating ice cream cones.",
+        "Provide a caption of the given image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/J_and_K/J_and_K_4.jpg",
+        [
+            "<J>",
+            "<K>"
+        ],
+        "A man and a woman are standing outside on a sunny day. The woman is wearing sunglasses and a blue polka-dotted dress while holding a small object in her hand. The man is also wearing sunglasses and a light-colored t-shirt, holding a similar object. They appear to be engaged in a conversation or activity together.",
+        "Give a personalized caption of this image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/J_and_K/J_and_K_5.jpg",
+        [
+            "<J>",
+            "<K>"
+        ],
+        "A man named J and a woman named K are sitting at a table in a cafe, enjoying drinks together.",
+        "Give a caption of the image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/J_and_K/J_and_K_6.jpg",
+        [
+            "<J>",
+            "<K>"
+        ],
+        "A man and a woman are looking at a large aquarium.",
+        "Can you provide a personalized caption of this photo?Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/J_and_K/J_and_K_7.jpg",
+        [
+            "<J>",
+            "<K>"
+        ],
+        "Name: <J>, <K>, Info: A man and a woman are standing by a window, talking. The woman is wearing a brown tank top and khaki shorts, while the man is wearing a white t-shirt and patterned shorts.",
+        "Provide a caption of the given image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/J_and_K/J_and_K_8.jpg",
+        [
+            "<J>",
+            "<K>"
+        ],
+        "A man and a woman sit on a bench in a room with bicycles hanging from the ceiling.",
+        "Give a personalized caption of this image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Parrot_1_and_Parrot_2/Parrot_1_and_Parrot_2_1.jpg",
+        [
+            "<Parrot_1>",
+            "<Parrot_2>"
+        ],
+        "<Parrot_1> and <Parrot_2> are two parrots sitting on a leaf.",
+        "Give a caption of the image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Parrot_1_and_Parrot_2/Parrot_1_and_Parrot_2_2.jpg",
+        [
+            "<Parrot_1>",
+            "<Parrot_2>"
+        ],
+        "<Parrot_1> and <Parrot_2> are two parrots sitting on a leaf.",
+        "Can you provide a personalized caption of this photo?Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Parrot_1_and_Parrot_2/Parrot_1_and_Parrot_2_3.jpg",
+        [
+            "<Parrot_1>",
+            "<Parrot_2>"
+        ],
+        "<Parrot_1> and <Parrot_2> are two parrots sitting on a leaf.",
+        "Provide a caption of the given image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Parrot_1_and_Parrot_2/Parrot_1_and_Parrot_2_4.jpg",
+        [
+            "<Parrot_1>",
+            "<Parrot_2>"
+        ],
+        "<Parrot_1> and <Parrot_2> are two parrots sitting on a wooden bench in a field of yellow flowers.",
+        "Give a personalized caption of this image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Parrot_1_and_Parrot_2/Parrot_1_and_Parrot_2_5.jpg",
+        [
+            "<Parrot_1>",
+            "<Parrot_2>"
+        ],
+        "<Parrot_1> is a green parrot with a bright red beak, <Parrot_2> is a light blue parrot with pink feet. It has a light blue head and a white ring around its neck.",
+        "Give a caption of the image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Parrot_1_and_Parrot_2/Parrot_1_and_Parrot_2_6.jpg",
+        [
+            "<Parrot_1>",
+            "<Parrot_2>"
+        ],
+        "<Parrot_1> and <Parrot_2> are two colorful parrots, one with vibrant green feathers and a bright red beak, while the other boasts a light blue hue with pink feet. They perch together in a rustic setting, surrounded by wooden debris and a weathered surface.",
+        "Can you provide a personalized caption of this photo?Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Parrot_1_and_Parrot_2/Parrot_1_and_Parrot_2_7.jpg",
+        [
+            "<Parrot_1>",
+            "<Parrot_2>"
+        ],
+        "<Parrot_1> and <Parrot_2> are perched on a branch.",
+        "Provide a caption of the given image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Parrot_1_and_Parrot_2/Parrot_1_and_Parrot_2_8.jpg",
+        [
+            "<Parrot_1>",
+            "<Parrot_2>"
+        ],
+        "<Parrot_1> and <Parrot_2> are perched on a branch in a field of yellow flowers.",
+        "Give a personalized caption of this image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Parrot_1_and_Parrot_2/Parrot_1_and_Parrot_2_9.jpg",
+        [
+            "<Parrot_1>",
+            "<Parrot_2>"
+        ],
+        "<Parrot_1> and <Parrot_2> are perched on a wooden bench.",
+        "Give a caption of the image.Output the final answer using its given names."
+    ]
+]

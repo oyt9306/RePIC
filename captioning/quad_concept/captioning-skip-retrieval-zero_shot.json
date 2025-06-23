@@ -1,0 +1,1157 @@
+[
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<black widow>",
+            "<captain america>"
+        ],
+        "The Avengers",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<black widow>",
+            "<hawkeye>"
+        ],
+        "The Avengers",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<black widow>",
+            "<hulk>"
+        ],
+        "The Avengers",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<black widow>",
+            "<scarlet witch>"
+        ],
+        "The Avengers",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<black widow>",
+            "<quick silver>"
+        ],
+        "The Avengers",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<captain america>",
+            "<hawkeye>"
+        ],
+        "The Avengers",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<captain america>",
+            "<hulk>"
+        ],
+        "The Avengers",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<captain america>",
+            "<scarlet witch>"
+        ],
+        "The Avengers",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<captain america>",
+            "<quick silver>"
+        ],
+        "The Avengers",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<hawkeye>",
+            "<hulk>"
+        ],
+        "The Avengers",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<hawkeye>",
+            "<scarlet witch>"
+        ],
+        "The Avengers",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<hawkeye>",
+            "<quick silver>"
+        ],
+        "The Avengers",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<hulk>",
+            "<scarlet witch>"
+        ],
+        "The Avengers",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<hulk>",
+            "<quick silver>"
+        ],
+        "The Avengers",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<ironman>",
+            "<scarlet witch>",
+            "<quick silver>"
+        ],
+        "The Avengers",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<captain america>",
+            "<hawkeye>"
+        ],
+        "The Avengers",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<captain america>",
+            "<hulk>"
+        ],
+        "The Avengers",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<captain america>",
+            "<scarlet witch>"
+        ],
+        "The Avengers",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<captain america>",
+            "<quick silver>"
+        ],
+        "The Avengers",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<hawkeye>",
+            "<hulk>"
+        ],
+        "The Avengers",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<hawkeye>",
+            "<scarlet witch>"
+        ],
+        "The Avengers",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<hawkeye>",
+            "<quick silver>"
+        ],
+        "The Avengers",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<hulk>",
+            "<scarlet witch>"
+        ],
+        "The Avengers",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<hulk>",
+            "<quick silver>"
+        ],
+        "The Avengers",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<black widow>",
+            "<scarlet witch>",
+            "<quick silver>"
+        ],
+        "The Avengers",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<captain america>",
+            "<hawkeye>",
+            "<hulk>"
+        ],
+        "The Avengers",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<captain america>",
+            "<hawkeye>",
+            "<scarlet witch>"
+        ],
+        "Name: Avengers\n\nThe Avengers stand together, ready to face any threat that comes their way.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<captain america>",
+            "<hawkeye>",
+            "<quick silver>"
+        ],
+        "The Avengers",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<captain america>",
+            "<hulk>",
+            "<scarlet witch>"
+        ],
+        "The Avengers",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_avengers.jpg",
+        [
+            "<thor>",
+            "<captain america>",
+            "<hulk>",
+            "<quick silver>"
+        ],
+        "The Avengers",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<hur>",
+            "<kim>",
+            "<kong>"
+        ],
+        "Name: <Group Photo>\n\nA group of six actors stands together on stage, each holding a golden trophy, celebrating their achievements. Dressed in formal attire, they exude confidence and pride, their expressions reflecting a mix of joy and accomplishment. The vibrant backdrop adds a festive atmosphere to the moment, highlighting their success and camaraderie.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<hur>",
+            "<kim>",
+            "<moon>"
+        ],
+        "Name: Jung\n\nA group of actors stands together on stage, each holding a golden trophy, celebrating their achievements. The setting is vibrant with colorful lights, highlighting their joyous expressions and elegant attire.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<hur>",
+            "<kim>",
+            "<sul>"
+        ],
+        "Name: <Group Photo>\n\nA group of accomplished actors stands together, each holding a prestigious award, celebrating their achievements and the recognition they have received for their outstanding performances. Their formal attire and proud expressions reflect their dedication and success in the industry.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<hur>",
+            "<kong>",
+            "<moon>"
+        ],
+        "Name: <Group>\n\nA group of six individuals stands together on stage, each holding a golden trophy, celebrating their achievements. Their formal attire and radiant smiles convey a sense of pride and accomplishment.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<hur>",
+            "<kong>",
+            "<sul>"
+        ],
+        "Name: <Group Photo>\n\nA group of six individuals stands together on stage, each holding a golden trophy, celebrating their achievements. Dressed in formal attire, they exude confidence and pride, symbolizing their success and recognition in their respective fields.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<hur>",
+            "<moon>",
+            "<sul>"
+        ],
+        "Name: <Jung>\nCaption: A group of actors celebrate their achievements on stage, each holding a golden trophy, symbolizing their hard work and success in the industry.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<kim>",
+            "<kong>",
+            "<moon>"
+        ],
+        "Name: <Group>, Info: A group of accomplished actors celebrate their achievements on stage, each holding a prestigious award, showcasing their dedication and success in the industry.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<kim>",
+            "<kong>",
+            "<sul>"
+        ],
+        "Name: <Group>, Info: A group of six individuals, each holding a golden trophy, stands together on a stage adorned with vibrant blue and purple lighting. Their formal attire and proud expressions suggest they have just won an award ceremony, celebrating their achievements.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<kim>",
+            "<moon>",
+            "<sul>"
+        ],
+        "Name: <Group Photo>\n\nA group of six individuals stands together on stage, each holding a golden trophy, celebrating their achievements. Dressed in formal attire, they exude confidence and pride, symbolizing their success and recognition in their respective fields.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<jung>",
+            "<kong>",
+            "<moon>",
+            "<sul>"
+        ],
+        "Name: <Group Photo>\n\nCaption: A group of six individuals stands together on stage, each holding a golden trophy, celebrating their achievements. The backdrop features vibrant blue and purple lighting, adding a festive atmosphere to the moment.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<hur>",
+            "<kim>",
+            "<kong>",
+            "<moon>"
+        ],
+        "Name: <Moon>\nCaption: A group of accomplished actors celebrate their achievements on stage, each holding a prestigious award, showcasing their dedication and success in the industry.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<hur>",
+            "<kim>",
+            "<kong>",
+            "<sul>"
+        ],
+        "Name: <Hur>\nCaption: A group of actors proudly display their awards on stage, celebrating their achievements with smiles and confidence.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<hur>",
+            "<kim>",
+            "<moon>",
+            "<sul>"
+        ],
+        "Name: <Group>, Info: A group of accomplished actors celebrate their achievements on stage, each holding a prestigious award that symbolizes their dedication and talent in the industry.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<hur>",
+            "<kong>",
+            "<moon>",
+            "<sul>"
+        ],
+        "Name: <Moon>, Info: She is a graceful and composed actress with a timeless elegance. Her confident smile and refined presence reflect her experience in diverse roles.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_movie.jpg",
+        [
+            "<kim>",
+            "<kong>",
+            "<moon>",
+            "<sul>"
+        ],
+        "Name: <Kim>, Info: A group of accomplished actors celebrate their achievements on stage, each holding a prestigious award. Their confident and joyful expressions highlight their pride and success in the industry.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<sandy>",
+            "<spongebob>"
+        ],
+        "The image depicts a group of animated characters from the show \"SpongeBob SquarePants.\" The characters include Mr. Krabs, Pearl, Sandy, and SpongeBob. They appear to be in a lively and humorous scene, possibly involving some sort of adventure or challenge. The setting seems to be underwater, given the presence of marine elements like coral and water. The characters' expressions and body language suggest excitement and camaraderie.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<sandy>",
+            "<gary>"
+        ],
+        "The image depicts a lively scene from the animated series \"SpongeBob SquarePants.\" In the center, SpongeBob, the main character, is smiling widely with his arms outstretched, exuding joy and enthusiasm. Surrounding him are other beloved characters, including Patrick Star, who is playfully holding a dollar sign, and Squidward Tentacles, who appears to be in a state of frustration or annoyance. The background features the Krusty Krab, the iconic restaurant where these characters work, with various decorations and a television screen displaying a heartbeat monitor, adding to the comedic and chaotic atmosphere typical of the show.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<sandy>",
+            "<mrs.puff>"
+        ],
+        "The image depicts a scene from the animated series \"SpongeBob SquarePants.\" It features a group of characters, including Mr. Krabs, Pearl, Sandy, and Mrs. Puff, gathered together in what appears to be a moment of surprise or concern. The setting seems to be inside the Krusty Krab, indicated by the background elements such as the menu board and the interior design. The characters' expressions suggest they are reacting to something unexpected or alarming.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<sandy>",
+            "<patrick>"
+        ],
+        "The image depicts a lively scene from the animated series \"SpongeBob SquarePants.\" In the center, SpongeBob, the main character, is smiling widely with his arms outstretched, exuding joy and enthusiasm. Surrounding him are other beloved characters, including Patrick, who is standing to the right with a cheerful expression, and Sandy, who is on the left, also smiling. The background features a colorful, cartoonish setting that includes a television screen displaying a heart monitor, suggesting a medical or health-related theme. The overall atmosphere is one of camaraderie and happiness, capturing a moment of shared joy among the friends.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<sandy>",
+            "<squidward>"
+        ],
+        "The image depicts a group of animated characters from the show \"SpongeBob SquarePants.\" The characters include Mr. Krabs, Pearl, Sandy, and Squidward, each with distinct personalities and appearances. They appear to be in a lively and colorful setting, possibly at the Krusty Krab or another location within the underwater world of Bikini Bottom. The scene captures a moment of camaraderie among the characters, showcasing their unique traits and relationships.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<sandy>",
+            "<plankton>"
+        ],
+        "The image depicts a lively scene from \"SpongeBob SquarePants\" featuring SpongeBob, Patrick, Squidward, and Plankton. SpongeBob and Patrick appear excited, while Squidward looks bored, and Plankton seems to be in a state of panic or surprise. The background suggests they might be inside the Krusty Krab, given the presence of a Krabby Patty machine and other restaurant elements.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<spongebob>",
+            "<gary>"
+        ],
+        "The image features a group of characters from the animated series \"SpongeBob SquarePants.\" The central figure is SpongeBob, recognizable by his yellow sponge body and purple pants, who appears to be in a cheerful mood, possibly celebrating or engaging in a lively activity. Surrounding him are other characters, including Mr. Krabs, Pearl, and Gary, each displaying distinct expressions and poses that suggest a moment of camaraderie or shared excitement within their underwater community.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<spongebob>",
+            "<mrs.puff>"
+        ],
+        "The image features a group of characters from the animated series \"SpongeBob SquarePants.\" The central figure is SpongeBob, a yellow sponge with a big smile, wearing a blue shirt and purple pants. He appears to be in a cheerful mood, possibly celebrating or reacting to something amusing. Surrounding him are other characters, including Mr. Krabs, a red crab with a large appetite for money, and Pearl, a whale with a heart on her head, dressed in a cheerleader outfit. The background suggests they might be in a classroom or a similar setting, given the presence of a teacher-like figure and educational equipment. The overall atmosphere is lighthearted and comedic, typical of the show's style.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<spongebob>",
+            "<patrick>"
+        ],
+        "The image features a group of characters from the animated series \"SpongeBob SquarePants.\" The characters include Mr. Krabs, Pearl, SpongeBob, and Patrick. They appear to be in a lively and humorous scene, possibly at the Krusty Krab restaurant, given the background elements like the menu board and the overall setting. The characters are dressed in their typical outfits, with SpongeBob and Patrick wearing their signature shorts, and Mr. Krabs and Pearl in their respective attire. The atmosphere suggests a moment of camaraderie or a comedic situation involving these beloved characters.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<spongebob>",
+            "<squidward>"
+        ],
+        "The image features a group of animated characters from the popular series \"SpongeBob SquarePants.\" The characters include Mr. Krabs, Pearl, SpongeBob, and Squidward. They appear to be in a lively and humorous scene, possibly at the Krusty Krab restaurant, given the background elements like the menu board and the overall setting. The characters are depicted in various expressions and poses, suggesting a moment of fun or chaos typical of the show's comedic style.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<spongebob>",
+            "<plankton>"
+        ],
+        "The image features characters from the animated series \"SpongeBob SquarePants.\" It shows Mr. Krabs, Pearl, SpongeBob, and Plankton in various poses, likely during a scene that involves their interactions or adventures at the Krusty Krab.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<gary>",
+            "<mrs.puff>"
+        ],
+        "The image depicts a lively scene from the animated series \"SpongeBob SquarePants.\" In the center, SpongeBob, the main character, is smiling widely with his arms outstretched, exuding joy and enthusiasm. Surrounding him are several other characters, each with distinct personalities and expressions. To the left, Patrick Star, known for his love of chocolate, is holding a large piece of chocolate cake, looking excited. Behind SpongeBob, Squidward Tentacles, often portrayed as grumpy, is seen with a slightly annoyed expression, while Plankton, the rival scientist, appears to be scheming with a mischievous grin. The background features a colorful, cartoonish setting that matches the vibrant and whimsical style of the show. This image captures a moment of camaraderie and fun among the beloved cast of characters.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<gary>",
+            "<patrick>"
+        ],
+        "The image depicts a group of animated characters from the show \"SpongeBob SquarePants.\" The characters include Mr. Krabs, Pearl, Gary, and Patrick. They appear to be in a lively and cheerful setting, possibly at the Krusty Krab restaurant. The characters are dressed in their typical outfits, with Mr. Krabs wearing a suit, Pearl in a cheerleader outfit, Gary in his usual attire, and Patrick in his shorts. The background features various elements such as a television screen displaying a heartbeat monitor, a coffee machine, and other items that suggest they are inside the Krusty Krab. The overall atmosphere is bright and colorful, reflecting the show's comedic and lighthearted tone.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<gary>",
+            "<squidward>"
+        ],
+        "The image depicts a lively scene from \"SpongeBob SquarePants\" featuring SpongeBob, Patrick, Squidward, Gary, and Mr. Krabs. SpongeBob and Patrick appear excited, while Squidward looks unimpressed, and Gary is perched on Mr. Krabs' head, seemingly enjoying the moment. The background suggests they are inside the Krusty Krab, adding context to their interactions.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<gary>",
+            "<plankton>"
+        ],
+        "The image depicts a scene from the animated series \"SpongeBob SquarePants.\" It features a group of characters, including Mr. Krabs, Pearl, Gary, and Plankton, gathered together in what appears to be a celebratory or dramatic moment. The setting includes a backdrop that resembles the interior of the Krusty Krab restaurant, complete with flags and a wooden wall. The characters are dressed in various costumes, suggesting a festive or special occasion within the show's narrative.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<mrs.puff>",
+            "<patrick>"
+        ],
+        "The image depicts a lively scene from \"SpongeBob SquarePants\" featuring SpongeBob, Patrick, Mr. Krabs, and Pearl. SpongeBob and Patrick appear excited, while Mr. Krabs looks surprised or shocked, and Pearl seems to be in a state of panic or distress. The background suggests they might be inside the Krusty Krab, adding to the comedic chaos typical of the show.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<mrs.puff>",
+            "<squidward>"
+        ],
+        "The image depicts a group of animated characters from the show \"SpongeBob SquarePants.\" The characters include Mr. Krabs, Pearl, Mrs. Puff, and Squidward. They appear to be in a lively and colorful setting, possibly inside the Krusty Krab restaurant. The characters are shown in various poses, suggesting a moment of interaction or celebration. The scene is vibrant and full of energy, capturing the essence of the show's humor and camaraderie.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<mrs.puff>",
+            "<plankton>"
+        ],
+        "The image features a group of animated characters from the popular cartoon series \"SpongeBob SquarePants.\" The characters include Mr. Krabs, Pearl, Mrs. Puff, and Plankton, each with their distinct personalities and roles within the show. The scene appears to be set in the Krusty Krab, the restaurant owned by Mr. Krabs, where these characters often interact and engage in various comedic situations.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<patrick>",
+            "<squidward>"
+        ],
+        "The image depicts a group of animated characters from the show \"SpongeBob SquarePants.\" The characters include Mr. Krabs, Pearl, Patrick, and Squidward. They appear to be in a lively and cheerful setting, possibly at the Krusty Krab restaurant. The characters are dressed in their typical outfits, with Mr. Krabs wearing a suit, Pearl in a cheerleading outfit, Patrick in his shorts, and Squidward in a casual shirt. The background features underwater elements like seaweed and bubbles, which is characteristic of the show's setting. The overall mood of the image is fun and vibrant, reflecting the show's comedic and lighthearted tone.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<patrick>",
+            "<plankton>"
+        ],
+        "The image depicts a lively scene from \"SpongeBob SquarePants\" featuring SpongeBob, Patrick, Squidward, and Plankton. SpongeBob appears excited, while Patrick looks surprised, Squidward seems annoyed, and Plankton looks mischievous. The background suggests they might be in the Krusty Krab, adding to the comedic chaos typical of the show.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<pearl>",
+            "<squidward>",
+            "<plankton>"
+        ],
+        "The image depicts a group of animated characters from the show \"SpongeBob SquarePants.\" The characters include Mr. Krabs, Pearl, Squidward, and Plankton. They appear to be in a lively and humorous scene, possibly involving some sort of competition or challenge, as they are all looking at something off-screen with expressions of excitement and anticipation.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<sandy>",
+            "<spongebob>",
+            "<gary>"
+        ],
+        "The image features a group of animated characters from the popular cartoon series \"SpongeBob SquarePants.\" The characters include Mr. Krabs, Sandy, SpongeBob, and Gary. They appear to be in a lively and humorous scene, possibly involving some sort of adventure or challenge, given their expressions and body language. The setting seems to be underwater, consistent with the show's typical environment.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<sandy>",
+            "<spongebob>",
+            "<mrs.puff>"
+        ],
+        "The image depicts a group of animated characters from the show \"SpongeBob SquarePants.\" The characters include Mr. Krabs, Sandy, SpongeBob, and Mrs. Puff, each with their distinct personalities and appearances. They appear to be in a lively and colorful setting, possibly at the Krusty Krab or another location within the underwater world of Bikini Bottom.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<sandy>",
+            "<spongebob>",
+            "<patrick>"
+        ],
+        "The image features a group of characters from the animated series \"SpongeBob SquarePants.\" The characters include Mr. Krabs, Sandy, SpongeBob, and Patrick. They appear to be in a lively and humorous scene, possibly involving some sort of adventure or challenge, given their expressions and body language. The setting seems to be underwater, consistent with the show's typical environment.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<sandy>",
+            "<spongebob>",
+            "<squidward>"
+        ],
+        "The image depicts a group of animated characters from the show \"SpongeBob SquarePants.\" The characters include Mr. Krabs, Sandy, SpongeBob, and Squidward, each with their distinct personalities and appearances. They appear to be in a lively and colorful setting, possibly at the Krusty Krab or another location within the underwater world of Bikini Bottom.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<sandy>",
+            "<spongebob>",
+            "<plankton>"
+        ],
+        "The image features a group of characters from the animated series \"SpongeBob SquarePants.\" The characters include Mr. Krabs, Sandy, SpongeBob, and Plankton. They appear to be in a lively and humorous scene, possibly involving some sort of adventure or challenge. The setting seems to be underwater, which is consistent with the show's typical environment.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<sandy>",
+            "<gary>",
+            "<mrs.puff>"
+        ],
+        "The image depicts a group of animated characters from the show \"SpongeBob SquarePants.\" The characters include Mr. Krabs, Sandy, Gary, and Mrs. Puff, among others, gathered together in what appears to be a lively and humorous scene.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<sandy>",
+            "<gary>",
+            "<patrick>"
+        ],
+        "The image depicts a lively scene from the animated series \"SpongeBob SquarePants,\" featuring the main characters in a humorous and chaotic moment. The group includes SpongeBob, Patrick, Mr. Krabs, Sandy, and Gary, all displaying exaggerated expressions and actions that are characteristic of the show's comedic style. The setting appears to be the Krusty Krab, with various props and decorations adding to the vibrant atmosphere.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<sandy>",
+            "<gary>",
+            "<squidward>"
+        ],
+        "The image depicts a lively scene from the animated series \"SpongeBob SquarePants,\" featuring the main characters in various expressions and poses. The characters include Mr. Krabs, Sandy, Gary, Squidward, and SpongeBob, each with their distinct personalities and roles within the show.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_spongebob.jpg",
+        [
+            "<mr.krab>",
+            "<sandy>",
+            "<gary>",
+            "<plankton>"
+        ],
+        "The image features a group of animated characters from the popular cartoon series \"SpongeBob SquarePants.\" The characters include Mr. Krabs, Sandy, Gary, and Plankton, each with their distinct personalities and roles within the show. The scene appears to be lively and humorous, capturing the essence of the series' comedic and whimsical tone.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<jae>",
+            "<lee>"
+        ],
+        "Name: <Cho>\nCaption: A rising actress with a bright and cheerful aura, she brings energy to the screen and stage alike. Her youthful confidence and style catch the spotlight with ease.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<jae>",
+            "<yang>"
+        ],
+        "Name: <Group>\n\nA vibrant group of actors and actresses pose together at a Netflix event, showcasing their diverse styles and personalities against a colorful backdrop.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<jae>",
+            "<lim>"
+        ],
+        "Name: <Cho>\nCaption: A rising actress with a bright and cheerful aura, she brings energy to the screen and stage alike. Her youthful confidence and style catch the spotlight with ease.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<jae>",
+            "<park>"
+        ],
+        "Name: <Park>\nCaption: A group of elegantly dressed individuals stand together at a Netflix event, showcasing their sophisticated and stylish appearances against a vibrant backdrop.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<jae>",
+            "<wook>"
+        ],
+        "Name: <Cho>\nCaption: A group of actors posing together at a Netflix event, showcasing their stylish and confident appearances.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<lee>",
+            "<yang>"
+        ],
+        "Name: <Group>\n\nA vibrant group of actors and actresses pose together at a Netflix event, showcasing their diverse styles and personalities against a colorful backdrop.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<lee>",
+            "<lim>"
+        ],
+        "Name: <Cho>\nCaption: A rising actress with a bright and cheerful aura, she brings energy to the screen and stage alike. Her youthful confidence and style catch the spotlight with ease.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<lee>",
+            "<park>"
+        ],
+        "Name: <Park>\nCaption: A group of elegantly dressed individuals stand together on a stage, showcasing their sophisticated and polished styles against a vibrant backdrop.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<lee>",
+            "<wook>"
+        ],
+        "Name: <Cho>\nCaption: A rising actress with a bright and cheerful aura, she brings energy to the screen and stage alike. Her youthful confidence and style catch the spotlight with ease.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<yang>",
+            "<lim>"
+        ],
+        "Name: <Group>\n\nA vibrant group of actors and actresses pose together on a colorful stage backdrop, showcasing their diverse styles and personalities. Their coordinated yet individualistic outfits reflect their unique charm and the dynamic nature of their performances.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<yang>",
+            "<park>"
+        ],
+        "Name: <Park>\nCaption: A group of elegantly dressed individuals posing together in front of a Netflix backdrop, showcasing their sophisticated and stylish appearances.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<yang>",
+            "<wook>"
+        ],
+        "Name: <Group Photo>\n\nA vibrant group of individuals stands together on a stage adorned with a colorful backdrop featuring the Netflix logo. The ensemble showcases a mix of formal and stylish attire, ranging from sleek suits to chic dresses, reflecting their diverse personalities and roles. Their confident postures and engaging expressions suggest they are part of a significant event or celebration, possibly related to a Netflix production or premiere.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<lim>",
+            "<park>"
+        ],
+        "Name: <Park>\nCaption: A group of elegantly dressed individuals posing together on a stage with a pink backdrop, showcasing their sophisticated and stylish appearances.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<lim>",
+            "<wook>"
+        ],
+        "Name: <Group Photo>\nCaption: A vibrant group photo featuring a mix of individuals dressed in stylish and formal attire, set against a colorful backdrop, capturing a moment of camaraderie and elegance.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<wei>",
+            "<park>",
+            "<wook>"
+        ],
+        "Name: <Park>\nCaption: A group of elegantly dressed individuals posing together on a stage with a Netflix backdrop, showcasing their sophisticated and polished appearances.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<lee>",
+            "<yang>"
+        ],
+        "Name: <Group Photo>\n\nA vibrant group of actors and actresses pose together at a Netflix event, showcasing their diverse styles and personalities against a colorful backdrop.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<lee>",
+            "<lim>"
+        ],
+        "Name: <Cho>\nCaption: A rising actress with a bright and cheerful aura, she brings energy to the screen and stage alike. Her youthful confidence and style catch the spotlight with ease.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<lee>",
+            "<park>"
+        ],
+        "Name: <Park>\nCaption: A group of elegantly dressed individuals posing confidently in front of a vibrant backdrop, showcasing their sophisticated and stylish appearances.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<lee>",
+            "<wook>"
+        ],
+        "Name: <Cho>\nCaption: A group of actors posing together at a Netflix event, showcasing their stylish and confident appearances.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<yang>",
+            "<lim>"
+        ],
+        "Name: <Group>, Info: A diverse group of actors and actresses come together in a vibrant setting, showcasing their unique styles and personalities. Their collective energy and camaraderie shine through as they pose confidently against a colorful backdrop.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<yang>",
+            "<park>"
+        ],
+        "Name: <Park>\nCaption: A group of actors dressed in formal attire pose together at a Netflix event, showcasing their elegance and professionalism.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<yang>",
+            "<wook>"
+        ],
+        "Name: <Group>\nCaption: A vibrant group photo featuring a mix of individuals dressed in stylish and formal attire, set against a colorful backdrop with the Netflix logo, capturing a moment of camaraderie and professionalism.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<lim>",
+            "<park>"
+        ],
+        "Name: <Park>\nCaption: A group of elegantly dressed individuals posing together in front of a pink backdrop.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<lim>",
+            "<wook>"
+        ],
+        "Name: <Group Photo>\nCaption: A vibrant group of actors and actresses pose together at a Netflix event, showcasing their stylish and confident personas against a colorful backdrop.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<jae>",
+            "<park>",
+            "<wook>"
+        ],
+        "Name: <Park>\nCaption: A group of elegantly dressed individuals posing together at what appears to be a formal event or premiere, showcasing their sophisticated and polished appearances.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<lee>",
+            "<yang>",
+            "<lim>"
+        ],
+        "Name: <Group>\n\nA vibrant group of actors and actresses come together on stage, exuding confidence and charisma in their stylish ensembles. The backdrop of pink and yellow geometric shapes adds a playful touch to the scene, highlighting the dynamic energy of the ensemble.",
+        "Give a personalized caption of this image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<lee>",
+            "<yang>",
+            "<park>"
+        ],
+        "Name: <Park>\nCaption: A group of elegantly dressed individuals posing together in front of a Netflix backdrop, showcasing their sophisticated and polished looks.",
+        "Give a caption of the image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<lee>",
+            "<yang>",
+            "<wook>"
+        ],
+        "Name: <Group Photo>\n\nA group of talented individuals come together for a formal event, showcasing their professionalism and camaraderie against a vibrant backdrop. Their coordinated yet distinct styles highlight their unique personalities while maintaining a unified presence.",
+        "Can you provide a personalized caption of this photo?"
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<lee>",
+            "<lim>",
+            "<park>"
+        ],
+        "Name: <Park>\nCaption: A group of actors dressed in formal attire pose together at a Netflix event, showcasing their elegance and professionalism.",
+        "Provide a caption of the given image."
+    ],
+    [
+        "./query-multi-concept/group photo_squidgame.jpg",
+        [
+            "<cho>",
+            "<lee>",
+            "<lim>",
+            "<wook>"
+        ],
+        "Name: <Group>\nCaption: A vibrant group photo featuring a mix of rising stars and seasoned actors, all dressed elegantly against a colorful backdrop, exuding confidence and camaraderie.",
+        "Give a personalized caption of this image."
+    ]
+]

@@ -1,0 +1,740 @@
+[
+    [
+        "./multi_concept_images/Anya_and_Bond/Anya_and_Bond_1.jpg",
+        [
+            "<Anya>",
+            "<Bond>"
+        ],
+        "<Anya> is petting <Bond>.",
+        "Give a personalized caption of this image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Anya_and_Bond/Anya_and_Bond_2.jpg",
+        [
+            "<Anya>",
+            "<Bond>"
+        ],
+        "<Anya> is happy to see <Bond>.",
+        "Give a caption of the image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Anya_and_Bond/Anya_and_Bond_3.jpg",
+        [
+            "<Anya>",
+            "<Bond>"
+        ],
+        "<Anya> is happy to see <Bond>.",
+        "Can you provide a personalized caption of this photo?Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Anya_and_Bond/Anya_and_Bond_4.jpg",
+        [
+            "<Anya>",
+            "<Bond>"
+        ],
+        "<Anya> is happy to see <Bond> eating his food.",
+        "Provide a caption of the given image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Anya_and_Bond/Anya_and_Bond_5.jpg",
+        [
+            "<Anya>",
+            "<Bond>"
+        ],
+        "<Anya> is petting <Bond>.",
+        "Give a personalized caption of this image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Anya_and_Bond/Anya_and_Bond_6.jpg",
+        [
+            "<Anya>",
+            "<Bond>"
+        ],
+        "<Anya> is happy to see <Bond>.",
+        "Give a caption of the image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Anya_and_Bond/Anya_and_Bond_7.jpg",
+        [
+            "<Anya>",
+            "<Bond>"
+        ],
+        "<Anya> is happy to see her friends, <Bond> and <Penguin>.",
+        "Can you provide a personalized caption of this photo?Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Anya_and_Bond/Anya_and_Bond_8.jpg",
+        [
+            "<Anya>",
+            "<Bond>"
+        ],
+        "<Anya> is happy to see <Bond>.",
+        "Provide a caption of the given image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Anya_and_Bond/Anya_and_Bond_9.jpg",
+        [
+            "<Anya>",
+            "<Bond>"
+        ],
+        "<Anya> is surprised by <Bond>'s sudden appearance.",
+        "Give a personalized caption of this image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Anya_and_Bond/Anya_and_Bond_10.jpg",
+        [
+            "<Anya>",
+            "<Bond>"
+        ],
+        "<Anya> is happy to be home.",
+        "Give a caption of the image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_1.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "Here are <Bluey> and <Bingo> together!",
+        "Can you provide a personalized caption of this photo?Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_2.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "<Bingo> and <Bluey> are ready for their adventure!",
+        "Provide a caption of the given image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_3.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "Here is <Bluey> and <Bingo> together!",
+        "Give a personalized caption of this image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_4.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "<Bingo> and <Bluey> are sitting in the back seat of a car.",
+        "Give a caption of the image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_5.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "<Bluey> and <Bingo> playing with blocks.",
+        "Can you provide a personalized caption of this photo?Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_6.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "<Bluey> and <Bingo> playing with blocks.",
+        "Provide a caption of the given image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_7.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "<Bluey> and <Bingo> are sitting at a table.",
+        "Give a personalized caption of this image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_8.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "<Bluey> and <Bingo> are ready for a bath!",
+        "Give a caption of the image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_9.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "Here are two plush toys, <Bluey> and <Bingo>.",
+        "Can you provide a personalized caption of this photo?Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_10.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "<Bluey> and <Bingo> are cuddling in bed.",
+        "Provide a caption of the given image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_11.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "<Bluey> and <Bingo> are sitting together.",
+        "Give a personalized caption of this image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Bluey_and_Bingo/Bluey_and_Bingo_12.jpg",
+        [
+            "<Bluey>",
+            "<Bingo>"
+        ],
+        "<Bingo> and <Bluey> are ready for Christmas!",
+        "Give a caption of the image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_1.jpg",
+        [
+            "<Bull_dog>",
+            "<Baby_Q>"
+        ],
+        "<Bull_dog> is looking at the camera with a curious expression.",
+        "Can you provide a personalized caption of this photo?Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_2.jpg",
+        [
+            "<Bull_dog>",
+            "<Baby_Q>"
+        ],
+        "<Bull_dog> is looking at the camera.",
+        "Provide a caption of the given image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_3.jpg",
+        [
+            "<Bull_dog>",
+            "<Baby_Q>"
+        ],
+        "<Bull_dog> is looking at something interesting.",
+        "Give a personalized caption of this image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_4.jpg",
+        [
+            "<Bull_dog>",
+            "<Baby_Q>"
+        ],
+        "<Bull_dog> is looking at the camera with a serious expression.",
+        "Give a caption of the image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_5.jpg",
+        [
+            "<Bull_dog>",
+            "<Baby_Q>"
+        ],
+        "<Bull_dog> is looking at something interesting.",
+        "Can you provide a personalized caption of this photo?Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_6.jpg",
+        [
+            "<Bull_dog>",
+            "<Baby_Q>"
+        ],
+        "<Bull_dog> is looking at the camera with a serious expression.",
+        "Provide a caption of the given image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_7.jpg",
+        [
+            "<Bull_dog>",
+            "<Baby_Q>"
+        ],
+        "<Bull_dog> is looking at the camera with a serious expression.",
+        "Give a personalized caption of this image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_8.jpg",
+        [
+            "<Bull_dog>",
+            "<Baby_Q>"
+        ],
+        "<Bull_dog> is looking at something.",
+        "Give a caption of the image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_9.jpg",
+        [
+            "<Bull_dog>",
+            "<Baby_Q>"
+        ],
+        "<Bull_dog> is looking at something interesting.",
+        "Can you provide a personalized caption of this photo?Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_10.jpg",
+        [
+            "<Bull_dog>",
+            "<Baby_Q>"
+        ],
+        "<Bull_dog> is looking at the camera with a serious expression.",
+        "Provide a caption of the given image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_1.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "<C_dog> is looking at <G_cat>.",
+        "Give a personalized caption of this image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_2.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "<C_dog> is holding <G_cat>.",
+        "Give a caption of the image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_3.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "<C_dog> is a black and white border collie dog.",
+        "Can you provide a personalized caption of this photo?Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_4.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "<C_dog> is looking at <G_cat>.",
+        "Provide a caption of the given image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_5.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "<C_dog> is looking at something interesting.",
+        "Give a personalized caption of this image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_6.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "<C_dog> is looking at the camera while lying on a bed.",
+        "Give a caption of the image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_7.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "<C_dog> is a black and white border collie dog.",
+        "Can you provide a personalized caption of this photo?Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_8.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "<C_dog> is happy to have <G_cat> in his life.",
+        "Provide a caption of the given image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_9.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "<C_dog> is looking at <G_cat>.",
+        "Give a personalized caption of this image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_10.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "<C_dog> is sitting on a bed looking at the camera.",
+        "Give a caption of the image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_11.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "<C_dog> is a black and white border collie dog.",
+        "Can you provide a personalized caption of this photo?Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_12.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "<C_dog> is looking at the camera.",
+        "Provide a caption of the given image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/C_dog_and_G_cat/C_dog_and_G_cat_13.jpg",
+        [
+            "<C_dog>",
+            "<G_cat>"
+        ],
+        "<C_dog> is looking at the camera while lying on a bed.",
+        "Give a personalized caption of this image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Character_A_and_Character_B/Character_A_and_Character_B_1.jpg",
+        [
+            "<Character_A>",
+            "<Character_B>"
+        ],
+        "<Character_A> and <Character_B> are having a conversation.",
+        "Give a caption of the image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Character_A_and_Character_B/Character_A_and_Character_B_2.jpg",
+        [
+            "<Character_A>",
+            "<Character_B>"
+        ],
+        "<Character_A> is ready to help!",
+        "Can you provide a personalized caption of this photo?Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Character_A_and_Character_B/Character_A_and_Character_B_3.jpg",
+        [
+            "<Character_A>",
+            "<Character_B>"
+        ],
+        "<Character_A> is standing in front of a building, looking at <Character_B>.",
+        "Provide a caption of the given image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Character_A_and_Character_B/Character_A_and_Character_B_4.jpg",
+        [
+            "<Character_A>",
+            "<Character_B>"
+        ],
+        "<Character_A> is standing at a desk in a police station, looking at something off-screen with a curious expression.",
+        "Give a personalized caption of this image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Character_A_and_Character_B/Character_A_and_Character_B_5.jpg",
+        [
+            "<Character_A>",
+            "<Character_B>"
+        ],
+        "<Character_A> is looking at <Character_B> with a curious expression.",
+        "Give a caption of the image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Character_A_and_Character_B/Character_A_and_Character_B_6.jpg",
+        [
+            "<Character_A>",
+            "<Character_B>"
+        ],
+        "<Character_A> looks up at <Character_B> with a curious expression.",
+        "Can you provide a personalized caption of this photo?Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Character_A_and_Character_B/Character_A_and_Character_B_7.jpg",
+        [
+            "<Character_A>",
+            "<Character_B>"
+        ],
+        "<Character_A> is looking at <Character_B> with a curious expression.",
+        "Provide a caption of the given image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Character_A_and_Character_B/Character_A_and_Character_B_8.jpg",
+        [
+            "<Character_A>",
+            "<Character_B>"
+        ],
+        "<Character_A> is ready to help!",
+        "Give a personalized caption of this image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Character_A_and_Character_B/Character_A_and_Character_B_9.jpg",
+        [
+            "<Character_A>",
+            "<Character_B>"
+        ],
+        "<Character_A> looks up at <Character_B> with a curious expression.",
+        "Give a caption of the image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Character_A_and_Character_B/Character_A_and_Character_B_10.jpg",
+        [
+            "<Character_A>",
+            "<Character_B>"
+        ],
+        "<Character_A> is being held by <Character_B> in a police station.",
+        "Can you provide a personalized caption of this photo?Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/H_and_T/H_and_T_1.jpg",
+        [
+            "<H>",
+            "<T>"
+        ],
+        "<H> is driving while <T> is in the passenger seat.",
+        "Provide a caption of the given image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/H_and_T/H_and_T_2.jpg",
+        [
+            "<H>",
+            "<T>"
+        ],
+        "<H> is helping <T> make a sandwich.",
+        "Give a personalized caption of this image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/H_and_T/H_and_T_3.jpg",
+        [
+            "<H>",
+            "<T>"
+        ],
+        "<H> is putting something in his hair.",
+        "Give a caption of the image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/H_and_T/H_and_T_4.jpg",
+        [
+            "<H>",
+            "<T>"
+        ],
+        "<H> and <T> are sitting in front of a truck.",
+        "Can you provide a personalized caption of this photo?Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/H_and_T/H_and_T_5.jpg",
+        [
+            "<H>",
+            "<T>"
+        ],
+        "<H> is wearing a plain tan t-shirt. His hair is short and curly.",
+        "Provide a caption of the given image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/H_and_T/H_and_T_6.jpg",
+        [
+            "<H>",
+            "<T>"
+        ],
+        "<H> and <T> are getting ready for the day.",
+        "Give a personalized caption of this image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/H_and_T/H_and_T_7.jpg",
+        [
+            "<H>",
+            "<T>"
+        ],
+        "<H> and <T> are both styling their hair in the bathroom.",
+        "Give a caption of the image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/H_and_T/H_and_T_8.jpg",
+        [
+            "<H>",
+            "<T>"
+        ],
+        "<H> is driving while <T> is in the passenger seat.",
+        "Can you provide a personalized caption of this photo?Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/H_and_T/H_and_T_9.jpg",
+        [
+            "<H>",
+            "<T>"
+        ],
+        "<H> and <T> are standing in front of a palm tree.",
+        "Provide a caption of the given image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/H_and_T/H_and_T_10.jpg",
+        [
+            "<H>",
+            "<T>"
+        ],
+        "<H> is enjoying a donut while <T> looks on.",
+        "Give a personalized caption of this image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/J_and_K/J_and_K_1.jpg",
+        [
+            "<J>",
+            "<K>"
+        ],
+        "<J> and <K> are having a conversation at a cafe.",
+        "Give a caption of the image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/J_and_K/J_and_K_2.jpg",
+        [
+            "<J>",
+            "<K>"
+        ],
+        "<J> and <K> enjoying a meal together at a restaurant.",
+        "Can you provide a personalized caption of this photo?Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/J_and_K/J_and_K_3.jpg",
+        [
+            "<J>",
+            "<K>"
+        ],
+        "<J> and <K> are enjoying some ice cream on a sunny day.",
+        "Provide a caption of the given image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/J_and_K/J_and_K_4.jpg",
+        [
+            "<J>",
+            "<K>"
+        ],
+        "<J> and <K> are enjoying some ice tea at a cafe.",
+        "Give a personalized caption of this image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/J_and_K/J_and_K_5.jpg",
+        [
+            "<J>",
+            "<K>"
+        ],
+        "<J> and <K> are sitting at a table in a cafe.",
+        "Give a caption of the image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/J_and_K/J_and_K_6.jpg",
+        [
+            "<J>",
+            "<K>"
+        ],
+        "<J> is sitting at a table with a drink in front of him.",
+        "Can you provide a personalized caption of this photo?Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/J_and_K/J_and_K_7.jpg",
+        [
+            "<J>",
+            "<K>"
+        ],
+        "<J> is sitting at a table with a drink in front of him.",
+        "Provide a caption of the given image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/J_and_K/J_and_K_8.jpg",
+        [
+            "<J>",
+            "<K>"
+        ],
+        "<J> and <K> are sitting at a table in a cafe.",
+        "Give a personalized caption of this image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Parrot_1_and_Parrot_2/Parrot_1_and_Parrot_2_1.jpg",
+        [
+            "<Parrot_1>",
+            "<Parrot_2>"
+        ],
+        "<Parrot_1> is a beautiful green parrot with a bright red beak, while <Parrot_2> is a light blue parrot with pink feet. They are both perched on a branch in a lush green environment.",
+        "Give a caption of the image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Parrot_1_and_Parrot_2/Parrot_1_and_Parrot_2_2.jpg",
+        [
+            "<Parrot_1>",
+            "<Parrot_2>"
+        ],
+        "<Parrot_1> is a beautiful green parrot with a bright red beak, while <Parrot_2> is a light blue parrot with pink feet.",
+        "Can you provide a personalized caption of this photo?Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Parrot_1_and_Parrot_2/Parrot_1_and_Parrot_2_3.jpg",
+        [
+            "<Parrot_1>",
+            "<Parrot_2>"
+        ],
+        "<Parrot_1> is a beautiful green parrot with a bright red beak, while <Parrot_2> is a light blue parrot with pink feet. They are both perched on a branch.",
+        "Provide a caption of the given image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Parrot_1_and_Parrot_2/Parrot_1_and_Parrot_2_4.jpg",
+        [
+            "<Parrot_1>",
+            "<Parrot_2>"
+        ],
+        "<Parrot_1> and <Parrot_2> are sitting together on a wooden bench.",
+        "Give a personalized caption of this image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Parrot_1_and_Parrot_2/Parrot_1_and_Parrot_2_5.jpg",
+        [
+            "<Parrot_1>",
+            "<Parrot_2>"
+        ],
+        "<Parrot_1> is a green parrot with a bright red beak, while <Parrot_2> is a light blue parrot with pink feet. They are both perched on a branch.",
+        "Give a caption of the image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Parrot_1_and_Parrot_2/Parrot_1_and_Parrot_2_6.jpg",
+        [
+            "<Parrot_1>",
+            "<Parrot_2>"
+        ],
+        "<Parrot_1> and <Parrot_2> are two beautiful parrots.",
+        "Can you provide a personalized caption of this photo?Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Parrot_1_and_Parrot_2/Parrot_1_and_Parrot_2_7.jpg",
+        [
+            "<Parrot_1>",
+            "<Parrot_2>"
+        ],
+        "<Parrot_1> and <Parrot_2> are perched on a branch.",
+        "Provide a caption of the given image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Parrot_1_and_Parrot_2/Parrot_1_and_Parrot_2_8.jpg",
+        [
+            "<Parrot_1>",
+            "<Parrot_2>"
+        ],
+        "<Parrot_1> is perched on a branch, while <Parrot_2> is in the background.",
+        "Give a personalized caption of this image.Output the final answer using its given names."
+    ],
+    [
+        "./multi_concept_images/Parrot_1_and_Parrot_2/Parrot_1_and_Parrot_2_9.jpg",
+        [
+            "<Parrot_1>",
+            "<Parrot_2>"
+        ],
+        "<Parrot_1> is a beautiful green parrot with a bright red beak.  It is perched on a branch in a field of yellow flowers.",
+        "Give a caption of the image.Output the final answer using its given names."
+    ]
+]
