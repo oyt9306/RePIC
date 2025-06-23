@@ -1,7 +1,7 @@
-# 🔍 RePIC: Reinforced Post-Training for Personalizing Multi-Modal Language Models
+# RePIC: Reinforced Post-Training for Personalizing Multi-Modal Language Models
 Authors: 
 
-Yeongtak Oh, Jisoo Mok, DoHyun Chung, Juhyeon Shin, Sangha Park, Johan Barthelemy, and Sungroh Yoon
+Yeongtak Oh, Jisoo Mok, Dohyun Chung, Juhyeon Shin, Sangha Park, Johan Barthelemy, and Sungroh Yoon
 
 Abstract: 
 
