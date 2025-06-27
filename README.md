@@ -52,7 +52,7 @@ We have only tested inference with the **`flash_attention_2`** setup. Logs and e
 
 You can run the `gradio_example_4_concept.ipynb` notebooks for **visualization with pre-generated captions** without installing the environmental settings.
 
-> 📌 Note: We curated the database and query images for a 4-concept setting, all evaluation images are credited to [RAP-MLLM](https://arxiv.org/abs/2410.13360).
+> 📌 Note: We curated the database and query images for a 4-concept setting; all evaluation images used for 2-concept settings are credited to [RAP-MLLM](https://arxiv.org/abs/2410.13360).
 
 Feel free to try it out!
 
