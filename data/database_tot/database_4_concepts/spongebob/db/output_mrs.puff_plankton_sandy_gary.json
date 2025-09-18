@@ -1,0 +1,34 @@
+{
+    "concept_dict": {
+        "<mrs.puff>": {
+            "name": "Mrs.Puff",
+            "image": "./__assets__/multi/mrs.puff.jpg",
+            "info": "She is SpongeBob’s driving school teacher who lives in constant fear of his chaotic driving. Her nervous and cautious nature often lands her in humorous trouble.",
+            "category": "character"
+        },
+        "<plankton>": {
+            "name": "Plankton",
+            "image": "./__assets__/multi/plankton.jpg",
+            "info": "A tiny villain with a big ego, Plankton constantly schemes to steal the Krabby Patty secret formula. Despite his evil plans, he often ends up failing in hilarious ways.",
+            "category": "character"
+        },
+        "<sandy>": {
+            "name": "Sandy",
+            "image": "./__assets__/multi/sandy.jpg",
+            "info": "Sandy is a smart, strong Texan squirrel who lives underwater in a special dome. She's an expert in science and karate, often acting as the voice of reason.",
+            "category": "character"
+        },
+        "<gary>": {
+            "name": "Gary",
+            "image": "./__assets__/multi/gary.jpg",
+            "info": "Gary is SpongeBob’s pet snail who meows like a cat and shows surprising intelligence. Despite his quiet demeanor, he plays a loyal and thoughtful role in SpongeBob’s life.",
+            "category": "character"
+        }
+    },
+    "path_to_concept": {
+        "./__assets__/multi/mrs.puff.jpg": "<mrs.puff>",
+        "./__assets__/multi/plankton.jpg": "<plankton>",
+        "./__assets__/multi/sandy.jpg": "<sandy>",
+        "./__assets__/multi/gary.jpg": "<gary>"
+    }
+}

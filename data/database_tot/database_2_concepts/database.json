@@ -1,0 +1,321 @@
+{
+    "concept_dict": {
+        "<Anya>": {
+            "name": "Anya",
+            "image": "./database/Anya.jpg",
+            "info": "A young girl with pink hair and big green eyes.",
+            "category": "person"
+        },
+        "<asian_doll>": {
+            "name": "asian_doll",
+            "image": "./database/asian_doll.jpg",
+            "info": "This is a cute figurine of a girl wearing a pink and blue dress, holding a white bubble.",
+            "category": "toy"
+        },
+        "<Baby_Q>": {
+            "name": "Baby_Q",
+            "image": "./database/Baby_Q.jpg",
+            "info": "A baby is sleeping peacefully in a carrier. The baby is wrapped in a soft, colorful blanket and is secured by a black strap.",
+            "category": "person"
+        },
+        "<billy_dog>": {
+            "name": "billy_dog",
+            "image": "./database/billy_dog.jpg",
+            "info": "A cute dog. The dog's fur is light brown and white.",
+            "category": "dog"
+        },
+        "<Bingo>": {
+            "name": "Bingo",
+            "image": "./database/Bingo.jpg",
+            "info": "A plush toy. It is orange with a yellow belly and a brown nose.",
+            "category": "plush toy"
+        },
+        "<Bluey>": {
+            "name": "Bluey",
+            "image": "./database/Bluey.jpg",
+            "info": "This is a plush toy of the bluey character. It is a light blue color with a purple patch on its head, and its ears are yellow.",
+            "category": "plush toy"
+        },
+        "<Bond>": {
+            "name": "Bond",
+            "image": "./database/Bond.jpg",
+            "info": "A white dog wearing a black bow tie.",
+            "category": "dog"
+        },
+        "<boy_funko_pop>": {
+            "name": "boy_funko_pop",
+            "image": "./database/boy_funko_pop.jpg",
+            "info": "The image contains a Funko Pop, a figurine of a male character with a blue hoodie, black shirt, blue jeans, and white sneakers. He is holding a red card in his right hand.",
+            "category": "toy"
+        },
+        "<bull>": {
+            "name": "bull",
+            "image": "./database/bull.jpg",
+            "info": "This is a wooden toy cow, with a natural wood finish, and has string legs.",
+            "category": "statue"
+        },
+        "<Bull_dog>": {
+            "name": "Bull_dog",
+            "image": "./database/Bull_dog.jpg",
+            "info": "A french bulldog. The dog is light brown in color.",
+            "category": "dog"
+        },
+        "<cat_statue>": {
+            "name": "cat_statue",
+            "image": "./database/cat_statue.jpg",
+            "info": "This is a figurine of a cat. The cat has a blue body with yellow, red, and green stripes and a long tail that is also striped.",
+            "category": "statue"
+        },
+        "<ceramic_head>": {
+            "name": "ceramic_head",
+            "image": "./database/ceramic_head.jpg",
+            "info": "This is a ceramic planter shaped like a head wearing glasses. The planter is a light beige color and has a round face with a small nose and mouth. The planter is a fun and whimsical decoration that would add a touch of personality to any home.",
+            "category": "vase"
+        },
+        "<Character_A>": {
+            "name": "Character_A",
+            "image": "./database/Character_A.jpg",
+            "info": "A cartoon rabbit with large ears, a police officer's hat, and a red and yellow safety vest. She has a sweet, innocent look on its face, and its fur is brown and grey.",
+            "category": "cartoon character"
+        },
+        "<Character_B>": {
+            "name": "Character_B",
+            "image": "./database/Character_B.jpg",
+            "info": "A cartoon fox wearing a yellow button-down shirt and a purple tie. He has big eyes, fluffy fur, and a sly grin on his face.",
+            "category": "cartoon character"
+        },
+        "<chicken_bean_bag>": {
+            "name": "chicken_bean_bag",
+            "image": "./database/chicken_bean_bag.jpg",
+            "info": "A handmade stuffed toy. It looks like a cat with orange fuzzy ears and a brown cord attached.",
+            "category": "white and black bag"
+        },
+        "<C_dog>": {
+            "name": "C_dog",
+            "image": "./database/C_dog.jpg",
+            "info": "A black and white border collie dog.",
+            "category": "dog"
+        },
+        "<colorful_teapot>": {
+            "name": "colorful_teapot",
+            "image": "./database/colorful_teapot.jpg",
+            "info": "A colorful teapot with a handle on both sides.",
+            "category": "colorful teapot"
+        },
+        "<dangling_child>": {
+            "name": "dangling_child",
+            "image": "./database/dangling_child.jpg",
+            "info": "This is a cute figurine of a boy wearing a yellow hat, a white t-shirt and purple pants.",
+            "category": "toy"
+        },
+        "<elephant_sphere>": {
+            "name": "elephant_sphere",
+            "image": "./database/elephant_sphere.jpg",
+            "info": "A white, round stone carved with elephants and flowers.",
+            "category": "elephant"
+        },
+        "<elephant_statue>": {
+            "name": "elephant_statue",
+            "image": "./database/elephant_statue.jpg",
+            "info": "A carved elephant figurine. The elephant is carved from a light brown stone and has intricate designs on its back and sides.",
+            "category": "statue"
+        },
+        "<espresso_cup>": {
+            "name": "espresso_cup",
+            "image": "./database/espresso_cup.jpg",
+            "info": "This is a cup with a blue background and a white circle with a blue eye in the center. The words \"Greece\" are on the cup.",
+            "category": "cup"
+        },
+        "<gengar_toy>": {
+            "name": "gengar_toy",
+            "image": "./database/gengar_toy.jpg",
+            "info": "A purple and white Gengar Pokemon figurine. It is a small figurine with a rounded body.",
+            "category": "toy"
+        },
+        "<G_cat>": {
+            "name": "G_cat",
+            "image": "./database/G_cat.jpg",
+            "info": "A small ginger kitten with bright blue eyes looks up at the camera.",
+            "category": "cat"
+        },
+        "<gold_pineapple>": {
+            "name": "gold_pineapple",
+            "image": "./database/gold_pineapple.jpg",
+            "info": "The image shows a golden pineapple shaped container. It is made of metal, shiny and has a checkered pattern.",
+            "category": "gold_pineapple"
+        },
+        "<green_doll>": {
+            "name": "green_doll",
+            "image": "./database/green_doll.jpg",
+            "info": "A wooden toy with a green dress and white arms, sitting on a metal base with a spiral wire for a head.",
+            "category": "toy"
+        },
+        "<H>": {
+            "name": "H",
+            "image": "./database/H.jpg",
+            "info": "A young man is wearing a plain tan t-shirt. His hair is short and curly.",
+            "category": "person"
+        },
+        "<iverson_funko_pop>": {
+            "name": "iverson_funko_pop",
+            "image": "./database/iverson_funko_pop.jpg",
+            "info": "A Funko Pop, figure of Allen Iverson, a former NBA player who played for the Philadelphia 76ers.",
+            "category": "toy"
+        },
+        "<J>": {
+            "name": "J",
+            "image": "./database/J.jpg",
+            "info": " A man wearing a white t-shirt and black shorts.",
+            "category": "person"
+        },
+        "<K>": {
+            "name": "K",
+            "image": "./database/K.jpg",
+            "info": "A young woman is sitting in a chair, wearing a blue polka-dotted dress. Her hair is tied back with a brown and white scrunchie.",
+            "category": "person"
+        },
+        "<maeve_dog>": {
+            "name": "maeve_dog",
+            "image": "./database/maeve_dog.jpg",
+            "info": "This is a white and gray dog with long fur. It has black eyes.",
+            "category": "dog"
+        },
+        "<minion_toy>": {
+            "name": "minion_toy",
+            "image": "./database/minion_toy.jpg",
+            "info": "The image is of a minion toy wearing a brown cowboy hat and holding two yellow bananas in its hands.",
+            "category": "toy"
+        },
+        "<my_cat>": {
+            "name": "my_cat",
+            "image": "./database/my_cat.jpg",
+            "info": " A tabby cat with its eyes closed is laying on a light grey surface. The cat's fur is a mix of light and dark brown stripes.",
+            "category": "cat"
+        },
+        "<Parrot_1>": {
+            "name": "Parrot_1",
+            "image": "./database/Parrot_1.jpg",
+            "info": "A green parrot with a bright red beak is perched on a branch.",
+            "category": "parrot"
+        },
+        "<Parrot_2>": {
+            "name": "Parrot_2",
+            "image": "./database/Parrot_2.jpg",
+            "info": "This is a light blue parrot with pink feet. It has a light blue head and a white ring around its neck.",
+            "category": "parrot"
+        },
+        "<rabbit_toy>": {
+            "name": "rabbit_toy",
+            "image": "./database/rabbit_toy.jpg",
+            "info": "A white bunny toy with large eyes and a cute expression.",
+            "category": "toy"
+        },
+        "<red_chicken>": {
+            "name": "red_chicken",
+            "image": "./database/red_chicken.jpg",
+            "info": "This is a ceramic figurine of a hen with a red and black polka dot dress. The hen has a gray head with a red comb.",
+            "category": "chicken"
+        },
+        "<red_piggy_bank>": {
+            "name": "red_piggy_bank",
+            "image": "./database/red_piggy_bank.jpg",
+            "info": "This is a red piggy bank with a smiling face. It is made of ceramic and has a slot on the top for coins.",
+            "category": "bank"
+        },
+        "<robot_toy>": {
+            "name": "robot_toy",
+            "image": "./database/robot_toy.jpg",
+            "info": "This is a toy figurine of Iron Man, a superhero from Marvel comics. He is wearing a silver and red suit of armor.",
+            "category": "toy"
+        },
+        "<running_shoes>": {
+            "name": "running_shoes",
+            "image": "./database/running_shoes.jpg",
+            "info": "The image shows a bright pink and yellow Nike ZoomX shoe.",
+            "category": "shoe"
+        },
+        "<sheep_pillow>": {
+            "name": "sheep_pillow",
+            "image": "./database/sheep_pillow.jpg",
+            "info": "The image contains a pillow with a pattern of flowers, leaves, and a sheep wearing glasses with a flower crown.",
+            "category": "pillow"
+        },
+        "<sheep_plush>": {
+            "name": "sheep_plush",
+            "image": "./database/sheep_plush.jpg",
+            "info": "The image contains a white crocheted stuffed sheep.",
+            "category": "plush toy"
+        },
+        "<sheep_toy>": {
+            "name": "sheep_toy",
+            "image": "./database/sheep_toy.jpg",
+            "info": "The image shows a white, fluffy sheep made of felt. It has black eyes and a black nose.",
+            "category": "toy"
+        },
+        "<skulls_mug>": {
+            "name": "skulls_mug",
+            "image": "./database/skulls_mug.jpg",
+            "info": "A brown ceramic tiki mug with the face of a tiki head. It has a white rim with a design of skulls on the base.",
+            "category": "statue"
+        },
+        "<small_penguin>": {
+            "name": "small_penguin",
+            "image": "./database/small_penguin.jpg",
+            "info": "This is a toy penguin wearing a green baseball cap, with its wing covering a yellow ball.",
+            "category": "toy"
+        },
+        "<T>": {
+            "name": "T",
+            "image": "./database/T.jpg",
+            "info": "A young woman with blonde hair is wearing a white tank top and blue jeans.",
+            "category": "person"
+        }
+    },
+    "path_to_concept": {
+        "./database/Anya.jpg": "<Anya>",
+        "./database/asian_doll.jpg": "<asian_doll>",
+        "./database/Baby_Q.jpg": "<Baby_Q>",
+        "./database/billy_dog.jpg": "<billy_dog>",
+        "./database/Bingo.jpg": "<Bingo>",
+        "./database/Bluey.jpg": "<Bluey>",
+        "./database/Bond.jpg": "<Bond>",
+        "./database/boy_funko_pop.jpg": "<boy_funko_pop>",
+        "./database/bull.jpg": "<bull>",
+        "./database/Bull_dog.jpg": "<Bull_dog>",
+        "./database/cat_statue.jpg": "<cat_statue>",
+        "./database/ceramic_head.jpg": "<ceramic_head>",
+        "./database/Character_A.jpg": "<Character_A>",
+        "./database/Character_B.jpg": "<Character_B>",
+        "./database/chicken_bean_bag.jpg": "<chicken_bean_bag>",
+        "./database/C_dog.jpg": "<C_dog>",
+        "./database/colorful_teapot.jpg": "<colorful_teapot>",
+        "./database/dangling_child.jpg": "<dangling_child>",
+        "./database/elephant_sphere.jpg": "<elephant_sphere>",
+        "./database/elephant_statue.jpg": "<elephant_statue>",
+        "./database/espresso_cup.jpg": "<espresso_cup>",
+        "./database/gengar_toy.jpg": "<gengar_toy>",
+        "./database/G_cat.jpg": "<G_cat>",
+        "./database/gold_pineapple.jpg": "<gold_pineapple>",
+        "./database/green_doll.jpg": "<green_doll>",
+        "./database/H.jpg": "<H>",
+        "./database/iverson_funko_pop.jpg": "<iverson_funko_pop>",
+        "./database/J.jpg": "<J>",
+        "./database/K.jpg": "<K>",
+        "./database/maeve_dog.jpg": "<maeve_dog>",
+        "./database/minion_toy.jpg": "<minion_toy>",
+        "./database/my_cat.jpg": "<my_cat>",
+        "./database/Parrot_1.jpg": "<Parrot_1>",
+        "./database/Parrot_2.jpg": "<Parrot_2>",
+        "./database/rabbit_toy.jpg": "<rabbit_toy>",
+        "./database/red_chicken.jpg": "<red_chicken>",
+        "./database/red_piggy_bank.jpg": "<red_piggy_bank>",
+        "./database/robot_toy.jpg": "<robot_toy>",
+        "./database/running_shoes.jpg": "<running_shoes>",
+        "./database/sheep_pillow.jpg": "<sheep_pillow>",
+        "./database/sheep_plush.jpg": "<sheep_plush>",
+        "./database/sheep_toy.jpg": "<sheep_toy>",
+        "./database/skulls_mug.jpg": "<skulls_mug>",
+        "./database/small_penguin.jpg": "<small_penguin>",
+        "./database/T.jpg": "<T>"
+    }
+}

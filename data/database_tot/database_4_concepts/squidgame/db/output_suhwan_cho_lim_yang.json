@@ -1,0 +1,34 @@
+{
+    "concept_dict": {
+        "<suhwan>": {
+            "name": "Suhwan",
+            "image": "./__assets__/multi/suhwan.jpg",
+            "info": "He often brings levity to the screen with his comedic timing and approachable personality. His signature glasses and sincere demeanor make him a memorable presence.",
+            "category": "human"
+        },
+        "<cho>": {
+            "name": "Cho",
+            "image": "./__assets__/multi/cho.jpg",
+            "info": "A rising actress with a bright and cheerful aura, she brings energy to the screen and stage alike. Her youthful confidence and style catch the spotlight with ease.",
+            "category": "human"
+        },
+        "<lim>": {
+            "name": "Lim",
+            "image": "./__assets__/multi/lim.jpg",
+            "info": "With a youthful and sincere look, he brings realism and relatability to his roles. His office-style portrayal highlights everyday charm and depth.",
+            "category": "human"
+        },
+        "<yang>": {
+            "name": "Yang",
+            "image": "./__assets__/multi/yang.jpg",
+            "info": "Wearing a Netflix varsity jacket, he blends a casual and creative vibe with unique personality. His round glasses and natural curls enhance his artistic and approachable look.",
+            "category": "human"
+        }
+    },
+    "path_to_concept": {
+        "./__assets__/multi/suhwan.jpg": "<suhwan>",
+        "./__assets__/multi/cho.jpg": "<cho>",
+        "./__assets__/multi/lim.jpg": "<lim>",
+        "./__assets__/multi/yang.jpg": "<yang>"
+    }
+}

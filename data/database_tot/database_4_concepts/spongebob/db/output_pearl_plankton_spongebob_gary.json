@@ -1,0 +1,34 @@
+{
+    "concept_dict": {
+        "<pearl>": {
+            "name": "Pearl",
+            "image": "./__assets__/multi/pearl.jpg",
+            "info": "Pearl is Mr. Krabs’ teenage daughter, a whale with big dreams and strong emotions. She often struggles to relate to her frugal father’s values.",
+            "category": "character"
+        },
+        "<plankton>": {
+            "name": "Plankton",
+            "image": "./__assets__/multi/plankton.jpg",
+            "info": "A tiny villain with a big ego, Plankton constantly schemes to steal the Krabby Patty secret formula. Despite his evil plans, he often ends up failing in hilarious ways.",
+            "category": "character"
+        },
+        "<spongebob>": {
+            "name": "SpongeBob",
+            "image": "./__assets__/multi/spongebob.jpg",
+            "info": "SpongeBob is a cheerful and hardworking sea sponge who lives in a pineapple under the sea. Known for his optimism and energy, he’s a loyal friend and passionate fry cook.",
+            "category": "character"
+        },
+        "<gary>": {
+            "name": "Gary",
+            "image": "./__assets__/multi/gary.jpg",
+            "info": "Gary is SpongeBob’s pet snail who meows like a cat and shows surprising intelligence. Despite his quiet demeanor, he plays a loyal and thoughtful role in SpongeBob’s life.",
+            "category": "character"
+        }
+    },
+    "path_to_concept": {
+        "./__assets__/multi/pearl.jpg": "<pearl>",
+        "./__assets__/multi/plankton.jpg": "<plankton>",
+        "./__assets__/multi/spongebob.jpg": "<spongebob>",
+        "./__assets__/multi/gary.jpg": "<gary>"
+    }
+}

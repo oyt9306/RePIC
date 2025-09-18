@@ -1,0 +1,34 @@
+{
+    "concept_dict": {
+        "<hur>": {
+            "name": "Hur",
+            "image": "./__assets__/multi/hur.jpg",
+            "info": "He is a seasoned actor known for his commanding presence and powerful emotional range. His intense gaze and mature charisma make him a standout in dramatic roles.",
+            "category": "human"
+        },
+        "<jung>": {
+            "name": "Jung",
+            "image": "./__assets__/multi/jung.jpg",
+            "info": "A rising young actor with refined features and a calm demeanor, he often portrays complex and introspective characters. His composed expressions reflect emotional depth and versatility.",
+            "category": "human"
+        },
+        "<kong>": {
+            "name": "Kong",
+            "image": "./__assets__/multi/kong.jpg",
+            "info": "A fresh and youthful actress, she radiates natural beauty and subtle charisma. Her expressive eyes suggest both innocence and emotional sensitivity.",
+            "category": "human"
+        },
+        "<moon>": {
+            "name": "Moon",
+            "image": "./__assets__/multi/moon.jpg",
+            "info": "She is a graceful and composed actress with a timeless elegance. Her confident smile and refined presence reflect her experience in diverse roles.",
+            "category": "human"
+        }
+    },
+    "path_to_concept": {
+        "./__assets__/multi/hur.jpg": "<hur>",
+        "./__assets__/multi/jung.jpg": "<jung>",
+        "./__assets__/multi/kong.jpg": "<kong>",
+        "./__assets__/multi/moon.jpg": "<moon>"
+    }
+}

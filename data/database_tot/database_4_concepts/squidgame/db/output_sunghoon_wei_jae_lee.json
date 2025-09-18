@@ -1,0 +1,34 @@
+{
+    "concept_dict": {
+        "<sunghoon>": {
+            "name": "Sunghoon",
+            "image": "./__assets__/multi/sunghoon.jpg",
+            "info": "With a soft yet structured look, he carries a calm elegance suited for both romantic and introspective roles. His poised posture conveys confidence and sensitivity.",
+            "category": "human"
+        },
+        "<wei>": {
+            "name": "Wei",
+            "image": "./__assets__/multi/wei.jpg",
+            "info": "He exudes quiet strength and sophistication, often portraying serious and intense characters. His minimalist style enhances his charismatic presence.",
+            "category": "human"
+        },
+        "<jae>": {
+            "name": "Jae",
+            "image": "./__assets__/multi/jae.jpg",
+            "info": "Known for his commanding presence and mature charm, he often takes on pivotal, emotionally complex roles. His sharp gaze adds weight to every performance.",
+            "category": "human"
+        },
+        "<lee>": {
+            "name": "Lee",
+            "image": "./__assets__/multi/lee.jpg",
+            "info": "A globally recognized actor, he is renowned for his versatile acting and warm smile. His refined appearance blends intensity with approachability.",
+            "category": "human"
+        }
+    },
+    "path_to_concept": {
+        "./__assets__/multi/sunghoon.jpg": "<sunghoon>",
+        "./__assets__/multi/wei.jpg": "<wei>",
+        "./__assets__/multi/jae.jpg": "<jae>",
+        "./__assets__/multi/lee.jpg": "<lee>"
+    }
+}

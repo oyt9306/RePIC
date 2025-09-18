@@ -1,0 +1,476 @@
+{
+    "./dreambooth/backpack/00.jpg": [
+        "<backpack>"
+    ],
+    "./dreambooth/backpack/01.jpg": [
+        "<backpack>"
+    ],
+    "./dreambooth/backpack/02.jpg": [
+        "<backpack>"
+    ],
+    "./dreambooth/backpack/03.jpg": [
+        "<backpack>"
+    ],
+    "./dreambooth/backpack/04.jpg": [
+        "<backpack>"
+    ],
+    "./dreambooth/backpack/05.jpg": [
+        "<backpack>"
+    ],
+    "./dreambooth/backpack_dog/00.jpg": [
+        "<backpack_dog>"
+    ],
+    "./dreambooth/backpack_dog/01.jpg": [
+        "<backpack_dog>"
+    ],
+    "./dreambooth/backpack_dog/02.jpg": [
+        "<backpack_dog>"
+    ],
+    "./dreambooth/backpack_dog/03.jpg": [
+        "<backpack_dog>"
+    ],
+    "./dreambooth/backpack_dog/04.jpg": [
+        "<backpack_dog>"
+    ],
+    "./dreambooth/bear_plushie/00.jpg": [
+        "<bear_plushie>"
+    ],
+    "./dreambooth/bear_plushie/01.jpg": [
+        "<bear_plushie>"
+    ],
+    "./dreambooth/bear_plushie/02.jpg": [
+        "<bear_plushie>"
+    ],
+    "./dreambooth/bear_plushie/03.jpg": [
+        "<bear_plushie>"
+    ],
+    "./dreambooth/bear_plushie/04.jpg": [
+        "<bear_plushie>"
+    ],
+    "./dreambooth/berry_bowl/00.jpg": [
+        "<berry_bowl>"
+    ],
+    "./dreambooth/berry_bowl/01.jpg": [
+        "<berry_bowl>"
+    ],
+    "./dreambooth/berry_bowl/02.jpg": [
+        "<berry_bowl>"
+    ],
+    "./dreambooth/berry_bowl/03.jpg": [
+        "<berry_bowl>"
+    ],
+    "./dreambooth/berry_bowl/04.jpg": [
+        "<berry_bowl>"
+    ],
+    "./dreambooth/berry_bowl/05.jpg": [
+        "<berry_bowl>"
+    ],
+    "./dreambooth/can/00.jpg": [
+        "<can>"
+    ],
+    "./dreambooth/can/01.jpg": [
+        "<can>"
+    ],
+    "./dreambooth/can/02.jpg": [
+        "<can>"
+    ],
+    "./dreambooth/can/03.jpg": [
+        "<can>"
+    ],
+    "./dreambooth/can/04.jpg": [
+        "<can>"
+    ],
+    "./dreambooth/can/05.jpg": [
+        "<can>"
+    ],
+    "./dreambooth/candle/00.jpg": [
+        "<candle>"
+    ],
+    "./dreambooth/candle/01.jpg": [
+        "<candle>"
+    ],
+    "./dreambooth/candle/02.jpg": [
+        "<candle>"
+    ],
+    "./dreambooth/candle/03.jpg": [
+        "<candle>"
+    ],
+    "./dreambooth/candle/04.jpg": [
+        "<candle>"
+    ],
+    "./dreambooth/cat/00.jpg": [
+        "<cat>"
+    ],
+    "./dreambooth/cat/01.jpg": [
+        "<cat>"
+    ],
+    "./dreambooth/cat/02.jpg": [
+        "<cat>"
+    ],
+    "./dreambooth/cat/03.jpg": [
+        "<cat>"
+    ],
+    "./dreambooth/cat/04.jpg": [
+        "<cat>"
+    ],
+    "./dreambooth/cat2/00.jpg": [
+        "<cat2>"
+    ],
+    "./dreambooth/cat2/01.jpg": [
+        "<cat2>"
+    ],
+    "./dreambooth/cat2/02.jpg": [
+        "<cat2>"
+    ],
+    "./dreambooth/cat2/03.jpg": [
+        "<cat2>"
+    ],
+    "./dreambooth/cat2/04.jpg": [
+        "<cat2>"
+    ],
+    "./dreambooth/clock/00.jpg": [
+        "<clock>"
+    ],
+    "./dreambooth/clock/01.jpg": [
+        "<clock>"
+    ],
+    "./dreambooth/clock/02.jpg": [
+        "<clock>"
+    ],
+    "./dreambooth/clock/03.jpg": [
+        "<clock>"
+    ],
+    "./dreambooth/clock/04.jpg": [
+        "<clock>"
+    ],
+    "./dreambooth/clock/05.jpg": [
+        "<clock>"
+    ],
+    "./dreambooth/colorful_sneaker/00.jpg": [
+        "<colorful_sneaker>"
+    ],
+    "./dreambooth/colorful_sneaker/01.jpg": [
+        "<colorful_sneaker>"
+    ],
+    "./dreambooth/colorful_sneaker/02.jpg": [
+        "<colorful_sneaker>"
+    ],
+    "./dreambooth/colorful_sneaker/03.jpg": [
+        "<colorful_sneaker>"
+    ],
+    "./dreambooth/colorful_sneaker/04.jpg": [
+        "<colorful_sneaker>"
+    ],
+    "./dreambooth/dog/00.jpg": [
+        "<dog>"
+    ],
+    "./dreambooth/dog/01.jpg": [
+        "<dog>"
+    ],
+    "./dreambooth/dog/02.jpg": [
+        "<dog>"
+    ],
+    "./dreambooth/dog/03.jpg": [
+        "<dog>"
+    ],
+    "./dreambooth/dog/04.jpg": [
+        "<dog>"
+    ],
+    "./dreambooth/dog2/00.jpg": [
+        "<dog2>"
+    ],
+    "./dreambooth/dog2/01.jpg": [
+        "<dog2>"
+    ],
+    "./dreambooth/dog2/02.jpg": [
+        "<dog2>"
+    ],
+    "./dreambooth/dog2/03.jpg": [
+        "<dog2>"
+    ],
+    "./dreambooth/dog2/04.jpg": [
+        "<dog2>"
+    ],
+    "./dreambooth/dog2/05.jpg": [
+        "<dog2>"
+    ],
+    "./dreambooth/dog3/00.jpg": [
+        "<dog3>"
+    ],
+    "./dreambooth/dog3/01.jpg": [
+        "<dog3>"
+    ],
+    "./dreambooth/dog3/02.jpg": [
+        "<dog3>"
+    ],
+    "./dreambooth/dog3/03.jpg": [
+        "<dog3>"
+    ],
+    "./dreambooth/dog3/04.jpg": [
+        "<dog3>"
+    ],
+    "./dreambooth/dog3/05.jpg": [
+        "<dog3>"
+    ],
+    "./dreambooth/dog5/00.jpg": [
+        "<dog5>"
+    ],
+    "./dreambooth/dog5/01.jpg": [
+        "<dog5>"
+    ],
+    "./dreambooth/dog5/02.jpg": [
+        "<dog5>"
+    ],
+    "./dreambooth/dog5/03.jpg": [
+        "<dog5>"
+    ],
+    "./dreambooth/dog5/04.jpg": [
+        "<dog5>"
+    ],
+    "./dreambooth/dog6/00.jpg": [
+        "<dog6>"
+    ],
+    "./dreambooth/dog6/01.jpg": [
+        "<dog6>"
+    ],
+    "./dreambooth/dog6/02.jpg": [
+        "<dog6>"
+    ],
+    "./dreambooth/dog6/03.jpg": [
+        "<dog6>"
+    ],
+    "./dreambooth/dog6/04.jpg": [
+        "<dog6>"
+    ],
+    "./dreambooth/dog7/00.jpg": [
+        "<dog7>"
+    ],
+    "./dreambooth/dog7/01.jpg": [
+        "<dog7>"
+    ],
+    "./dreambooth/dog7/02.jpg": [
+        "<dog7>"
+    ],
+    "./dreambooth/dog7/03.jpg": [
+        "<dog7>"
+    ],
+    "./dreambooth/dog7/04.jpg": [
+        "<dog7>"
+    ],
+    "./dreambooth/dog8/00.jpg": [
+        "<dog8>"
+    ],
+    "./dreambooth/dog8/01.jpg": [
+        "<dog8>"
+    ],
+    "./dreambooth/dog8/02.jpg": [
+        "<dog8>"
+    ],
+    "./dreambooth/dog8/03.jpg": [
+        "<dog8>"
+    ],
+    "./dreambooth/dog8/04.jpg": [
+        "<dog8>"
+    ],
+    "./dreambooth/duck_toy/00.jpg": [
+        "<duck_toy>"
+    ],
+    "./dreambooth/duck_toy/01.jpg": [
+        "<duck_toy>"
+    ],
+    "./dreambooth/duck_toy/02.jpg": [
+        "<duck_toy>"
+    ],
+    "./dreambooth/duck_toy/03.jpg": [
+        "<duck_toy>"
+    ],
+    "./dreambooth/fancy_boot/00.jpg": [
+        "<fancy_boot>"
+    ],
+    "./dreambooth/fancy_boot/01.jpg": [
+        "<fancy_boot>"
+    ],
+    "./dreambooth/fancy_boot/02.jpg": [
+        "<fancy_boot>"
+    ],
+    "./dreambooth/fancy_boot/03.jpg": [
+        "<fancy_boot>"
+    ],
+    "./dreambooth/fancy_boot/04.jpg": [
+        "<fancy_boot>"
+    ],
+    "./dreambooth/fancy_boot/05.jpg": [
+        "<fancy_boot>"
+    ],
+    "./dreambooth/grey_sloth_plushie/00.jpg": [
+        "<grey_sloth_plushie>"
+    ],
+    "./dreambooth/grey_sloth_plushie/01.jpg": [
+        "<grey_sloth_plushie>"
+    ],
+    "./dreambooth/grey_sloth_plushie/02.jpg": [
+        "<grey_sloth_plushie>"
+    ],
+    "./dreambooth/grey_sloth_plushie/03.jpg": [
+        "<grey_sloth_plushie>"
+    ],
+    "./dreambooth/grey_sloth_plushie/04.jpg": [
+        "<grey_sloth_plushie>"
+    ],
+    "./dreambooth/monster_toy/00.jpg": [
+        "<monster_toy>"
+    ],
+    "./dreambooth/monster_toy/01.jpg": [
+        "<monster_toy>"
+    ],
+    "./dreambooth/monster_toy/02.jpg": [
+        "<monster_toy>"
+    ],
+    "./dreambooth/monster_toy/03.jpg": [
+        "<monster_toy>"
+    ],
+    "./dreambooth/monster_toy/04.jpg": [
+        "<monster_toy>"
+    ],
+    "./dreambooth/pink_sunglasses/00.jpg": [
+        "<pink_sunglasses>"
+    ],
+    "./dreambooth/pink_sunglasses/01.jpg": [
+        "<pink_sunglasses>"
+    ],
+    "./dreambooth/pink_sunglasses/02.jpg": [
+        "<pink_sunglasses>"
+    ],
+    "./dreambooth/pink_sunglasses/03.jpg": [
+        "<pink_sunglasses>"
+    ],
+    "./dreambooth/pink_sunglasses/04.jpg": [
+        "<pink_sunglasses>"
+    ],
+    "./dreambooth/pink_sunglasses/05.jpg": [
+        "<pink_sunglasses>"
+    ],
+    "./dreambooth/poop_emoji/00.jpg": [
+        "<poop_emoji>"
+    ],
+    "./dreambooth/poop_emoji/01.jpg": [
+        "<poop_emoji>"
+    ],
+    "./dreambooth/poop_emoji/02.jpg": [
+        "<poop_emoji>"
+    ],
+    "./dreambooth/poop_emoji/03.jpg": [
+        "<poop_emoji>"
+    ],
+    "./dreambooth/poop_emoji/04.jpg": [
+        "<poop_emoji>"
+    ],
+    "./dreambooth/rc_car/00.jpg": [
+        "<rc_car>"
+    ],
+    "./dreambooth/rc_car/01.jpg": [
+        "<rc_car>"
+    ],
+    "./dreambooth/rc_car/02.jpg": [
+        "<rc_car>"
+    ],
+    "./dreambooth/rc_car/03.jpg": [
+        "<rc_car>"
+    ],
+    "./dreambooth/rc_car/04.jpg": [
+        "<rc_car>"
+    ],
+    "./dreambooth/red_cartoon/00.jpg": [
+        "<red_cartoon>"
+    ],
+    "./dreambooth/red_cartoon/01.jpg": [
+        "<red_cartoon>"
+    ],
+    "./dreambooth/red_cartoon/02.jpg": [
+        "<red_cartoon>"
+    ],
+    "./dreambooth/red_cartoon/03.jpg": [
+        "<red_cartoon>"
+    ],
+    "./dreambooth/robot_toy/00.jpg": [
+        "<robot_toy>"
+    ],
+    "./dreambooth/robot_toy/01.jpg": [
+        "<robot_toy>"
+    ],
+    "./dreambooth/robot_toy/02.jpg": [
+        "<robot_toy>"
+    ],
+    "./dreambooth/robot_toy/03.jpg": [
+        "<robot_toy>"
+    ],
+    "./dreambooth/robot_toy/04.jpg": [
+        "<robot_toy>"
+    ],
+    "./dreambooth/shiny_sneaker/00.jpg": [
+        "<shiny_sneaker>"
+    ],
+    "./dreambooth/shiny_sneaker/01.jpg": [
+        "<shiny_sneaker>"
+    ],
+    "./dreambooth/shiny_sneaker/02.jpg": [
+        "<shiny_sneaker>"
+    ],
+    "./dreambooth/shiny_sneaker/03.jpg": [
+        "<shiny_sneaker>"
+    ],
+    "./dreambooth/shiny_sneaker/04.jpg": [
+        "<shiny_sneaker>"
+    ],
+    "./dreambooth/shiny_sneaker/05.jpg": [
+        "<shiny_sneaker>"
+    ],
+    "./dreambooth/teapot/00.jpg": [
+        "<teapot>"
+    ],
+    "./dreambooth/teapot/01.jpg": [
+        "<teapot>"
+    ],
+    "./dreambooth/teapot/02.jpg": [
+        "<teapot>"
+    ],
+    "./dreambooth/teapot/03.jpg": [
+        "<teapot>"
+    ],
+    "./dreambooth/teapot/04.jpg": [
+        "<teapot>"
+    ],
+    "./dreambooth/vase/00.jpg": [
+        "<vase>"
+    ],
+    "./dreambooth/vase/01.jpg": [
+        "<vase>"
+    ],
+    "./dreambooth/vase/02.jpg": [
+        "<vase>"
+    ],
+    "./dreambooth/vase/03.jpg": [
+        "<vase>"
+    ],
+    "./dreambooth/vase/04.jpg": [
+        "<vase>"
+    ],
+    "./dreambooth/vase/05.jpg": [
+        "<vase>"
+    ],
+    "./dreambooth/wolf_plushie/00.jpg": [
+        "<wolf_plushie>"
+    ],
+    "./dreambooth/wolf_plushie/01.jpg": [
+        "<wolf_plushie>"
+    ],
+    "./dreambooth/wolf_plushie/02.jpg": [
+        "<wolf_plushie>"
+    ],
+    "./dreambooth/wolf_plushie/03.jpg": [
+        "<wolf_plushie>"
+    ],
+    "./dreambooth/wolf_plushie/04.jpg": [
+        "<wolf_plushie>"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "concept_dict": {
+        "<patrick>": {
+            "name": "Patrick",
+            "image": "./__assets__/multi/patrick.jpg",
+            "info": "Patrick is SpongeBob’s best friend, known for his lovable stupidity and carefree attitude. Though not the brightest, he always means well and provides comic relief.",
+            "category": "character"
+        },
+        "<plankton>": {
+            "name": "Plankton",
+            "image": "./__assets__/multi/plankton.jpg",
+            "info": "A tiny villain with a big ego, Plankton constantly schemes to steal the Krabby Patty secret formula. Despite his evil plans, he often ends up failing in hilarious ways.",
+            "category": "character"
+        },
+        "<sandy>": {
+            "name": "Sandy",
+            "image": "./__assets__/multi/sandy.jpg",
+            "info": "Sandy is a smart, strong Texan squirrel who lives underwater in a special dome. She's an expert in science and karate, often acting as the voice of reason.",
+            "category": "character"
+        },
+        "<spongebob>": {
+            "name": "SpongeBob",
+            "image": "./__assets__/multi/spongebob.jpg",
+            "info": "SpongeBob is a cheerful and hardworking sea sponge who lives in a pineapple under the sea. Known for his optimism and energy, he’s a loyal friend and passionate fry cook.",
+            "category": "character"
+        }
+    },
+    "path_to_concept": {
+        "./__assets__/multi/patrick.jpg": "<patrick>",
+        "./__assets__/multi/plankton.jpg": "<plankton>",
+        "./__assets__/multi/sandy.jpg": "<sandy>",
+        "./__assets__/multi/spongebob.jpg": "<spongebob>"
+    }
+}

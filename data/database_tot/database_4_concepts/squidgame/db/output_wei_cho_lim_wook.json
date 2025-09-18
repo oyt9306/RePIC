@@ -1,0 +1,34 @@
+{
+    "concept_dict": {
+        "<wei>": {
+            "name": "Wei",
+            "image": "./__assets__/multi/wei.jpg",
+            "info": "He exudes quiet strength and sophistication, often portraying serious and intense characters. His minimalist style enhances his charismatic presence.",
+            "category": "human"
+        },
+        "<cho>": {
+            "name": "Cho",
+            "image": "./__assets__/multi/cho.jpg",
+            "info": "A rising actress with a bright and cheerful aura, she brings energy to the screen and stage alike. Her youthful confidence and style catch the spotlight with ease.",
+            "category": "human"
+        },
+        "<lim>": {
+            "name": "Lim",
+            "image": "./__assets__/multi/lim.jpg",
+            "info": "With a youthful and sincere look, he brings realism and relatability to his roles. His office-style portrayal highlights everyday charm and depth.",
+            "category": "human"
+        },
+        "<wook>": {
+            "name": "Wook",
+            "image": "./__assets__/multi/wook.jpg",
+            "info": "He gives off a composed and intellectual aura, often seen in professional or office settings. His subtle smile and clean-cut appearance suggest quiet confidence and thoughtfulness.",
+            "category": "human"
+        }
+    },
+    "path_to_concept": {
+        "./__assets__/multi/wei.jpg": "<wei>",
+        "./__assets__/multi/cho.jpg": "<cho>",
+        "./__assets__/multi/lim.jpg": "<lim>",
+        "./__assets__/multi/wook.jpg": "<wook>"
+    }
+}

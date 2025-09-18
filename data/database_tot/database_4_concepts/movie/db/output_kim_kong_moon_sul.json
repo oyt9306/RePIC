@@ -1,0 +1,34 @@
+{
+    "concept_dict": {
+        "<kim>": {
+            "name": "Kim",
+            "image": "./__assets__/multi/kim.jpg",
+            "info": "She is an experienced actress known for her confident stance and sharp elegance. Her poised expressions convey strength and determination in every role.",
+            "category": "human"
+        },
+        "<kong>": {
+            "name": "Kong",
+            "image": "./__assets__/multi/kong.jpg",
+            "info": "A fresh and youthful actress, she radiates natural beauty and subtle charisma. Her expressive eyes suggest both innocence and emotional sensitivity.",
+            "category": "human"
+        },
+        "<moon>": {
+            "name": "Moon",
+            "image": "./__assets__/multi/moon.jpg",
+            "info": "She is a graceful and composed actress with a timeless elegance. Her confident smile and refined presence reflect her experience in diverse roles.",
+            "category": "human"
+        },
+        "<sul>": {
+            "name": "Sul",
+            "image": "./__assets__/multi/sul.jpg",
+            "info": "With his dignified suit and serious expression, he exudes professionalism and authority. Often cast in leadership or villain roles, his strong aura commands attention.",
+            "category": "human"
+        }
+    },
+    "path_to_concept": {
+        "./__assets__/multi/kim.jpg": "<kim>",
+        "./__assets__/multi/kong.jpg": "<kong>",
+        "./__assets__/multi/moon.jpg": "<moon>",
+        "./__assets__/multi/sul.jpg": "<sul>"
+    }
+}

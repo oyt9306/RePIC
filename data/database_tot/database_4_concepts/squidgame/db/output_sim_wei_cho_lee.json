@@ -1,0 +1,34 @@
+{
+    "concept_dict": {
+        "<sim>": {
+            "name": "Sim",
+            "image": "./__assets__/multi/sim.jpg",
+            "info": "She is a veteran actress known for her charismatic presence and deep emotional expression. Her warm smile contrasts with her strong, commanding roles on screen.",
+            "category": "human"
+        },
+        "<wei>": {
+            "name": "Wei",
+            "image": "./__assets__/multi/wei.jpg",
+            "info": "He exudes quiet strength and sophistication, often portraying serious and intense characters. His minimalist style enhances his charismatic presence.",
+            "category": "human"
+        },
+        "<cho>": {
+            "name": "Cho",
+            "image": "./__assets__/multi/cho.jpg",
+            "info": "A rising actress with a bright and cheerful aura, she brings energy to the screen and stage alike. Her youthful confidence and style catch the spotlight with ease.",
+            "category": "human"
+        },
+        "<lee>": {
+            "name": "Lee",
+            "image": "./__assets__/multi/lee.jpg",
+            "info": "A globally recognized actor, he is renowned for his versatile acting and warm smile. His refined appearance blends intensity with approachability.",
+            "category": "human"
+        }
+    },
+    "path_to_concept": {
+        "./__assets__/multi/sim.jpg": "<sim>",
+        "./__assets__/multi/wei.jpg": "<wei>",
+        "./__assets__/multi/cho.jpg": "<cho>",
+        "./__assets__/multi/lee.jpg": "<lee>"
+    }
+}

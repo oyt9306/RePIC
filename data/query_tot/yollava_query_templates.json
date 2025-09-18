@@ -1,0 +1,1001 @@
+{
+    "./data/yollava-data/bo/0.png": [
+        "<bo>"
+    ],
+    "./data/yollava-data/bo/1.png": [
+        "<bo>"
+    ],
+    "./data/yollava-data/bo/2.png": [
+        "<bo>"
+    ],
+    "./data/yollava-data/bo/3.png": [
+        "<bo>"
+    ],
+    "./data/yollava-data/bo/4.png": [
+        "<bo>"
+    ],
+    "./data/yollava-data/bo/5.png": [
+        "<bo>"
+    ],
+    "./data/yollava-data/bo/6.png": [
+        "<bo>"
+    ],
+    "./data/yollava-data/bo/7.png": [
+        "<bo>"
+    ],
+    "./data/yollava-data/bo/8.png": [
+        "<bo>"
+    ],
+    "./data/yollava-data/bo/9.png": [
+        "<bo>"
+    ],
+    "./data/yollava-data/brown-duck/0.png": [
+        "<brown-duck>"
+    ],
+    "./data/yollava-data/brown-duck/1.png": [
+        "<brown-duck>"
+    ],
+    "./data/yollava-data/brown-duck/2.png": [
+        "<brown-duck>"
+    ],
+    "./data/yollava-data/brown-duck/3.png": [
+        "<brown-duck>"
+    ],
+    "./data/yollava-data/brown-duck/4.png": [
+        "<brown-duck>"
+    ],
+    "./data/yollava-data/brown-duck/5.png": [
+        "<brown-duck>"
+    ],
+    "./data/yollava-data/brown-duck/6.png": [
+        "<brown-duck>"
+    ],
+    "./data/yollava-data/brown-duck/7.png": [
+        "<brown-duck>"
+    ],
+    "./data/yollava-data/brown-duck/8.png": [
+        "<brown-duck>"
+    ],
+    "./data/yollava-data/brown-duck/9.png": [
+        "<brown-duck>"
+    ],
+    "./data/yollava-data/butin/0.png": [
+        "<butin>"
+    ],
+    "./data/yollava-data/butin/1.png": [
+        "<butin>"
+    ],
+    "./data/yollava-data/butin/2.png": [
+        "<butin>"
+    ],
+    "./data/yollava-data/butin/3.png": [
+        "<butin>"
+    ],
+    "./data/yollava-data/butin/4.png": [
+        "<butin>"
+    ],
+    "./data/yollava-data/cat-cup/0.png": [
+        "<cat-cup>"
+    ],
+    "./data/yollava-data/cat-cup/1.png": [
+        "<cat-cup>"
+    ],
+    "./data/yollava-data/cat-cup/2.png": [
+        "<cat-cup>"
+    ],
+    "./data/yollava-data/cat-cup/3.png": [
+        "<cat-cup>"
+    ],
+    "./data/yollava-data/cat-cup/4.png": [
+        "<cat-cup>"
+    ],
+    "./data/yollava-data/chua-thien-mu/0.png": [
+        "<chua-thien-mu>"
+    ],
+    "./data/yollava-data/chua-thien-mu/1.png": [
+        "<chua-thien-mu>"
+    ],
+    "./data/yollava-data/chua-thien-mu/2.png": [
+        "<chua-thien-mu>"
+    ],
+    "./data/yollava-data/chua-thien-mu/3.png": [
+        "<chua-thien-mu>"
+    ],
+    "./data/yollava-data/chua-thien-mu/4.png": [
+        "<chua-thien-mu>"
+    ],
+    "./data/yollava-data/ciin/0.png": [
+        "<ciin>"
+    ],
+    "./data/yollava-data/ciin/1.png": [
+        "<ciin>"
+    ],
+    "./data/yollava-data/ciin/2.png": [
+        "<ciin>"
+    ],
+    "./data/yollava-data/ciin/3.png": [
+        "<ciin>"
+    ],
+    "./data/yollava-data/ciin/4.png": [
+        "<ciin>"
+    ],
+    "./data/yollava-data/denisdang/0.png": [
+        "<denisdang>"
+    ],
+    "./data/yollava-data/denisdang/1.png": [
+        "<denisdang>"
+    ],
+    "./data/yollava-data/denisdang/2.png": [
+        "<denisdang>"
+    ],
+    "./data/yollava-data/denisdang/3.png": [
+        "<denisdang>"
+    ],
+    "./data/yollava-data/denisdang/4.png": [
+        "<denisdang>"
+    ],
+    "./data/yollava-data/denisdang/5.png": [
+        "<denisdang>"
+    ],
+    "./data/yollava-data/denisdang/6.png": [
+        "<denisdang>"
+    ],
+    "./data/yollava-data/denisdang/7.png": [
+        "<denisdang>"
+    ],
+    "./data/yollava-data/denisdang/8.png": [
+        "<denisdang>"
+    ],
+    "./data/yollava-data/denisdang/9.png": [
+        "<denisdang>"
+    ],
+    "./data/yollava-data/dragon/0.png": [
+        "<dragon>"
+    ],
+    "./data/yollava-data/dragon/1.png": [
+        "<dragon>"
+    ],
+    "./data/yollava-data/dragon/2.png": [
+        "<dragon>"
+    ],
+    "./data/yollava-data/dragon/3.png": [
+        "<dragon>"
+    ],
+    "./data/yollava-data/dragon/4.png": [
+        "<dragon>"
+    ],
+    "./data/yollava-data/dragon/5.png": [
+        "<dragon>"
+    ],
+    "./data/yollava-data/dragon/6.png": [
+        "<dragon>"
+    ],
+    "./data/yollava-data/dragon/7.png": [
+        "<dragon>"
+    ],
+    "./data/yollava-data/dragon/8.png": [
+        "<dragon>"
+    ],
+    "./data/yollava-data/dragon/9.png": [
+        "<dragon>"
+    ],
+    "./data/yollava-data/duck-banana/0.png": [
+        "<duck-banana>"
+    ],
+    "./data/yollava-data/duck-banana/1.png": [
+        "<duck-banana>"
+    ],
+    "./data/yollava-data/duck-banana/2.png": [
+        "<duck-banana>"
+    ],
+    "./data/yollava-data/duck-banana/3.png": [
+        "<duck-banana>"
+    ],
+    "./data/yollava-data/duck-banana/4.png": [
+        "<duck-banana>"
+    ],
+    "./data/yollava-data/duck-banana/5.png": [
+        "<duck-banana>"
+    ],
+    "./data/yollava-data/duck-banana/6.png": [
+        "<duck-banana>"
+    ],
+    "./data/yollava-data/duck-banana/7.png": [
+        "<duck-banana>"
+    ],
+    "./data/yollava-data/duck-banana/8.png": [
+        "<duck-banana>"
+    ],
+    "./data/yollava-data/duck-banana/9.png": [
+        "<duck-banana>"
+    ],
+    "./data/yollava-data/dug/0.png": [
+        "<dug>"
+    ],
+    "./data/yollava-data/dug/1.png": [
+        "<dug>"
+    ],
+    "./data/yollava-data/dug/2.png": [
+        "<dug>"
+    ],
+    "./data/yollava-data/dug/3.png": [
+        "<dug>"
+    ],
+    "./data/yollava-data/dug/4.png": [
+        "<dug>"
+    ],
+    "./data/yollava-data/elephant/0.png": [
+        "<elephant>"
+    ],
+    "./data/yollava-data/elephant/1.png": [
+        "<elephant>"
+    ],
+    "./data/yollava-data/elephant/2.png": [
+        "<elephant>"
+    ],
+    "./data/yollava-data/elephant/3.png": [
+        "<elephant>"
+    ],
+    "./data/yollava-data/elephant/4.png": [
+        "<elephant>"
+    ],
+    "./data/yollava-data/elephant/5.png": [
+        "<elephant>"
+    ],
+    "./data/yollava-data/elephant/6.png": [
+        "<elephant>"
+    ],
+    "./data/yollava-data/elephant/7.png": [
+        "<elephant>"
+    ],
+    "./data/yollava-data/elephant/8.png": [
+        "<elephant>"
+    ],
+    "./data/yollava-data/elephant/9.png": [
+        "<elephant>"
+    ],
+    "./data/yollava-data/fire/0.png": [
+        "<fire>"
+    ],
+    "./data/yollava-data/fire/1.png": [
+        "<fire>"
+    ],
+    "./data/yollava-data/fire/2.png": [
+        "<fire>"
+    ],
+    "./data/yollava-data/fire/3.png": [
+        "<fire>"
+    ],
+    "./data/yollava-data/fire/4.png": [
+        "<fire>"
+    ],
+    "./data/yollava-data/fire/5.png": [
+        "<fire>"
+    ],
+    "./data/yollava-data/fire/6.png": [
+        "<fire>"
+    ],
+    "./data/yollava-data/fire/7.png": [
+        "<fire>"
+    ],
+    "./data/yollava-data/fire/8.png": [
+        "<fire>"
+    ],
+    "./data/yollava-data/fire/9.png": [
+        "<fire>"
+    ],
+    "./data/yollava-data/henry/0.png": [
+        "<henry>"
+    ],
+    "./data/yollava-data/henry/1.png": [
+        "<henry>"
+    ],
+    "./data/yollava-data/henry/2.png": [
+        "<henry>"
+    ],
+    "./data/yollava-data/henry/3.png": [
+        "<henry>"
+    ],
+    "./data/yollava-data/henry/4.png": [
+        "<henry>"
+    ],
+    "./data/yollava-data/henry/5.png": [
+        "<henry>"
+    ],
+    "./data/yollava-data/khanhvy/0.png": [
+        "<khanhvy>"
+    ],
+    "./data/yollava-data/khanhvy/1.png": [
+        "<khanhvy>"
+    ],
+    "./data/yollava-data/khanhvy/2.png": [
+        "<khanhvy>"
+    ],
+    "./data/yollava-data/khanhvy/3.png": [
+        "<khanhvy>"
+    ],
+    "./data/yollava-data/khanhvy/4.png": [
+        "<khanhvy>"
+    ],
+    "./data/yollava-data/khanhvy/5.png": [
+        "<khanhvy>"
+    ],
+    "./data/yollava-data/khanhvy/6.png": [
+        "<khanhvy>"
+    ],
+    "./data/yollava-data/khanhvy/7.png": [
+        "<khanhvy>"
+    ],
+    "./data/yollava-data/khanhvy/8.png": [
+        "<khanhvy>"
+    ],
+    "./data/yollava-data/khanhvy/9.png": [
+        "<khanhvy>"
+    ],
+    "./data/yollava-data/lamb/0.png": [
+        "<lamb>"
+    ],
+    "./data/yollava-data/lamb/1.png": [
+        "<lamb>"
+    ],
+    "./data/yollava-data/lamb/2.png": [
+        "<lamb>"
+    ],
+    "./data/yollava-data/lamb/3.png": [
+        "<lamb>"
+    ],
+    "./data/yollava-data/lamb/4.png": [
+        "<lamb>"
+    ],
+    "./data/yollava-data/lamb/5.png": [
+        "<lamb>"
+    ],
+    "./data/yollava-data/lamb/6.png": [
+        "<lamb>"
+    ],
+    "./data/yollava-data/lamb/7.png": [
+        "<lamb>"
+    ],
+    "./data/yollava-data/lamb/8.png": [
+        "<lamb>"
+    ],
+    "./data/yollava-data/lamb/9.png": [
+        "<lamb>"
+    ],
+    "./data/yollava-data/mam/0.png": [
+        "<mam>"
+    ],
+    "./data/yollava-data/mam/1.png": [
+        "<mam>"
+    ],
+    "./data/yollava-data/mam/2.png": [
+        "<mam>"
+    ],
+    "./data/yollava-data/mam/3.png": [
+        "<mam>"
+    ],
+    "./data/yollava-data/mam/4.png": [
+        "<mam>"
+    ],
+    "./data/yollava-data/mam/5.png": [
+        "<mam>"
+    ],
+    "./data/yollava-data/mam/6.png": [
+        "<mam>"
+    ],
+    "./data/yollava-data/mam/7.png": [
+        "<mam>"
+    ],
+    "./data/yollava-data/mam/8.png": [
+        "<mam>"
+    ],
+    "./data/yollava-data/mam/9.png": [
+        "<mam>"
+    ],
+    "./data/yollava-data/marie-cat/0.png": [
+        "<marie-cat>"
+    ],
+    "./data/yollava-data/marie-cat/1.png": [
+        "<marie-cat>"
+    ],
+    "./data/yollava-data/marie-cat/2.png": [
+        "<marie-cat>"
+    ],
+    "./data/yollava-data/marie-cat/3.png": [
+        "<marie-cat>"
+    ],
+    "./data/yollava-data/marie-cat/4.png": [
+        "<marie-cat>"
+    ],
+    "./data/yollava-data/marie-cat/5.png": [
+        "<marie-cat>"
+    ],
+    "./data/yollava-data/marie-cat/6.png": [
+        "<marie-cat>"
+    ],
+    "./data/yollava-data/marie-cat/7.png": [
+        "<marie-cat>"
+    ],
+    "./data/yollava-data/marie-cat/8.png": [
+        "<marie-cat>"
+    ],
+    "./data/yollava-data/marie-cat/9.png": [
+        "<marie-cat>"
+    ],
+    "./data/yollava-data/mydieu/0.png": [
+        "<mydieu>"
+    ],
+    "./data/yollava-data/mydieu/1.png": [
+        "<mydieu>"
+    ],
+    "./data/yollava-data/mydieu/2.png": [
+        "<mydieu>"
+    ],
+    "./data/yollava-data/mydieu/3.png": [
+        "<mydieu>"
+    ],
+    "./data/yollava-data/mydieu/4.png": [
+        "<mydieu>"
+    ],
+    "./data/yollava-data/neurips-cup/0.png": [
+        "<neurips-cup>"
+    ],
+    "./data/yollava-data/neurips-cup/1.png": [
+        "<neurips-cup>"
+    ],
+    "./data/yollava-data/neurips-cup/2.png": [
+        "<neurips-cup>"
+    ],
+    "./data/yollava-data/neurips-cup/3.png": [
+        "<neurips-cup>"
+    ],
+    "./data/yollava-data/neurips-cup/4.png": [
+        "<neurips-cup>"
+    ],
+    "./data/yollava-data/neurips-cup/5.png": [
+        "<neurips-cup>"
+    ],
+    "./data/yollava-data/neurips-cup/6.png": [
+        "<neurips-cup>"
+    ],
+    "./data/yollava-data/neurips-cup/7.png": [
+        "<neurips-cup>"
+    ],
+    "./data/yollava-data/neurips-cup/8.png": [
+        "<neurips-cup>"
+    ],
+    "./data/yollava-data/neurips-cup/9.png": [
+        "<neurips-cup>"
+    ],
+    "./data/yollava-data/nha-tho-hanoi/0.png": [
+        "<nha-tho-hanoi>"
+    ],
+    "./data/yollava-data/nha-tho-hanoi/1.png": [
+        "<nha-tho-hanoi>"
+    ],
+    "./data/yollava-data/nha-tho-hanoi/2.png": [
+        "<nha-tho-hanoi>"
+    ],
+    "./data/yollava-data/nha-tho-hanoi/3.png": [
+        "<nha-tho-hanoi>"
+    ],
+    "./data/yollava-data/nha-tho-hanoi/4.png": [
+        "<nha-tho-hanoi>"
+    ],
+    "./data/yollava-data/nha-tho-hanoi/5.png": [
+        "<nha-tho-hanoi>"
+    ],
+    "./data/yollava-data/nha-tho-hcm/0.png": [
+        "<nha-tho-hcm>"
+    ],
+    "./data/yollava-data/nha-tho-hcm/1.png": [
+        "<nha-tho-hcm>"
+    ],
+    "./data/yollava-data/nha-tho-hcm/2.png": [
+        "<nha-tho-hcm>"
+    ],
+    "./data/yollava-data/nha-tho-hcm/3.png": [
+        "<nha-tho-hcm>"
+    ],
+    "./data/yollava-data/nha-tho-hcm/4.png": [
+        "<nha-tho-hcm>"
+    ],
+    "./data/yollava-data/oong/0.png": [
+        "<oong>"
+    ],
+    "./data/yollava-data/oong/1.png": [
+        "<oong>"
+    ],
+    "./data/yollava-data/oong/2.png": [
+        "<oong>"
+    ],
+    "./data/yollava-data/oong/3.png": [
+        "<oong>"
+    ],
+    "./data/yollava-data/oong/4.png": [
+        "<oong>"
+    ],
+    "./data/yollava-data/oong/5.png": [
+        "<oong>"
+    ],
+    "./data/yollava-data/oong/6.png": [
+        "<oong>"
+    ],
+    "./data/yollava-data/oong/7.png": [
+        "<oong>"
+    ],
+    "./data/yollava-data/oong/8.png": [
+        "<oong>"
+    ],
+    "./data/yollava-data/oong/9.png": [
+        "<oong>"
+    ],
+    "./data/yollava-data/phuc-map/0.png": [
+        "<phuc-map>"
+    ],
+    "./data/yollava-data/phuc-map/1.png": [
+        "<phuc-map>"
+    ],
+    "./data/yollava-data/phuc-map/2.png": [
+        "<phuc-map>"
+    ],
+    "./data/yollava-data/phuc-map/3.png": [
+        "<phuc-map>"
+    ],
+    "./data/yollava-data/phuc-map/4.png": [
+        "<phuc-map>"
+    ],
+    "./data/yollava-data/phuc-map/5.png": [
+        "<phuc-map>"
+    ],
+    "./data/yollava-data/phuc-map/6.png": [
+        "<phuc-map>"
+    ],
+    "./data/yollava-data/phuc-map/7.png": [
+        "<phuc-map>"
+    ],
+    "./data/yollava-data/phuc-map/8.png": [
+        "<phuc-map>"
+    ],
+    "./data/yollava-data/phuc-map/9.png": [
+        "<phuc-map>"
+    ],
+    "./data/yollava-data/pig-cup/0.png": [
+        "<pig-cup>"
+    ],
+    "./data/yollava-data/pig-cup/1.png": [
+        "<pig-cup>"
+    ],
+    "./data/yollava-data/pig-cup/2.png": [
+        "<pig-cup>"
+    ],
+    "./data/yollava-data/pig-cup/3.png": [
+        "<pig-cup>"
+    ],
+    "./data/yollava-data/pig-cup/4.png": [
+        "<pig-cup>"
+    ],
+    "./data/yollava-data/pig-cup/5.png": [
+        "<pig-cup>"
+    ],
+    "./data/yollava-data/pig-cup/6.png": [
+        "<pig-cup>"
+    ],
+    "./data/yollava-data/pig-cup/7.png": [
+        "<pig-cup>"
+    ],
+    "./data/yollava-data/pusheen-cup/0.png": [
+        "<pusheen-cup>"
+    ],
+    "./data/yollava-data/pusheen-cup/1.png": [
+        "<pusheen-cup>"
+    ],
+    "./data/yollava-data/pusheen-cup/2.png": [
+        "<pusheen-cup>"
+    ],
+    "./data/yollava-data/pusheen-cup/3.png": [
+        "<pusheen-cup>"
+    ],
+    "./data/yollava-data/pusheen-cup/4.png": [
+        "<pusheen-cup>"
+    ],
+    "./data/yollava-data/pusheen-cup/5.png": [
+        "<pusheen-cup>"
+    ],
+    "./data/yollava-data/pusheen-cup/6.png": [
+        "<pusheen-cup>"
+    ],
+    "./data/yollava-data/shiba-black/0.png": [
+        "<shiba-black>"
+    ],
+    "./data/yollava-data/shiba-black/1.png": [
+        "<shiba-black>"
+    ],
+    "./data/yollava-data/shiba-black/2.png": [
+        "<shiba-black>"
+    ],
+    "./data/yollava-data/shiba-black/3.png": [
+        "<shiba-black>"
+    ],
+    "./data/yollava-data/shiba-black/4.png": [
+        "<shiba-black>"
+    ],
+    "./data/yollava-data/shiba-black/5.png": [
+        "<shiba-black>"
+    ],
+    "./data/yollava-data/shiba-black/6.png": [
+        "<shiba-black>"
+    ],
+    "./data/yollava-data/shiba-black/7.png": [
+        "<shiba-black>"
+    ],
+    "./data/yollava-data/shiba-black/8.png": [
+        "<shiba-black>"
+    ],
+    "./data/yollava-data/shiba-black/9.png": [
+        "<shiba-black>"
+    ],
+    "./data/yollava-data/shiba-gray/0.png": [
+        "<shiba-gray>"
+    ],
+    "./data/yollava-data/shiba-gray/1.png": [
+        "<shiba-gray>"
+    ],
+    "./data/yollava-data/shiba-gray/10.png": [
+        "<shiba-gray>"
+    ],
+    "./data/yollava-data/shiba-gray/2.png": [
+        "<shiba-gray>"
+    ],
+    "./data/yollava-data/shiba-gray/3.png": [
+        "<shiba-gray>"
+    ],
+    "./data/yollava-data/shiba-gray/4.png": [
+        "<shiba-gray>"
+    ],
+    "./data/yollava-data/shiba-gray/5.png": [
+        "<shiba-gray>"
+    ],
+    "./data/yollava-data/shiba-gray/6.png": [
+        "<shiba-gray>"
+    ],
+    "./data/yollava-data/shiba-gray/7.png": [
+        "<shiba-gray>"
+    ],
+    "./data/yollava-data/shiba-gray/8.png": [
+        "<shiba-gray>"
+    ],
+    "./data/yollava-data/shiba-gray/9.png": [
+        "<shiba-gray>"
+    ],
+    "./data/yollava-data/shiba-sleep/0.png": [
+        "<shiba-sleep>"
+    ],
+    "./data/yollava-data/shiba-sleep/1.png": [
+        "<shiba-sleep>"
+    ],
+    "./data/yollava-data/shiba-sleep/2.png": [
+        "<shiba-sleep>"
+    ],
+    "./data/yollava-data/shiba-sleep/3.png": [
+        "<shiba-sleep>"
+    ],
+    "./data/yollava-data/shiba-sleep/4.png": [
+        "<shiba-sleep>"
+    ],
+    "./data/yollava-data/shiba-sleep/5.png": [
+        "<shiba-sleep>"
+    ],
+    "./data/yollava-data/shiba-sleep/6.png": [
+        "<shiba-sleep>"
+    ],
+    "./data/yollava-data/shiba-sleep/7.png": [
+        "<shiba-sleep>"
+    ],
+    "./data/yollava-data/shiba-sleep/8.png": [
+        "<shiba-sleep>"
+    ],
+    "./data/yollava-data/shiba-sleep/9.png": [
+        "<shiba-sleep>"
+    ],
+    "./data/yollava-data/shiba-yellow/0.png": [
+        "<shiba-yellow>"
+    ],
+    "./data/yollava-data/shiba-yellow/1.png": [
+        "<shiba-yellow>"
+    ],
+    "./data/yollava-data/shiba-yellow/2.png": [
+        "<shiba-yellow>"
+    ],
+    "./data/yollava-data/shiba-yellow/3.png": [
+        "<shiba-yellow>"
+    ],
+    "./data/yollava-data/shiba-yellow/4.png": [
+        "<shiba-yellow>"
+    ],
+    "./data/yollava-data/shiba-yellow/5.png": [
+        "<shiba-yellow>"
+    ],
+    "./data/yollava-data/shiba-yellow/6.png": [
+        "<shiba-yellow>"
+    ],
+    "./data/yollava-data/shiba-yellow/7.png": [
+        "<shiba-yellow>"
+    ],
+    "./data/yollava-data/shiba-yellow/8.png": [
+        "<shiba-yellow>"
+    ],
+    "./data/yollava-data/shiba-yellow/9.png": [
+        "<shiba-yellow>"
+    ],
+    "./data/yollava-data/thao/0.png": [
+        "<thao>"
+    ],
+    "./data/yollava-data/thao/1.png": [
+        "<thao>"
+    ],
+    "./data/yollava-data/thao/2.png": [
+        "<thao>"
+    ],
+    "./data/yollava-data/thao/3.png": [
+        "<thao>"
+    ],
+    "./data/yollava-data/thao/4.png": [
+        "<thao>"
+    ],
+    "./data/yollava-data/thao/5.png": [
+        "<thao>"
+    ],
+    "./data/yollava-data/thao/6.png": [
+        "<thao>"
+    ],
+    "./data/yollava-data/thao/7.png": [
+        "<thao>"
+    ],
+    "./data/yollava-data/thao/8.png": [
+        "<thao>"
+    ],
+    "./data/yollava-data/thao/9.png": [
+        "<thao>"
+    ],
+    "./data/yollava-data/thap-but/0.png": [
+        "<thap-but>"
+    ],
+    "./data/yollava-data/thap-but/1.png": [
+        "<thap-but>"
+    ],
+    "./data/yollava-data/thap-but/2.png": [
+        "<thap-but>"
+    ],
+    "./data/yollava-data/thap-but/3.png": [
+        "<thap-but>"
+    ],
+    "./data/yollava-data/thap-but/4.png": [
+        "<thap-but>"
+    ],
+    "./data/yollava-data/thap-cham/0.png": [
+        "<thap-cham>"
+    ],
+    "./data/yollava-data/thap-cham/1.png": [
+        "<thap-cham>"
+    ],
+    "./data/yollava-data/thap-cham/2.png": [
+        "<thap-cham>"
+    ],
+    "./data/yollava-data/thap-cham/3.png": [
+        "<thap-cham>"
+    ],
+    "./data/yollava-data/thap-cham/4.png": [
+        "<thap-cham>"
+    ],
+    "./data/yollava-data/thuytien/0.png": [
+        "<thuytien>"
+    ],
+    "./data/yollava-data/thuytien/1.png": [
+        "<thuytien>"
+    ],
+    "./data/yollava-data/thuytien/2.png": [
+        "<thuytien>"
+    ],
+    "./data/yollava-data/thuytien/3.png": [
+        "<thuytien>"
+    ],
+    "./data/yollava-data/thuytien/4.png": [
+        "<thuytien>"
+    ],
+    "./data/yollava-data/thuytien/5.png": [
+        "<thuytien>"
+    ],
+    "./data/yollava-data/thuytien/6.png": [
+        "<thuytien>"
+    ],
+    "./data/yollava-data/thuytien/7.png": [
+        "<thuytien>"
+    ],
+    "./data/yollava-data/thuytien/8.png": [
+        "<thuytien>"
+    ],
+    "./data/yollava-data/thuytien/9.png": [
+        "<thuytien>"
+    ],
+    "./data/yollava-data/tokyo-keyboard/0.png": [
+        "<tokyo-keyboard>"
+    ],
+    "./data/yollava-data/tokyo-keyboard/1.png": [
+        "<tokyo-keyboard>"
+    ],
+    "./data/yollava-data/tokyo-keyboard/2.png": [
+        "<tokyo-keyboard>"
+    ],
+    "./data/yollava-data/tokyo-keyboard/3.png": [
+        "<tokyo-keyboard>"
+    ],
+    "./data/yollava-data/tokyo-keyboard/4.png": [
+        "<tokyo-keyboard>"
+    ],
+    "./data/yollava-data/toodles-galore/0.png": [
+        "<toodles-galore>"
+    ],
+    "./data/yollava-data/toodles-galore/1.png": [
+        "<toodles-galore>"
+    ],
+    "./data/yollava-data/toodles-galore/2.png": [
+        "<toodles-galore>"
+    ],
+    "./data/yollava-data/toodles-galore/3.png": [
+        "<toodles-galore>"
+    ],
+    "./data/yollava-data/toodles-galore/4.png": [
+        "<toodles-galore>"
+    ],
+    "./data/yollava-data/toodles-galore/5.png": [
+        "<toodles-galore>"
+    ],
+    "./data/yollava-data/toodles-galore/6.png": [
+        "<toodles-galore>"
+    ],
+    "./data/yollava-data/toodles-galore/7.png": [
+        "<toodles-galore>"
+    ],
+    "./data/yollava-data/toodles-galore/8.png": [
+        "<toodles-galore>"
+    ],
+    "./data/yollava-data/toodles-galore/9.png": [
+        "<toodles-galore>"
+    ],
+    "./data/yollava-data/viruss/0.png": [
+        "<viruss>"
+    ],
+    "./data/yollava-data/viruss/1.png": [
+        "<viruss>"
+    ],
+    "./data/yollava-data/viruss/2.png": [
+        "<viruss>"
+    ],
+    "./data/yollava-data/viruss/3.png": [
+        "<viruss>"
+    ],
+    "./data/yollava-data/viruss/4.png": [
+        "<viruss>"
+    ],
+    "./data/yollava-data/viruss/5.png": [
+        "<viruss>"
+    ],
+    "./data/yollava-data/viruss/6.png": [
+        "<viruss>"
+    ],
+    "./data/yollava-data/viruss/7.png": [
+        "<viruss>"
+    ],
+    "./data/yollava-data/viruss/8.png": [
+        "<viruss>"
+    ],
+    "./data/yollava-data/viruss/9.png": [
+        "<viruss>"
+    ],
+    "./data/yollava-data/water/0.png": [
+        "<water>"
+    ],
+    "./data/yollava-data/water/1.png": [
+        "<water>"
+    ],
+    "./data/yollava-data/water/2.png": [
+        "<water>"
+    ],
+    "./data/yollava-data/water/3.png": [
+        "<water>"
+    ],
+    "./data/yollava-data/water/4.png": [
+        "<water>"
+    ],
+    "./data/yollava-data/water/5.png": [
+        "<water>"
+    ],
+    "./data/yollava-data/water/6.png": [
+        "<water>"
+    ],
+    "./data/yollava-data/water/7.png": [
+        "<water>"
+    ],
+    "./data/yollava-data/water/8.png": [
+        "<water>"
+    ],
+    "./data/yollava-data/water/9.png": [
+        "<water>"
+    ],
+    "./data/yollava-data/willinvietnam/0.png": [
+        "<willinvietnam>"
+    ],
+    "./data/yollava-data/willinvietnam/1.png": [
+        "<willinvietnam>"
+    ],
+    "./data/yollava-data/willinvietnam/2.png": [
+        "<willinvietnam>"
+    ],
+    "./data/yollava-data/willinvietnam/3.png": [
+        "<willinvietnam>"
+    ],
+    "./data/yollava-data/willinvietnam/4.png": [
+        "<willinvietnam>"
+    ],
+    "./data/yollava-data/willinvietnam/5.png": [
+        "<willinvietnam>"
+    ],
+    "./data/yollava-data/willinvietnam/6.png": [
+        "<willinvietnam>"
+    ],
+    "./data/yollava-data/willinvietnam/7.png": [
+        "<willinvietnam>"
+    ],
+    "./data/yollava-data/willinvietnam/8.png": [
+        "<willinvietnam>"
+    ],
+    "./data/yollava-data/willinvietnam/9.png": [
+        "<willinvietnam>"
+    ],
+    "./data/yollava-data/yellow-duck/0.png": [
+        "<yellow-duck>"
+    ],
+    "./data/yollava-data/yellow-duck/1.png": [
+        "<yellow-duck>"
+    ],
+    "./data/yollava-data/yellow-duck/2.png": [
+        "<yellow-duck>"
+    ],
+    "./data/yollava-data/yellow-duck/3.png": [
+        "<yellow-duck>"
+    ],
+    "./data/yollava-data/yellow-duck/4.png": [
+        "<yellow-duck>"
+    ],
+    "./data/yollava-data/yellow-duck/5.png": [
+        "<yellow-duck>"
+    ],
+    "./data/yollava-data/yellow-duck/6.png": [
+        "<yellow-duck>"
+    ],
+    "./data/yollava-data/yellow-duck/7.png": [
+        "<yellow-duck>"
+    ],
+    "./data/yollava-data/yellow-duck/8.png": [
+        "<yellow-duck>"
+    ],
+    "./data/yollava-data/yellow-duck/9.png": [
+        "<yellow-duck>"
+    ],
+    "./data/yollava-data/yuheng/0.png": [
+        "<yuheng>"
+    ],
+    "./data/yollava-data/yuheng/1.png": [
+        "<yuheng>"
+    ],
+    "./data/yollava-data/yuheng/2.png": [
+        "<yuheng>"
+    ],
+    "./data/yollava-data/yuheng/3.png": [
+        "<yuheng>"
+    ],
+    "./data/yollava-data/yuheng/4.png": [
+        "<yuheng>"
+    ]
+}

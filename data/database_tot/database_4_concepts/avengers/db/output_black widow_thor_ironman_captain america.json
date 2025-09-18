@@ -1,0 +1,34 @@
+{
+    "concept_dict": {
+        "<black widow>": {
+            "name": "Black Widow",
+            "image": "./__assets__/multi/black widow.jpg",
+            "info": "A former Russian spy and master martial artist, Black Widow uses her intelligence, agility, and espionage skills to support the Avengers. Despite lacking superpowers, she plays a crucial leadership and tactical role in the team.",
+            "category": "human"
+        },
+        "<thor>": {
+            "name": "Thor",
+            "image": "./__assets__/multi/thor.jpg",
+            "info": "Thor is the Norse God of Thunder, wielding the enchanted hammer Mjölnir, which grants him control over lightning and the ability to fly. As the prince of Asgard, he brings cosmic power and divine strength to the Avengers.",
+            "category": "human"
+        },
+        "<ironman>": {
+            "name": "Iron Man",
+            "image": "./__assets__/multi/ironman.jpg",
+            "info": "A billionaire genius and inventor, Tony Stark fights using his high-tech Iron Man suits equipped with advanced weaponry and AI systems. He is one of the founding members and the financial backbone of the Avengers.",
+            "category": "human"
+        },
+        "<captain america>": {
+            "name": "Captain America",
+            "image": "./__assets__/multi/captain america.jpg",
+            "info": "Enhanced to peak human potential by a super-soldier serum, Captain America is a symbol of justice, courage, and leadership. Armed with an indestructible shield, he leads the Avengers with moral clarity and battlefield expertise.",
+            "category": "human"
+        }
+    },
+    "path_to_concept": {
+        "./__assets__/multi/black widow.jpg": "<black widow>",
+        "./__assets__/multi/thor.jpg": "<thor>",
+        "./__assets__/multi/ironman.jpg": "<ironman>",
+        "./__assets__/multi/captain america.jpg": "<captain america>"
+    }
+}

@@ -1,6 +1,6 @@
 [
     [
-        "./query-multi-concept/group photo_avengers.jpg",
+        "./data/query-image-4-concepts/group photo_avengers.jpg",
         [
             "<thor>",
             "<ironman>",
@@ -11,7 +11,7 @@
         "Give a personalized caption of this image."
     ],
     [
-        "./query-multi-concept/group photo_avengers.jpg",
+        "./data/query-image-4-concepts/group photo_avengers.jpg",
         [
             "<thor>",
             "<ironman>",
@@ -22,7 +22,7 @@
         "Give a caption of the image."
     ],
     [
-        "./query-multi-concept/group photo_avengers.jpg",
+        "./data/query-image-4-concepts/group photo_avengers.jpg",
         [
             "<thor>",
             "<ironman>",
@@ -33,7 +33,7 @@
         "Can you provide a personalized caption of this photo?"
     ],
     [
-        "./query-multi-concept/group photo_avengers.jpg",
+        "./data/query-image-4-concepts/group photo_avengers.jpg",
         [
             "<thor>",
             "<ironman>",
@@ -44,7 +44,7 @@
         "Provide a caption of the given image."
     ],
     [
-        "./query-multi-concept/group photo_avengers.jpg",
+        "./data/query-image-4-concepts/group photo_avengers.jpg",
         [
             "<thor>",
             "<ironman>",
@@ -55,7 +55,7 @@
         "Give a personalized caption of this image."
     ],
     [
-        "./query-multi-concept/group photo_avengers.jpg",
+        "./data/query-image-4-concepts/group photo_avengers.jpg",
         [
             "<thor>",
             "<ironman>",
@@ -66,7 +66,7 @@
         "Give a caption of the image."
     ],
     [
-        "./query-multi-concept/group photo_avengers.jpg",
+        "./data/query-image-4-concepts/group photo_avengers.jpg",
         [
             "<thor>",
             "<ironman>",
@@ -77,7 +77,7 @@
         "Can you provide a personalized caption of this photo?"
     ],
     [
-        "./query-multi-concept/group photo_avengers.jpg",
+        "./data/query-image-4-concepts/group photo_avengers.jpg",
         [
             "<thor>",
             "<ironman>",
@@ -88,7 +88,7 @@
         "Provide a caption of the given image."
     ],
     [
-        "./query-multi-concept/group photo_avengers.jpg",
+        "./data/query-image-4-concepts/group photo_avengers.jpg",
         [
             "<thor>",
             "<ironman>",
@@ -99,7 +99,7 @@
         "Give a personalized caption of this image."
     ],
     [
-        "./query-multi-concept/group photo_avengers.jpg",
+        "./data/query-image-4-concepts/group photo_avengers.jpg",
         [
             "<thor>",
             "<ironman>",
@@ -110,7 +110,7 @@
         "Give a caption of the image."
     ],
     [
-        "./query-multi-concept/group photo_avengers.jpg",
+        "./data/query-image-4-concepts/group photo_avengers.jpg",
         [
             "<thor>",
             "<ironman>",
@@ -121,7 +121,7 @@
         "Can you provide a personalized caption of this photo?"
     ],
     [
-        "./query-multi-concept/group photo_avengers.jpg",
+        "./data/query-image-4-concepts/group photo_avengers.jpg",
         [
             "<thor>",
             "<ironman>",
@@ -132,7 +132,7 @@
         "Provide a caption of the given image."
     ],
     [
-        "./query-multi-concept/group photo_avengers.jpg",
+        "./data/query-image-4-concepts/group photo_avengers.jpg",
         [
             "<thor>",
             "<ironman>",
@@ -143,7 +143,7 @@
         "Give a personalized caption of this image."
     ],
     [
-        "./query-multi-concept/group photo_avengers.jpg",
+        "./data/query-image-4-concepts/group photo_avengers.jpg",
         [
             "<thor>",
             "<ironman>",
@@ -154,7 +154,7 @@
         "Give a caption of the image."
     ],
     [
-        "./query-multi-concept/group photo_avengers.jpg",
+        "./data/query-image-4-concepts/group photo_avengers.jpg",
         [
             "<thor>",
             "<ironman>",
@@ -165,7 +165,7 @@
         "Can you provide a personalized caption of this photo?"
     ],
     [
-        "./query-multi-concept/group photo_avengers.jpg",
+        "./data/query-image-4-concepts/group photo_avengers.jpg",
         [
             "<thor>",
             "<black widow>",
@@ -176,7 +176,7 @@
         "Provide a caption of the given image."
     ],
     [
-        "./query-multi-concept/group photo_avengers.jpg",
+        "./data/query-image-4-concepts/group photo_avengers.jpg",
         [
             "<thor>",
             "<black widow>",
@@ -187,7 +187,7 @@
         "Give a personalized caption of this image."
     ],
     [
-        "./query-multi-concept/group photo_avengers.jpg",
+        "./data/query-image-4-concepts/group photo_avengers.jpg",
         [
             "<thor>",
             "<black widow>",
@@ -198,7 +198,7 @@
         "Give a caption of the image."
     ],
     [
-        "./query-multi-concept/group photo_avengers.jpg",
+        "./data/query-image-4-concepts/group photo_avengers.jpg",
         [
             "<thor>",
             "<black widow>",
@@ -209,7 +209,7 @@
         "Can you provide a personalized caption of this photo?"
     ],
     [
-        "./query-multi-concept/group photo_avengers.jpg",
+        "./data/query-image-4-concepts/group photo_avengers.jpg",
         [
             "<thor>",
             "<black widow>",
@@ -220,7 +220,7 @@
         "Provide a caption of the given image."
     ],
     [
-        "./query-multi-concept/group photo_avengers.jpg",
+        "./data/query-image-4-concepts/group photo_avengers.jpg",
         [
             "<thor>",
             "<black widow>",
@@ -231,7 +231,7 @@
         "Give a personalized caption of this image."
     ],
     [
-        "./query-multi-concept/group photo_avengers.jpg",
+        "./data/query-image-4-concepts/group photo_avengers.jpg",
         [
             "<thor>",
             "<black widow>",
@@ -242,7 +242,7 @@
         "Give a caption of the image."
     ],
     [
-        "./query-multi-concept/group photo_avengers.jpg",
+        "./data/query-image-4-concepts/group photo_avengers.jpg",
         [
             "<thor>",
             "<black widow>",
@@ -253,7 +253,7 @@
         "Can you provide a personalized caption of this photo?"
     ],
     [
-        "./query-multi-concept/group photo_avengers.jpg",
+        "./data/query-image-4-concepts/group photo_avengers.jpg",
         [
             "<thor>",
             "<black widow>",
@@ -264,7 +264,7 @@
         "Provide a caption of the given image."
     ],
     [
-        "./query-multi-concept/group photo_avengers.jpg",
+        "./data/query-image-4-concepts/group photo_avengers.jpg",
         [
             "<thor>",
             "<black widow>",
@@ -275,7 +275,7 @@
         "Give a personalized caption of this image."
     ],
     [
-        "./query-multi-concept/group photo_avengers.jpg",
+        "./data/query-image-4-concepts/group photo_avengers.jpg",
         [
             "<thor>",
             "<captain america>",
@@ -286,7 +286,7 @@
         "Give a caption of the image."
     ],
     [
-        "./query-multi-concept/group photo_avengers.jpg",
+        "./data/query-image-4-concepts/group photo_avengers.jpg",
         [
             "<thor>",
             "<captain america>",
@@ -297,7 +297,7 @@
         "Can you provide a personalized caption of this photo?"
     ],
     [
-        "./query-multi-concept/group photo_avengers.jpg",
+        "./data/query-image-4-concepts/group photo_avengers.jpg",
         [
             "<thor>",
             "<captain america>",
@@ -308,7 +308,7 @@
         "Provide a caption of the given image."
     ],
     [
-        "./query-multi-concept/group photo_avengers.jpg",
+        "./data/query-image-4-concepts/group photo_avengers.jpg",
         [
             "<thor>",
             "<captain america>",
@@ -319,7 +319,7 @@
         "Give a personalized caption of this image."
     ],
     [
-        "./query-multi-concept/group photo_avengers.jpg",
+        "./data/query-image-4-concepts/group photo_avengers.jpg",
         [
             "<thor>",
             "<captain america>",
@@ -330,7 +330,7 @@
         "Give a caption of the image."
     ],
     [
-        "./query-multi-concept/group photo_movie.jpg",
+        "./data/query-image-4-concepts/group photo_movie.jpg",
         [
             "<jung>",
             "<hur>",
@@ -341,7 +341,7 @@
         "Can you provide a personalized caption of this photo?"
     ],
     [
-        "./query-multi-concept/group photo_movie.jpg",
+        "./data/query-image-4-concepts/group photo_movie.jpg",
         [
             "<jung>",
             "<hur>",
@@ -352,7 +352,7 @@
         "Provide a caption of the given image."
     ],
     [
-        "./query-multi-concept/group photo_movie.jpg",
+        "./data/query-image-4-concepts/group photo_movie.jpg",
         [
             "<jung>",
             "<hur>",
@@ -363,7 +363,7 @@
         "Give a personalized caption of this image."
     ],
     [
-        "./query-multi-concept/group photo_movie.jpg",
+        "./data/query-image-4-concepts/group photo_movie.jpg",
         [
             "<jung>",
             "<hur>",
@@ -374,7 +374,7 @@
         "Give a caption of the image."
     ],
     [
-        "./query-multi-concept/group photo_movie.jpg",
+        "./data/query-image-4-concepts/group photo_movie.jpg",
         [
             "<jung>",
             "<hur>",
@@ -385,7 +385,7 @@
         "Can you provide a personalized caption of this photo?"
     ],
     [
-        "./query-multi-concept/group photo_movie.jpg",
+        "./data/query-image-4-concepts/group photo_movie.jpg",
         [
             "<jung>",
             "<hur>",
@@ -396,7 +396,7 @@
         "Provide a caption of the given image."
     ],
     [
-        "./query-multi-concept/group photo_movie.jpg",
+        "./data/query-image-4-concepts/group photo_movie.jpg",
         [
             "<jung>",
             "<kim>",
@@ -407,7 +407,7 @@
         "Give a personalized caption of this image."
     ],
     [
-        "./query-multi-concept/group photo_movie.jpg",
+        "./data/query-image-4-concepts/group photo_movie.jpg",
         [
             "<jung>",
             "<kim>",
@@ -418,7 +418,7 @@
         "Give a caption of the image."
     ],
     [
-        "./query-multi-concept/group photo_movie.jpg",
+        "./data/query-image-4-concepts/group photo_movie.jpg",
         [
             "<jung>",
             "<kim>",
@@ -429,7 +429,7 @@
         "Can you provide a personalized caption of this photo?"
     ],
     [
-        "./query-multi-concept/group photo_movie.jpg",
+        "./data/query-image-4-concepts/group photo_movie.jpg",
         [
             "<jung>",
             "<kong>",
@@ -440,7 +440,7 @@
         "Provide a caption of the given image."
     ],
     [
-        "./query-multi-concept/group photo_movie.jpg",
+        "./data/query-image-4-concepts/group photo_movie.jpg",
         [
             "<hur>",
             "<kim>",
@@ -451,7 +451,7 @@
         "Give a personalized caption of this image."
     ],
     [
-        "./query-multi-concept/group photo_movie.jpg",
+        "./data/query-image-4-concepts/group photo_movie.jpg",
         [
             "<hur>",
             "<kim>",
@@ -462,7 +462,7 @@
         "Give a caption of the image."
     ],
     [
-        "./query-multi-concept/group photo_movie.jpg",
+        "./data/query-image-4-concepts/group photo_movie.jpg",
         [
             "<hur>",
             "<kim>",
@@ -473,7 +473,7 @@
         "Can you provide a personalized caption of this photo?"
     ],
     [
-        "./query-multi-concept/group photo_movie.jpg",
+        "./data/query-image-4-concepts/group photo_movie.jpg",
         [
             "<hur>",
             "<kong>",
@@ -484,7 +484,7 @@
         "Provide a caption of the given image."
     ],
     [
-        "./query-multi-concept/group photo_movie.jpg",
+        "./data/query-image-4-concepts/group photo_movie.jpg",
         [
             "<kim>",
             "<kong>",
@@ -495,7 +495,7 @@
         "Give a personalized caption of this image."
     ],
     [
-        "./query-multi-concept/group photo_spongebob.jpg",
+        "./data/query-image-4-concepts/group photo_spongebob.jpg",
         [
             "<mr.krab>",
             "<pearl>",
@@ -506,7 +506,7 @@
         "Give a caption of the image."
     ],
     [
-        "./query-multi-concept/group photo_spongebob.jpg",
+        "./data/query-image-4-concepts/group photo_spongebob.jpg",
         [
             "<mr.krab>",
             "<pearl>",
@@ -517,7 +517,7 @@
         "Can you provide a personalized caption of this photo?"
     ],
     [
-        "./query-multi-concept/group photo_spongebob.jpg",
+        "./data/query-image-4-concepts/group photo_spongebob.jpg",
         [
             "<mr.krab>",
             "<pearl>",
@@ -528,7 +528,7 @@
         "Provide a caption of the given image."
     ],
     [
-        "./query-multi-concept/group photo_spongebob.jpg",
+        "./data/query-image-4-concepts/group photo_spongebob.jpg",
         [
             "<mr.krab>",
             "<pearl>",
@@ -539,7 +539,7 @@
         "Give a personalized caption of this image."
     ],
     [
-        "./query-multi-concept/group photo_spongebob.jpg",
+        "./data/query-image-4-concepts/group photo_spongebob.jpg",
         [
             "<mr.krab>",
             "<pearl>",
@@ -550,7 +550,7 @@
         "Give a caption of the image."
     ],
     [
-        "./query-multi-concept/group photo_spongebob.jpg",
+        "./data/query-image-4-concepts/group photo_spongebob.jpg",
         [
             "<mr.krab>",
             "<pearl>",
@@ -561,7 +561,7 @@
         "Can you provide a personalized caption of this photo?"
     ],
     [
-        "./query-multi-concept/group photo_spongebob.jpg",
+        "./data/query-image-4-concepts/group photo_spongebob.jpg",
         [
             "<mr.krab>",
             "<pearl>",
@@ -572,7 +572,7 @@
         "Provide a caption of the given image."
     ],
     [
-        "./query-multi-concept/group photo_spongebob.jpg",
+        "./data/query-image-4-concepts/group photo_spongebob.jpg",
         [
             "<mr.krab>",
             "<pearl>",
@@ -583,7 +583,7 @@
         "Give a personalized caption of this image."
     ],
     [
-        "./query-multi-concept/group photo_spongebob.jpg",
+        "./data/query-image-4-concepts/group photo_spongebob.jpg",
         [
             "<mr.krab>",
             "<pearl>",
@@ -594,7 +594,7 @@
         "Give a caption of the image."
     ],
     [
-        "./query-multi-concept/group photo_spongebob.jpg",
+        "./data/query-image-4-concepts/group photo_spongebob.jpg",
         [
             "<mr.krab>",
             "<pearl>",
@@ -605,7 +605,7 @@
         "Can you provide a personalized caption of this photo?"
     ],
     [
-        "./query-multi-concept/group photo_spongebob.jpg",
+        "./data/query-image-4-concepts/group photo_spongebob.jpg",
         [
             "<mr.krab>",
             "<pearl>",
@@ -616,7 +616,7 @@
         "Provide a caption of the given image."
     ],
     [
-        "./query-multi-concept/group photo_spongebob.jpg",
+        "./data/query-image-4-concepts/group photo_spongebob.jpg",
         [
             "<mr.krab>",
             "<pearl>",
@@ -627,7 +627,7 @@
         "Give a personalized caption of this image."
     ],
     [
-        "./query-multi-concept/group photo_spongebob.jpg",
+        "./data/query-image-4-concepts/group photo_spongebob.jpg",
         [
             "<mr.krab>",
             "<pearl>",
@@ -638,7 +638,7 @@
         "Give a caption of the image."
     ],
     [
-        "./query-multi-concept/group photo_spongebob.jpg",
+        "./data/query-image-4-concepts/group photo_spongebob.jpg",
         [
             "<mr.krab>",
             "<pearl>",
@@ -649,7 +649,7 @@
         "Can you provide a personalized caption of this photo?"
     ],
     [
-        "./query-multi-concept/group photo_spongebob.jpg",
+        "./data/query-image-4-concepts/group photo_spongebob.jpg",
         [
             "<mr.krab>",
             "<pearl>",
@@ -660,7 +660,7 @@
         "Provide a caption of the given image."
     ],
     [
-        "./query-multi-concept/group photo_spongebob.jpg",
+        "./data/query-image-4-concepts/group photo_spongebob.jpg",
         [
             "<mr.krab>",
             "<pearl>",
@@ -671,7 +671,7 @@
         "Give a personalized caption of this image."
     ],
     [
-        "./query-multi-concept/group photo_spongebob.jpg",
+        "./data/query-image-4-concepts/group photo_spongebob.jpg",
         [
             "<mr.krab>",
             "<pearl>",
@@ -682,7 +682,7 @@
         "Give a caption of the image."
     ],
     [
-        "./query-multi-concept/group photo_spongebob.jpg",
+        "./data/query-image-4-concepts/group photo_spongebob.jpg",
         [
             "<mr.krab>",
             "<pearl>",
@@ -693,7 +693,7 @@
         "Can you provide a personalized caption of this photo?"
     ],
     [
-        "./query-multi-concept/group photo_spongebob.jpg",
+        "./data/query-image-4-concepts/group photo_spongebob.jpg",
         [
             "<mr.krab>",
             "<pearl>",
@@ -704,7 +704,7 @@
         "Provide a caption of the given image."
     ],
     [
-        "./query-multi-concept/group photo_spongebob.jpg",
+        "./data/query-image-4-concepts/group photo_spongebob.jpg",
         [
             "<mr.krab>",
             "<pearl>",
@@ -715,7 +715,7 @@
         "Give a personalized caption of this image."
     ],
     [
-        "./query-multi-concept/group photo_spongebob.jpg",
+        "./data/query-image-4-concepts/group photo_spongebob.jpg",
         [
             "<mr.krab>",
             "<pearl>",
@@ -726,7 +726,7 @@
         "Give a caption of the image."
     ],
     [
-        "./query-multi-concept/group photo_spongebob.jpg",
+        "./data/query-image-4-concepts/group photo_spongebob.jpg",
         [
             "<mr.krab>",
             "<sandy>",
@@ -737,7 +737,7 @@
         "Can you provide a personalized caption of this photo?"
     ],
     [
-        "./query-multi-concept/group photo_spongebob.jpg",
+        "./data/query-image-4-concepts/group photo_spongebob.jpg",
         [
             "<mr.krab>",
             "<sandy>",
@@ -748,7 +748,7 @@
         "Provide a caption of the given image."
     ],
     [
-        "./query-multi-concept/group photo_spongebob.jpg",
+        "./data/query-image-4-concepts/group photo_spongebob.jpg",
         [
             "<mr.krab>",
             "<sandy>",
@@ -759,7 +759,7 @@
         "Give a personalized caption of this image."
     ],
     [
-        "./query-multi-concept/group photo_spongebob.jpg",
+        "./data/query-image-4-concepts/group photo_spongebob.jpg",
         [
             "<mr.krab>",
             "<sandy>",
@@ -770,7 +770,7 @@
         "Give a caption of the image."
     ],
     [
-        "./query-multi-concept/group photo_spongebob.jpg",
+        "./data/query-image-4-concepts/group photo_spongebob.jpg",
         [
             "<mr.krab>",
             "<sandy>",
@@ -781,7 +781,7 @@
         "Can you provide a personalized caption of this photo?"
     ],
     [
-        "./query-multi-concept/group photo_spongebob.jpg",
+        "./data/query-image-4-concepts/group photo_spongebob.jpg",
         [
             "<mr.krab>",
             "<sandy>",
@@ -792,7 +792,7 @@
         "Provide a caption of the given image."
     ],
     [
-        "./query-multi-concept/group photo_spongebob.jpg",
+        "./data/query-image-4-concepts/group photo_spongebob.jpg",
         [
             "<mr.krab>",
             "<sandy>",
@@ -803,7 +803,7 @@
         "Give a personalized caption of this image."
     ],
     [
-        "./query-multi-concept/group photo_spongebob.jpg",
+        "./data/query-image-4-concepts/group photo_spongebob.jpg",
         [
             "<mr.krab>",
             "<sandy>",
@@ -814,7 +814,7 @@
         "Give a caption of the image."
     ],
     [
-        "./query-multi-concept/group photo_spongebob.jpg",
+        "./data/query-image-4-concepts/group photo_spongebob.jpg",
         [
             "<mr.krab>",
             "<sandy>",
@@ -825,7 +825,7 @@
         "Can you provide a personalized caption of this photo?"
     ],
     [
-        "./query-multi-concept/group photo_squidgame.jpg",
+        "./data/query-image-4-concepts/group photo_squidgame.jpg",
         [
             "<cho>",
             "<wei>",
@@ -836,7 +836,7 @@
         "Provide a caption of the given image."
     ],
     [
-        "./query-multi-concept/group photo_squidgame.jpg",
+        "./data/query-image-4-concepts/group photo_squidgame.jpg",
         [
             "<cho>",
             "<wei>",
@@ -847,7 +847,7 @@
         "Give a personalized caption of this image."
     ],
     [
-        "./query-multi-concept/group photo_squidgame.jpg",
+        "./data/query-image-4-concepts/group photo_squidgame.jpg",
         [
             "<cho>",
             "<wei>",
@@ -858,7 +858,7 @@
         "Give a caption of the image."
     ],
     [
-        "./query-multi-concept/group photo_squidgame.jpg",
+        "./data/query-image-4-concepts/group photo_squidgame.jpg",
         [
             "<cho>",
             "<wei>",
@@ -869,7 +869,7 @@
         "Can you provide a personalized caption of this photo?"
     ],
     [
-        "./query-multi-concept/group photo_squidgame.jpg",
+        "./data/query-image-4-concepts/group photo_squidgame.jpg",
         [
             "<cho>",
             "<wei>",
@@ -880,7 +880,7 @@
         "Provide a caption of the given image."
     ],
     [
-        "./query-multi-concept/group photo_squidgame.jpg",
+        "./data/query-image-4-concepts/group photo_squidgame.jpg",
         [
             "<cho>",
             "<wei>",
@@ -891,7 +891,7 @@
         "Give a personalized caption of this image."
     ],
     [
-        "./query-multi-concept/group photo_squidgame.jpg",
+        "./data/query-image-4-concepts/group photo_squidgame.jpg",
         [
             "<cho>",
             "<wei>",
@@ -902,7 +902,7 @@
         "Give a caption of the image."
     ],
     [
-        "./query-multi-concept/group photo_squidgame.jpg",
+        "./data/query-image-4-concepts/group photo_squidgame.jpg",
         [
             "<cho>",
             "<wei>",
@@ -913,7 +913,7 @@
         "Can you provide a personalized caption of this photo?"
     ],
     [
-        "./query-multi-concept/group photo_squidgame.jpg",
+        "./data/query-image-4-concepts/group photo_squidgame.jpg",
         [
             "<cho>",
             "<wei>",
@@ -924,7 +924,7 @@
         "Provide a caption of the given image."
     ],
     [
-        "./query-multi-concept/group photo_squidgame.jpg",
+        "./data/query-image-4-concepts/group photo_squidgame.jpg",
         [
             "<cho>",
             "<wei>",
@@ -935,7 +935,7 @@
         "Give a personalized caption of this image."
     ],
     [
-        "./query-multi-concept/group photo_squidgame.jpg",
+        "./data/query-image-4-concepts/group photo_squidgame.jpg",
         [
             "<cho>",
             "<wei>",
@@ -946,7 +946,7 @@
         "Give a caption of the image."
     ],
     [
-        "./query-multi-concept/group photo_squidgame.jpg",
+        "./data/query-image-4-concepts/group photo_squidgame.jpg",
         [
             "<cho>",
             "<wei>",
@@ -957,7 +957,7 @@
         "Can you provide a personalized caption of this photo?"
     ],
     [
-        "./query-multi-concept/group photo_squidgame.jpg",
+        "./data/query-image-4-concepts/group photo_squidgame.jpg",
         [
             "<cho>",
             "<wei>",
@@ -968,7 +968,7 @@
         "Provide a caption of the given image."
     ],
     [
-        "./query-multi-concept/group photo_squidgame.jpg",
+        "./data/query-image-4-concepts/group photo_squidgame.jpg",
         [
             "<cho>",
             "<wei>",
@@ -979,7 +979,7 @@
         "Give a personalized caption of this image."
     ],
     [
-        "./query-multi-concept/group photo_squidgame.jpg",
+        "./data/query-image-4-concepts/group photo_squidgame.jpg",
         [
             "<cho>",
             "<wei>",
@@ -990,7 +990,7 @@
         "Give a caption of the image."
     ],
     [
-        "./query-multi-concept/group photo_squidgame.jpg",
+        "./data/query-image-4-concepts/group photo_squidgame.jpg",
         [
             "<cho>",
             "<jae>",
@@ -1001,7 +1001,7 @@
         "Can you provide a personalized caption of this photo?"
     ],
     [
-        "./query-multi-concept/group photo_squidgame.jpg",
+        "./data/query-image-4-concepts/group photo_squidgame.jpg",
         [
             "<cho>",
             "<jae>",
@@ -1012,7 +1012,7 @@
         "Provide a caption of the given image."
     ],
     [
-        "./query-multi-concept/group photo_squidgame.jpg",
+        "./data/query-image-4-concepts/group photo_squidgame.jpg",
         [
             "<cho>",
             "<jae>",
@@ -1023,7 +1023,7 @@
         "Give a personalized caption of this image."
     ],
     [
-        "./query-multi-concept/group photo_squidgame.jpg",
+        "./data/query-image-4-concepts/group photo_squidgame.jpg",
         [
             "<cho>",
             "<jae>",
@@ -1034,7 +1034,7 @@
         "Give a caption of the image."
     ],
     [
-        "./query-multi-concept/group photo_squidgame.jpg",
+        "./data/query-image-4-concepts/group photo_squidgame.jpg",
         [
             "<cho>",
             "<jae>",
@@ -1045,7 +1045,7 @@
         "Can you provide a personalized caption of this photo?"
     ],
     [
-        "./query-multi-concept/group photo_squidgame.jpg",
+        "./data/query-image-4-concepts/group photo_squidgame.jpg",
         [
             "<cho>",
             "<jae>",
@@ -1056,7 +1056,7 @@
         "Provide a caption of the given image."
     ],
     [
-        "./query-multi-concept/group photo_squidgame.jpg",
+        "./data/query-image-4-concepts/group photo_squidgame.jpg",
         [
             "<cho>",
             "<jae>",
@@ -1067,7 +1067,7 @@
         "Give a personalized caption of this image."
     ],
     [
-        "./query-multi-concept/group photo_squidgame.jpg",
+        "./data/query-image-4-concepts/group photo_squidgame.jpg",
         [
             "<cho>",
             "<jae>",
@@ -1078,7 +1078,7 @@
         "Give a caption of the image."
     ],
     [
-        "./query-multi-concept/group photo_squidgame.jpg",
+        "./data/query-image-4-concepts/group photo_squidgame.jpg",
         [
             "<cho>",
             "<jae>",
@@ -1089,7 +1089,7 @@
         "Can you provide a personalized caption of this photo?"
     ],
     [
-        "./query-multi-concept/group photo_squidgame.jpg",
+        "./data/query-image-4-concepts/group photo_squidgame.jpg",
         [
             "<cho>",
             "<jae>",
@@ -1100,7 +1100,7 @@
         "Provide a caption of the given image."
     ],
     [
-        "./query-multi-concept/group photo_squidgame.jpg",
+        "./data/query-image-4-concepts/group photo_squidgame.jpg",
         [
             "<cho>",
             "<lee>",
@@ -1111,7 +1111,7 @@
         "Give a personalized caption of this image."
     ],
     [
-        "./query-multi-concept/group photo_squidgame.jpg",
+        "./data/query-image-4-concepts/group photo_squidgame.jpg",
         [
             "<cho>",
             "<lee>",
@@ -1122,7 +1122,7 @@
         "Give a caption of the image."
     ],
     [
-        "./query-multi-concept/group photo_squidgame.jpg",
+        "./data/query-image-4-concepts/group photo_squidgame.jpg",
         [
             "<cho>",
             "<lee>",
@@ -1133,7 +1133,7 @@
         "Can you provide a personalized caption of this photo?"
     ],
     [
-        "./query-multi-concept/group photo_squidgame.jpg",
+        "./data/query-image-4-concepts/group photo_squidgame.jpg",
         [
             "<cho>",
             "<lee>",
@@ -1144,7 +1144,7 @@
         "Provide a caption of the given image."
     ],
     [
-        "./query-multi-concept/group photo_squidgame.jpg",
+        "./data/query-image-4-concepts/group photo_squidgame.jpg",
         [
             "<cho>",
             "<lee>",

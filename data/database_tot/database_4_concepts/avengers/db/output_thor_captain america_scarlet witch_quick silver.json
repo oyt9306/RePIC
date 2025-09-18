@@ -1,0 +1,34 @@
+{
+    "concept_dict": {
+        "<thor>": {
+            "name": "Thor",
+            "image": "./__assets__/multi/thor.jpg",
+            "info": "Thor is the Norse God of Thunder, wielding the enchanted hammer Mjölnir, which grants him control over lightning and the ability to fly. As the prince of Asgard, he brings cosmic power and divine strength to the Avengers.",
+            "category": "human"
+        },
+        "<captain america>": {
+            "name": "Captain America",
+            "image": "./__assets__/multi/captain america.jpg",
+            "info": "Enhanced to peak human potential by a super-soldier serum, Captain America is a symbol of justice, courage, and leadership. Armed with an indestructible shield, he leads the Avengers with moral clarity and battlefield expertise.",
+            "category": "human"
+        },
+        "<scarlet witch>": {
+            "name": "Scarlet Witch",
+            "image": "./__assets__/multi/scarlet witch.jpg",
+            "info": "Gifted with chaos magic and telekinesis, Scarlet Witch can manipulate reality and minds with incredible power. Initially a foe, she becomes one of the most powerful and emotionally complex Avengers.",
+            "category": "human"
+        },
+        "<quick silver>": {
+            "name": "Quicksilver",
+            "image": "./__assets__/multi/quick silver.jpg",
+            "info": "Scarlet Witch’s twin brother, Quicksilver possesses superhuman speed, allowing him to move and react faster than the eye can see. He is impulsive and protective, often acting before thinking to shield those he cares about.",
+            "category": "human"
+        }
+    },
+    "path_to_concept": {
+        "./__assets__/multi/thor.jpg": "<thor>",
+        "./__assets__/multi/captain america.jpg": "<captain america>",
+        "./__assets__/multi/scarlet witch.jpg": "<scarlet witch>",
+        "./__assets__/multi/quick silver.jpg": "<quick silver>"
+    }
+}

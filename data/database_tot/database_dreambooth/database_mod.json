@@ -1,0 +1,216 @@
+{
+    "concept_dict": {
+        "<backpack>": {
+            "name": "backpack",
+            "image": "./data/database_tot/database_dreambooth/backpack.jpg",
+            "info": "<backpack> is a red backpack with multiple colorful patches attached to it.",
+            "category": "backpack"
+        },
+        "<backpack_dog>": {
+            "name": "backpack_dog",
+            "image": "./data/database_tot/database_dreambooth/backpack_dog.jpg",
+            "info": "<backpack_dog> features a large, cartoonish face of a dog on the front. The dog's face is brown with a lighter brown snout and a pink tongue sticking out.",
+            "category": "backpack"
+        },
+        "<bear_plushie>": {
+            "name": "bear_plushie",
+            "image": "./data/database_tot/database_dreambooth/bear_plushie.jpg",
+            "info": "<bear_plushie> is a brown plush teddy bear with a light blue bow on its head.",
+            "category": "plush toy"
+        },
+        "<berry_bowl>": {
+            "name": "berry_bowl",
+            "image": "./data/database_tot/database_dreambooth/berry_bowl.jpg",
+            "info": "<berry_bowl> is a white bowl with a black grid pattern and the words 'Bon Appétit' written in gold cursive on the side.",
+            "category": "cup"
+        },
+        "<can>": {
+            "name": "can",
+            "image": "./data/database_tot/database_dreambooth/can.jpg",
+            "info": "<can> is a beer can with the label 'Transatlantic IPA.' The design features a large whale on the left side, with a surfer riding a wave in the background.",
+            "category": "can"
+        },
+        "<candle>": {
+            "name": "candle",
+            "image": "./data/database_tot/database_dreambooth/candle.jpg",
+            "info": "<candle> jar with a wooden lid.",
+            "category": "candle"
+        },
+        "<cat>": {
+            "name": "cat",
+            "image": "./data/database_tot/database_dreambooth/cat.jpg",
+            "info": "<cat> is an orange tabby cat with white markings on its chest and paws, sitting outdoors in a natural setting.",
+            "category": "cat"
+        },
+        "<cat2>": {
+            "name": "cat2",
+            "image": "./data/database_tot/database_dreambooth/cat2.jpg",
+            "info": " <cat2> shows a gray cat with a sleek, short coat.",
+            "category": "cat"
+        },
+        "<clock>": {
+            "name": "clock",
+            "image": "./data/database_tot/database_dreambooth/clock.jpg",
+            "info": "<clock> is a yellow alarm clock with a classic design.",
+            "category": "clock"
+        },
+        "<colorful_sneaker>": {
+            "name": "colorful_sneaker",
+            "image": "./data/database_tot/database_dreambooth/colorful_sneaker.jpg",
+            "info": " <colorful_sneaker> is a single sneaker with a unique and colorful design.",
+            "category": "sneakers"
+        },
+        "<dog>": {
+            "name": "dog",
+            "image": "./data/database_tot/database_dreambooth/dog.jpg",
+            "info": "<dog> is a happy dog, likely a Pembroke Welsh Corgi, with a fluffy coat that is predominantly white with patches of light brown and orange.",
+            "category": "dog"
+        },
+        "<dog2>": {
+            "name": "dog2",
+            "image": "./data/database_tot/database_dreambooth/dog2.jpg",
+            "info": "<dog2> is a Chow Chow dog. The dog has a thick, fluffy coat that is predominantly a rich, reddish-brown color.",
+            "category": "dog"
+        },
+        "<dog3>": {
+            "name": "dog3",
+            "image": "./data/database_tot/database_dreambooth/dog3.jpg",
+            "info": "<dog3> is small, fluffy white dog with curly fur.",
+            "category": "dog"
+        },
+        "<dog5>": {
+            "name": "dog5",
+            "image": "./data/database_tot/database_dreambooth/dog5.jpg",
+            "info": "<dog5> is specifically a Dachshund, resting on what appears to be a cushion or a soft surface.",
+            "category": "dog"
+        },
+        "<dog6>": {
+            "name": "dog6",
+            "image": "./data/database_tot/database_dreambooth/dog6.jpg",
+            "info": "<dog6> is Corgi puppy sitting on an orange background.",
+            "category": "dog"
+        },
+        "<dog7>": {
+            "name": "dog7",
+            "image": "./data/database_tot/database_dreambooth/dog7.jpg",
+            "info": "<dog7> is a dog with a light brown coat.",
+            "category": "dog"
+        },
+        "<dog8>": {
+            "name": "dog8",
+            "image": "./data/database_tot/database_dreambooth/dog8.jpg",
+            "info": "<dog8> is a dog with a distinctive coat pattern, primarily white with patches of gray and black.",
+            "category": "dog"
+        },
+        "<duck_toy>": {
+            "name": "duck_toy",
+            "image": "./data/database_tot/database_dreambooth/duck_toy.jpg",
+            "info": "<duck_toy> is a yellow rubber duck with an orange beak and eyes.",
+            "category": "toy"
+        },
+        "<fancy_boot>": {
+            "name": "fancy_boot",
+            "image": "./data/database_tot/database_dreambooth/fancy_boot.jpg",
+            "info": "",
+            "category": "leather"
+        },
+        "<grey_sloth_plushie>": {
+            "name": "grey_sloth_plushie",
+            "image": "./data/database_tot/database_dreambooth/grey_sloth_plushie.jpg",
+            "info": "<grey_sloth_plushie> has a light brown body with darker brown patches, and it features a soft, rounded face with large, expressive eyes and a small, cute nose.",
+            "category": "plush toy"
+        },
+        "<monster_toy>": {
+            "name": "monster_toy",
+            "image": "./data/database_tot/database_dreambooth/monster_toy.jpg",
+            "info": "<monster_toy> shows a plush toy that resembles a red frog",
+            "category": "plush toy"
+        },
+        "<pink_sunglasses>": {
+            "name": "pink_sunglasses",
+            "image": "./data/database_tot/database_dreambooth/pink_sunglasses.jpg",
+            "info": "<pink_sunglasses> features a pair of rose-gold framed sunglasses with gradient lenses, placed on a white surface.",
+            "category": "sunglasses"
+        },
+        "<poop_emoji>": {
+            "name": "poop_emoji",
+            "image": "./data/database_tot/database_dreambooth/poop_emoji.jpg",
+            "info": "<poop_emoji> shows a small, clay-like object shaped like a pile of poop.",
+            "category": "plush toy"
+        },
+        "<rc_car>": {
+            "name": "rc_car",
+            "image": "./data/database_tot/database_dreambooth/rc_car.jpg",
+            "info": "<rc_car> shows a toy car with a character sitting inside it.",
+            "category": "car"
+        },
+        "<red_cartoon>": {
+            "name": "red_cartoon",
+            "image": "./data/database_tot/database_dreambooth/red_cartoon.jpg",
+            "info": "<red_cartoon> has a simple, rounded body with no distinct limbs or features other than its head and eyes.",
+            "category": "cartoon"
+        },
+        "<robot_toy>": {
+            "name": "robot_toy",
+            "image": "./data/database_tot/database_dreambooth/robot_toy.jpg",
+            "info": "<robot_toy> has a spherical head with a large, round eye and a small, rectangular mouth area.",
+            "category": "plush toy"
+        },
+        "<shiny_sneaker>": {
+            "name": "shiny_sneaker",
+            "image": "./data/database_tot/database_dreambooth/shiny_sneaker.jpg",
+            "info": "<shiny_sneaker> shows a single sneaker with a unique and eye-catching design. The upper part of the shoe features a gradient pattern that transitions from a light, almost white color at the top to a darker shade towards the bottom.",
+            "category": "sneakers"
+        },
+        "<teapot>": {
+            "name": "teapot",
+            "image": "./data/database_tot/database_dreambooth/teapot.jpg",
+            "info": "<teapot> shows a traditional clay teapot with a dark, earthy finish.",
+            "category": "teapot"
+        },
+        "<vase>": {
+            "name": "vase",
+            "image": "./data/database_tot/database_dreambooth/vase.jpg",
+            "info": "<vase> shows a close-up of a traditional teapot, which appears to be made of dark clay or ceramic material.",
+            "category": "vase"
+        },
+        "<wolf_plushie>": {
+            "name": "wolf_plushie",
+            "image": "./data/database_tot/database_dreambooth/wolf_plushie.jpg",
+            "info": "<wolf_plushie> shows a plush toy of a husky dog. The toy is primarily gray with white accents, including its paws and the tip of its tail.",
+            "category": "plush toy"
+        }
+    },
+    "path_to_concept": {
+        "./data/database_tot/database_dreambooth/backpack.jpg": "<backpack>",
+        "./data/database_tot/database_dreambooth/backpack_dog.jpg": "<backpack_dog>",
+        "./data/database_tot/database_dreambooth/bear_plushie.jpg": "<bear_plushie>",
+        "./data/database_tot/database_dreambooth/berry_bowl.jpg": "<berry_bowl>",
+        "./data/database_tot/database_dreambooth/can.jpg": "<can>",
+        "./data/database_tot/database_dreambooth/candle.jpg": "<candle>",
+        "./data/database_tot/database_dreambooth/cat.jpg": "<cat>",
+        "./data/database_tot/database_dreambooth/cat2.jpg": "<cat2>",
+        "./data/database_tot/database_dreambooth/clock.jpg": "<clock>",
+        "./data/database_tot/database_dreambooth/colorful_sneaker.jpg": "<colorful_sneaker>",
+        "./data/database_tot/database_dreambooth/dog.jpg": "<dog>",
+        "./data/database_tot/database_dreambooth/dog2.jpg": "<dog2>",
+        "./data/database_tot/database_dreambooth/dog3.jpg": "<dog3>",
+        "./data/database_tot/database_dreambooth/dog5.jpg": "<dog5>",
+        "./data/database_tot/database_dreambooth/dog6.jpg": "<dog6>",
+        "./data/database_tot/database_dreambooth/dog7.jpg": "<dog7>",
+        "./data/database_tot/database_dreambooth/dog8.jpg": "<dog8>",
+        "./data/database_tot/database_dreambooth/duck_toy.jpg": "<duck_toy>",
+        "./data/database_tot/database_dreambooth/fancy_boot.jpg": "<fancy_boot>",
+        "./data/database_tot/database_dreambooth/grey_sloth_plushie.jpg": "<grey_sloth_plushie>",
+        "./data/database_tot/database_dreambooth/monster_toy.jpg": "<monster_toy>",
+        "./data/database_tot/database_dreambooth/pink_sunglasses.jpg": "<pink_sunglasses>",
+        "./data/database_tot/database_dreambooth/poop_emoji.jpg": "<poop_emoji>",
+        "./data/database_tot/database_dreambooth/rc_car.jpg": "<rc_car>",
+        "./data/database_tot/database_dreambooth/red_cartoon.jpg": "<red_cartoon>",
+        "./data/database_tot/database_dreambooth/robot_toy.jpg": "<robot_toy>",
+        "./data/database_tot/database_dreambooth/shiny_sneaker.jpg": "<shiny_sneaker>",
+        "./data/database_tot/database_dreambooth/teapot.jpg": "<teapot>",
+        "./data/database_tot/database_dreambooth/vase.jpg": "<vase>",
+        "./data/database_tot/database_dreambooth/wolf_plushie.jpg": "<wolf_plushie>"
+    }
+}

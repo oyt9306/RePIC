@@ -1,0 +1,34 @@
+{
+    "concept_dict": {
+        "<sunghoon>": {
+            "name": "Sunghoon",
+            "image": "./__assets__/multi/sunghoon.jpg",
+            "info": "With a soft yet structured look, he carries a calm elegance suited for both romantic and introspective roles. His poised posture conveys confidence and sensitivity.",
+            "category": "human"
+        },
+        "<cho>": {
+            "name": "Cho",
+            "image": "./__assets__/multi/cho.jpg",
+            "info": "A rising actress with a bright and cheerful aura, she brings energy to the screen and stage alike. Her youthful confidence and style catch the spotlight with ease.",
+            "category": "human"
+        },
+        "<park>": {
+            "name": "Park",
+            "image": "./__assets__/multi/park.jpg",
+            "info": "An elegant actress with a modern and poised style, she brings sophistication to her roles. Her calm gaze and confident stance show her composure and strength.",
+            "category": "human"
+        },
+        "<wook>": {
+            "name": "Wook",
+            "image": "./__assets__/multi/wook.jpg",
+            "info": "He gives off a composed and intellectual aura, often seen in professional or office settings. His subtle smile and clean-cut appearance suggest quiet confidence and thoughtfulness.",
+            "category": "human"
+        }
+    },
+    "path_to_concept": {
+        "./__assets__/multi/sunghoon.jpg": "<sunghoon>",
+        "./__assets__/multi/cho.jpg": "<cho>",
+        "./__assets__/multi/park.jpg": "<park>",
+        "./__assets__/multi/wook.jpg": "<wook>"
+    }
+}

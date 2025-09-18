@@ -1,0 +1,34 @@
+{
+    "concept_dict": {
+        "<suhwan>": {
+            "name": "Suhwan",
+            "image": "./__assets__/multi/suhwan.jpg",
+            "info": "He often brings levity to the screen with his comedic timing and approachable personality. His signature glasses and sincere demeanor make him a memorable presence.",
+            "category": "human"
+        },
+        "<wei>": {
+            "name": "Wei",
+            "image": "./__assets__/multi/wei.jpg",
+            "info": "He exudes quiet strength and sophistication, often portraying serious and intense characters. His minimalist style enhances his charismatic presence.",
+            "category": "human"
+        },
+        "<jae>": {
+            "name": "Jae",
+            "image": "./__assets__/multi/jae.jpg",
+            "info": "Known for his commanding presence and mature charm, he often takes on pivotal, emotionally complex roles. His sharp gaze adds weight to every performance.",
+            "category": "human"
+        },
+        "<wook>": {
+            "name": "Wook",
+            "image": "./__assets__/multi/wook.jpg",
+            "info": "He gives off a composed and intellectual aura, often seen in professional or office settings. His subtle smile and clean-cut appearance suggest quiet confidence and thoughtfulness.",
+            "category": "human"
+        }
+    },
+    "path_to_concept": {
+        "./__assets__/multi/suhwan.jpg": "<suhwan>",
+        "./__assets__/multi/wei.jpg": "<wei>",
+        "./__assets__/multi/jae.jpg": "<jae>",
+        "./__assets__/multi/wook.jpg": "<wook>"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "concept_dict": {
+        "<sim>": {
+            "name": "Sim",
+            "image": "./__assets__/multi/sim.jpg",
+            "info": "She is a veteran actress known for her charismatic presence and deep emotional expression. Her warm smile contrasts with her strong, commanding roles on screen.",
+            "category": "human"
+        },
+        "<lim>": {
+            "name": "Lim",
+            "image": "./__assets__/multi/lim.jpg",
+            "info": "With a youthful and sincere look, he brings realism and relatability to his roles. His office-style portrayal highlights everyday charm and depth.",
+            "category": "human"
+        },
+        "<park>": {
+            "name": "Park",
+            "image": "./__assets__/multi/park.jpg",
+            "info": "An elegant actress with a modern and poised style, she brings sophistication to her roles. Her calm gaze and confident stance show her composure and strength.",
+            "category": "human"
+        },
+        "<wook>": {
+            "name": "Wook",
+            "image": "./__assets__/multi/wook.jpg",
+            "info": "He gives off a composed and intellectual aura, often seen in professional or office settings. His subtle smile and clean-cut appearance suggest quiet confidence and thoughtfulness.",
+            "category": "human"
+        }
+    },
+    "path_to_concept": {
+        "./__assets__/multi/sim.jpg": "<sim>",
+        "./__assets__/multi/lim.jpg": "<lim>",
+        "./__assets__/multi/park.jpg": "<park>",
+        "./__assets__/multi/wook.jpg": "<wook>"
+    }
+}

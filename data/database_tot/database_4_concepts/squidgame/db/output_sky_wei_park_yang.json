@@ -1,0 +1,34 @@
+{
+    "concept_dict": {
+        "<sky>": {
+            "name": "Sky",
+            "image": "./__assets__/multi/sky.jpg",
+            "info": "A charming actor with a youthful vibe, he balances playful charisma with subtle emotional depth. His expressive gestures add charm to every public appearance.",
+            "category": "human"
+        },
+        "<wei>": {
+            "name": "Wei",
+            "image": "./__assets__/multi/wei.jpg",
+            "info": "He exudes quiet strength and sophistication, often portraying serious and intense characters. His minimalist style enhances his charismatic presence.",
+            "category": "human"
+        },
+        "<park>": {
+            "name": "Park",
+            "image": "./__assets__/multi/park.jpg",
+            "info": "An elegant actress with a modern and poised style, she brings sophistication to her roles. Her calm gaze and confident stance show her composure and strength.",
+            "category": "human"
+        },
+        "<yang>": {
+            "name": "Yang",
+            "image": "./__assets__/multi/yang.jpg",
+            "info": "Wearing a Netflix varsity jacket, he blends a casual and creative vibe with unique personality. His round glasses and natural curls enhance his artistic and approachable look.",
+            "category": "human"
+        }
+    },
+    "path_to_concept": {
+        "./__assets__/multi/sky.jpg": "<sky>",
+        "./__assets__/multi/wei.jpg": "<wei>",
+        "./__assets__/multi/park.jpg": "<park>",
+        "./__assets__/multi/yang.jpg": "<yang>"
+    }
+}

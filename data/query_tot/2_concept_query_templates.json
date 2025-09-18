@@ -1,0 +1,330 @@
+{
+    "./data/query-image-2-concepts/Anya_and_Bond/Anya_and_Bond_1.jpg": [
+        "<Anya>",
+        "<Bond>"
+    ],
+    "./data/query-image-2-concepts/Anya_and_Bond/Anya_and_Bond_2.jpg": [
+        "<Anya>",
+        "<Bond>"
+    ],
+    "./data/query-image-2-concepts/Anya_and_Bond/Anya_and_Bond_3.jpg": [
+        "<Anya>",
+        "<Bond>"
+    ],
+    "./data/query-image-2-concepts/Anya_and_Bond/Anya_and_Bond_4.jpg": [
+        "<Anya>",
+        "<Bond>"
+    ],
+    "./data/query-image-2-concepts/Anya_and_Bond/Anya_and_Bond_5.jpg": [
+        "<Anya>",
+        "<Bond>"
+    ],
+    "./data/query-image-2-concepts/Anya_and_Bond/Anya_and_Bond_6.jpg": [
+        "<Anya>",
+        "<Bond>"
+    ],
+    "./data/query-image-2-concepts/Anya_and_Bond/Anya_and_Bond_7.jpg": [
+        "<Anya>",
+        "<Bond>"
+    ],
+    "./data/query-image-2-concepts/Anya_and_Bond/Anya_and_Bond_8.jpg": [
+        "<Anya>",
+        "<Bond>"
+    ],
+    "./data/query-image-2-concepts/Anya_and_Bond/Anya_and_Bond_9.jpg": [
+        "<Anya>",
+        "<Bond>"
+    ],
+    "./data/query-image-2-concepts/Anya_and_Bond/Anya_and_Bond_10.jpg": [
+        "<Anya>",
+        "<Bond>"
+    ],
+    "./data/query-image-2-concepts/Bluey_and_Bingo/Bluey_and_Bingo_1.jpg": [
+        "<Bluey>",
+        "<Bingo>"
+    ],
+    "./data/query-image-2-concepts/Bluey_and_Bingo/Bluey_and_Bingo_2.jpg": [
+        "<Bluey>",
+        "<Bingo>"
+    ],
+    "./data/query-image-2-concepts/Bluey_and_Bingo/Bluey_and_Bingo_3.jpg": [
+        "<Bluey>",
+        "<Bingo>"
+    ],
+    "./data/query-image-2-concepts/Bluey_and_Bingo/Bluey_and_Bingo_4.jpg": [
+        "<Bluey>",
+        "<Bingo>"
+    ],
+    "./data/query-image-2-concepts/Bluey_and_Bingo/Bluey_and_Bingo_5.jpg": [
+        "<Bluey>",
+        "<Bingo>"
+    ],
+    "./data/query-image-2-concepts/Bluey_and_Bingo/Bluey_and_Bingo_6.jpg": [
+        "<Bluey>",
+        "<Bingo>"
+    ],
+    "./data/query-image-2-concepts/Bluey_and_Bingo/Bluey_and_Bingo_7.jpg": [
+        "<Bluey>",
+        "<Bingo>"
+    ],
+    "./data/query-image-2-concepts/Bluey_and_Bingo/Bluey_and_Bingo_8.jpg": [
+        "<Bluey>",
+        "<Bingo>"
+    ],
+    "./data/query-image-2-concepts/Bluey_and_Bingo/Bluey_and_Bingo_9.jpg": [
+        "<Bluey>",
+        "<Bingo>"
+    ],
+    "./data/query-image-2-concepts/Bluey_and_Bingo/Bluey_and_Bingo_10.jpg": [
+        "<Bluey>",
+        "<Bingo>"
+    ],
+    "./data/query-image-2-concepts/Bluey_and_Bingo/Bluey_and_Bingo_11.jpg": [
+        "<Bluey>",
+        "<Bingo>"
+    ],
+    "./data/query-image-2-concepts/Bluey_and_Bingo/Bluey_and_Bingo_12.jpg": [
+        "<Bluey>",
+        "<Bingo>"
+    ],
+    "./data/query-image-2-concepts/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_1.jpg": [
+        "<Bull_dog>",
+        "<Baby_Q>"
+    ],
+    "./data/query-image-2-concepts/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_2.jpg": [
+        "<Bull_dog>",
+        "<Baby_Q>"
+    ],
+    "./data/query-image-2-concepts/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_3.jpg": [
+        "<Bull_dog>",
+        "<Baby_Q>"
+    ],
+    "./data/query-image-2-concepts/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_4.jpg": [
+        "<Bull_dog>",
+        "<Baby_Q>"
+    ],
+    "./data/query-image-2-concepts/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_5.jpg": [
+        "<Bull_dog>",
+        "<Baby_Q>"
+    ],
+    "./data/query-image-2-concepts/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_6.jpg": [
+        "<Bull_dog>",
+        "<Baby_Q>"
+    ],
+    "./data/query-image-2-concepts/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_7.jpg": [
+        "<Bull_dog>",
+        "<Baby_Q>"
+    ],
+    "./data/query-image-2-concepts/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_8.jpg": [
+        "<Bull_dog>",
+        "<Baby_Q>"
+    ],
+    "./data/query-image-2-concepts/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_9.jpg": [
+        "<Bull_dog>",
+        "<Baby_Q>"
+    ],
+    "./data/query-image-2-concepts/Bull_dog_and_Baby_Q/Bull_dog_and_Baby_Q_10.jpg": [
+        "<Bull_dog>",
+        "<Baby_Q>"
+    ],
+    "./data/query-image-2-concepts/C_dog_and_G_cat/C_dog_and_G_cat_1.jpg": [
+        "<C_dog>",
+        "<G_cat>"
+    ],
+    "./data/query-image-2-concepts/C_dog_and_G_cat/C_dog_and_G_cat_2.jpg": [
+        "<C_dog>",
+        "<G_cat>"
+    ],
+    "./data/query-image-2-concepts/C_dog_and_G_cat/C_dog_and_G_cat_3.jpg": [
+        "<C_dog>",
+        "<G_cat>"
+    ],
+    "./data/query-image-2-concepts/C_dog_and_G_cat/C_dog_and_G_cat_4.jpg": [
+        "<C_dog>",
+        "<G_cat>"
+    ],
+    "./data/query-image-2-concepts/C_dog_and_G_cat/C_dog_and_G_cat_5.jpg": [
+        "<C_dog>",
+        "<G_cat>"
+    ],
+    "./data/query-image-2-concepts/C_dog_and_G_cat/C_dog_and_G_cat_6.jpg": [
+        "<C_dog>",
+        "<G_cat>"
+    ],
+    "./data/query-image-2-concepts/C_dog_and_G_cat/C_dog_and_G_cat_7.jpg": [
+        "<C_dog>",
+        "<G_cat>"
+    ],
+    "./data/query-image-2-concepts/C_dog_and_G_cat/C_dog_and_G_cat_8.jpg": [
+        "<C_dog>",
+        "<G_cat>"
+    ],
+    "./data/query-image-2-concepts/C_dog_and_G_cat/C_dog_and_G_cat_9.jpg": [
+        "<C_dog>",
+        "<G_cat>"
+    ],
+    "./data/query-image-2-concepts/C_dog_and_G_cat/C_dog_and_G_cat_10.jpg": [
+        "<C_dog>",
+        "<G_cat>"
+    ],
+    "./data/query-image-2-concepts/C_dog_and_G_cat/C_dog_and_G_cat_11.jpg": [
+        "<C_dog>",
+        "<G_cat>"
+    ],
+    "./data/query-image-2-concepts/C_dog_and_G_cat/C_dog_and_G_cat_12.jpg": [
+        "<C_dog>",
+        "<G_cat>"
+    ],
+    "./data/query-image-2-concepts/C_dog_and_G_cat/C_dog_and_G_cat_13.jpg": [
+        "<C_dog>",
+        "<G_cat>"
+    ],
+    "./data/query-image-2-concepts/Character_A_and_Character_B/Character_A_and_Character_B_1.jpg": [
+        "<Character_A>",
+        "<Character_B>"
+    ],
+    "./data/query-image-2-concepts/Character_A_and_Character_B/Character_A_and_Character_B_2.jpg": [
+        "<Character_A>",
+        "<Character_B>"
+    ],
+    "./data/query-image-2-concepts/Character_A_and_Character_B/Character_A_and_Character_B_3.jpg": [
+        "<Character_A>",
+        "<Character_B>"
+    ],
+    "./data/query-image-2-concepts/Character_A_and_Character_B/Character_A_and_Character_B_4.jpg": [
+        "<Character_A>",
+        "<Character_B>"
+    ],
+    "./data/query-image-2-concepts/Character_A_and_Character_B/Character_A_and_Character_B_5.jpg": [
+        "<Character_A>",
+        "<Character_B>"
+    ],
+    "./data/query-image-2-concepts/Character_A_and_Character_B/Character_A_and_Character_B_6.jpg": [
+        "<Character_A>",
+        "<Character_B>"
+    ],
+    "./data/query-image-2-concepts/Character_A_and_Character_B/Character_A_and_Character_B_7.jpg": [
+        "<Character_A>",
+        "<Character_B>"
+    ],
+    "./data/query-image-2-concepts/Character_A_and_Character_B/Character_A_and_Character_B_8.jpg": [
+        "<Character_A>",
+        "<Character_B>"
+    ],
+    "./data/query-image-2-concepts/Character_A_and_Character_B/Character_A_and_Character_B_9.jpg": [
+        "<Character_A>",
+        "<Character_B>"
+    ],
+    "./data/query-image-2-concepts/Character_A_and_Character_B/Character_A_and_Character_B_10.jpg": [
+        "<Character_A>",
+        "<Character_B>"
+    ],
+    "./data/query-image-2-concepts/H_and_T/H_and_T_1.jpg": [
+        "<H>",
+        "<T>"
+    ],
+    "./data/query-image-2-concepts/H_and_T/H_and_T_2.jpg": [
+        "<H>",
+        "<T>"
+    ],
+    "./data/query-image-2-concepts/H_and_T/H_and_T_3.jpg": [
+        "<H>",
+        "<T>"
+    ],
+    "./data/query-image-2-concepts/H_and_T/H_and_T_4.jpg": [
+        "<H>",
+        "<T>"
+    ],
+    "./data/query-image-2-concepts/H_and_T/H_and_T_5.jpg": [
+        "<H>",
+        "<T>"
+    ],
+    "./data/query-image-2-concepts/H_and_T/H_and_T_6.jpg": [
+        "<H>",
+        "<T>"
+    ],
+    "./data/query-image-2-concepts/H_and_T/H_and_T_7.jpg": [
+        "<H>",
+        "<T>"
+    ],
+    "./data/query-image-2-concepts/H_and_T/H_and_T_8.jpg": [
+        "<H>",
+        "<T>"
+    ],
+    "./data/query-image-2-concepts/H_and_T/H_and_T_9.jpg": [
+        "<H>",
+        "<T>"
+    ],
+    "./data/query-image-2-concepts/H_and_T/H_and_T_10.jpg": [
+        "<H>",
+        "<T>"
+    ],
+    "./data/query-image-2-concepts/J_and_K/J_and_K_1.jpg": [
+        "<J>",
+        "<K>"
+    ],
+    "./data/query-image-2-concepts/J_and_K/J_and_K_2.jpg": [
+        "<J>",
+        "<K>"
+    ],
+    "./data/query-image-2-concepts/J_and_K/J_and_K_3.jpg": [
+        "<J>",
+        "<K>"
+    ],
+    "./data/query-image-2-concepts/J_and_K/J_and_K_4.jpg": [
+        "<J>",
+        "<K>"
+    ],
+    "./data/query-image-2-concepts/J_and_K/J_and_K_5.jpg": [
+        "<J>",
+        "<K>"
+    ],
+    "./data/query-image-2-concepts/J_and_K/J_and_K_6.jpg": [
+        "<J>",
+        "<K>"
+    ],
+    "./data/query-image-2-concepts/J_and_K/J_and_K_7.jpg": [
+        "<J>",
+        "<K>"
+    ],
+    "./data/query-image-2-concepts/J_and_K/J_and_K_8.jpg": [
+        "<J>",
+        "<K>"
+    ],
+    "./data/query-image-2-concepts/Parrot_1_and_Parrot_2/Parrot_1_and_Parrot_2_1.jpg": [
+        "<Parrot_1>",
+        "<Parrot_2>"
+    ],
+    "./data/query-image-2-concepts/Parrot_1_and_Parrot_2/Parrot_1_and_Parrot_2_2.jpg": [
+        "<Parrot_1>",
+        "<Parrot_2>"
+    ],
+    "./data/query-image-2-concepts/Parrot_1_and_Parrot_2/Parrot_1_and_Parrot_2_3.jpg": [
+        "<Parrot_1>",
+        "<Parrot_2>"
+    ],
+    "./data/query-image-2-concepts/Parrot_1_and_Parrot_2/Parrot_1_and_Parrot_2_4.jpg": [
+        "<Parrot_1>",
+        "<Parrot_2>"
+    ],
+    "./data/query-image-2-concepts/Parrot_1_and_Parrot_2/Parrot_1_and_Parrot_2_5.jpg": [
+        "<Parrot_1>",
+        "<Parrot_2>"
+    ],
+    "./data/query-image-2-concepts/Parrot_1_and_Parrot_2/Parrot_1_and_Parrot_2_6.jpg": [
+        "<Parrot_1>",
+        "<Parrot_2>"
+    ],
+    "./data/query-image-2-concepts/Parrot_1_and_Parrot_2/Parrot_1_and_Parrot_2_7.jpg": [
+        "<Parrot_1>",
+        "<Parrot_2>"
+    ],
+    "./data/query-image-2-concepts/Parrot_1_and_Parrot_2/Parrot_1_and_Parrot_2_8.jpg": [
+        "<Parrot_1>",
+        "<Parrot_2>"
+    ],
+    "./data/query-image-2-concepts/Parrot_1_and_Parrot_2/Parrot_1_and_Parrot_2_9.jpg": [
+        "<Parrot_1>",
+        "<Parrot_2>"
+    ]
+}

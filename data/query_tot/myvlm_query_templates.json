@@ -1,0 +1,1022 @@
+{
+    "./data/myvlm_data/asian_doll/asian_doll_1.jpg": [
+        "<asian_doll>"
+    ],
+    "./data/myvlm_data/asian_doll/asian_doll_2.jpg": [
+        "<asian_doll>"
+    ],
+    "./data/myvlm_data/asian_doll/asian_doll_3.jpg": [
+        "<asian_doll>"
+    ],
+    "./data/myvlm_data/asian_doll/asian_doll_4.jpg": [
+        "<asian_doll>"
+    ],
+    "./data/myvlm_data/asian_doll/asian_doll_5.jpg": [
+        "<asian_doll>"
+    ],
+    "./data/myvlm_data/asian_doll/asian_doll_6.jpg": [
+        "<asian_doll>"
+    ],
+    "./data/myvlm_data/asian_doll/asian_doll_7.jpg": [
+        "<asian_doll>"
+    ],
+    "./data/myvlm_data/asian_doll/asian_doll_8.jpg": [
+        "<asian_doll>"
+    ],
+    "./data/myvlm_data/asian_doll/asian_doll_9.jpg": [
+        "<asian_doll>"
+    ],
+    "./data/myvlm_data/asian_doll/asian_doll_10.jpg": [
+        "<asian_doll>"
+    ],
+    "./data/myvlm_data/asian_doll/asian_doll_11.jpg": [
+        "<asian_doll>"
+    ],
+    "./data/myvlm_data/asian_doll/asian_doll_12.jpg": [
+        "<asian_doll>"
+    ],
+    "./data/myvlm_data/asian_doll/asian_doll_13.jpg": [
+        "<asian_doll>"
+    ],
+    "./data/myvlm_data/asian_doll/asian_doll_14.jpg": [
+        "<asian_doll>"
+    ],
+    "./data/myvlm_data/billy_dog/billy_dog_1.jpg": [
+        "<billy_dog>"
+    ],
+    "./data/myvlm_data/billy_dog/billy_dog_2.jpg": [
+        "<billy_dog>"
+    ],
+    "./data/myvlm_data/billy_dog/billy_dog_3.jpg": [
+        "<billy_dog>"
+    ],
+    "./data/myvlm_data/billy_dog/billy_dog_4.jpg": [
+        "<billy_dog>"
+    ],
+    "./data/myvlm_data/billy_dog/billy_dog_5.jpg": [
+        "<billy_dog>"
+    ],
+    "./data/myvlm_data/billy_dog/billy_dog_6.jpg": [
+        "<billy_dog>"
+    ],
+    "./data/myvlm_data/billy_dog/billy_dog_7.jpg": [
+        "<billy_dog>"
+    ],
+    "./data/myvlm_data/billy_dog/billy_dog_8.jpg": [
+        "<billy_dog>"
+    ],
+    "./data/myvlm_data/billy_dog/billy_dog_9.jpg": [
+        "<billy_dog>"
+    ],
+    "./data/myvlm_data/billy_dog/billy_dog_10.jpg": [
+        "<billy_dog>"
+    ],
+    "./data/myvlm_data/billy_dog/billy_dog_11.jpg": [
+        "<billy_dog>"
+    ],
+    "./data/myvlm_data/boy_funko_pop/boy_funko_pop_1.jpg": [
+        "<boy_funko_pop>"
+    ],
+    "./data/myvlm_data/boy_funko_pop/boy_funko_pop_2.jpg": [
+        "<boy_funko_pop>"
+    ],
+    "./data/myvlm_data/boy_funko_pop/boy_funko_pop_3.jpg": [
+        "<boy_funko_pop>"
+    ],
+    "./data/myvlm_data/boy_funko_pop/boy_funko_pop_4.jpg": [
+        "<boy_funko_pop>"
+    ],
+    "./data/myvlm_data/boy_funko_pop/boy_funko_pop_5.jpg": [
+        "<boy_funko_pop>"
+    ],
+    "./data/myvlm_data/boy_funko_pop/boy_funko_pop_6.jpg": [
+        "<boy_funko_pop>"
+    ],
+    "./data/myvlm_data/boy_funko_pop/boy_funko_pop_7.jpg": [
+        "<boy_funko_pop>"
+    ],
+    "./data/myvlm_data/boy_funko_pop/boy_funko_pop_8.jpg": [
+        "<boy_funko_pop>"
+    ],
+    "./data/myvlm_data/boy_funko_pop/boy_funko_pop_9.jpg": [
+        "<boy_funko_pop>"
+    ],
+    "./data/myvlm_data/boy_funko_pop/boy_funko_pop_10.jpg": [
+        "<boy_funko_pop>"
+    ],
+    "./data/myvlm_data/boy_funko_pop/boy_funko_pop_11.jpg": [
+        "<boy_funko_pop>"
+    ],
+    "./data/myvlm_data/boy_funko_pop/boy_funko_pop_12.jpg": [
+        "<boy_funko_pop>"
+    ],
+    "./data/myvlm_data/bull/bull_1.jpg": [
+        "<bull>"
+    ],
+    "./data/myvlm_data/bull/bull_2.jpg": [
+        "<bull>"
+    ],
+    "./data/myvlm_data/bull/bull_3.jpg": [
+        "<bull>"
+    ],
+    "./data/myvlm_data/bull/bull_4.jpg": [
+        "<bull>"
+    ],
+    "./data/myvlm_data/bull/bull_5.jpg": [
+        "<bull>"
+    ],
+    "./data/myvlm_data/bull/bull_6.jpg": [
+        "<bull>"
+    ],
+    "./data/myvlm_data/bull/bull_7.jpg": [
+        "<bull>"
+    ],
+    "./data/myvlm_data/bull/bull_8.jpg": [
+        "<bull>"
+    ],
+    "./data/myvlm_data/bull/bull_9.jpg": [
+        "<bull>"
+    ],
+    "./data/myvlm_data/bull/bull_10.jpg": [
+        "<bull>"
+    ],
+    "./data/myvlm_data/cat_statue/cat_statue_1.jpg": [
+        "<cat_statue>"
+    ],
+    "./data/myvlm_data/cat_statue/cat_statue_2.jpg": [
+        "<cat_statue>"
+    ],
+    "./data/myvlm_data/cat_statue/cat_statue_3.jpg": [
+        "<cat_statue>"
+    ],
+    "./data/myvlm_data/cat_statue/cat_statue_4.jpg": [
+        "<cat_statue>"
+    ],
+    "./data/myvlm_data/cat_statue/cat_statue_5.jpg": [
+        "<cat_statue>"
+    ],
+    "./data/myvlm_data/cat_statue/cat_statue_6.jpg": [
+        "<cat_statue>"
+    ],
+    "./data/myvlm_data/cat_statue/cat_statue_7.jpg": [
+        "<cat_statue>"
+    ],
+    "./data/myvlm_data/cat_statue/cat_statue_8.jpg": [
+        "<cat_statue>"
+    ],
+    "./data/myvlm_data/cat_statue/cat_statue_9.jpg": [
+        "<cat_statue>"
+    ],
+    "./data/myvlm_data/cat_statue/cat_statue_10.jpg": [
+        "<cat_statue>"
+    ],
+    "./data/myvlm_data/cat_statue/cat_statue_11.jpg": [
+        "<cat_statue>"
+    ],
+    "./data/myvlm_data/cat_statue/cat_statue_12.jpg": [
+        "<cat_statue>"
+    ],
+    "./data/myvlm_data/cat_statue/cat_statue_13.jpg": [
+        "<cat_statue>"
+    ],
+    "./data/myvlm_data/cat_statue/cat_statue_14.jpg": [
+        "<cat_statue>"
+    ],
+    "./data/myvlm_data/cat_statue/cat_statue_15.jpg": [
+        "<cat_statue>"
+    ],
+    "./data/myvlm_data/cat_statue/cat_statue_16.jpg": [
+        "<cat_statue>"
+    ],
+    "./data/myvlm_data/cat_statue/cat_statue_17.jpg": [
+        "<cat_statue>"
+    ],
+    "./data/myvlm_data/ceramic_head/ceramic_head_1.jpg": [
+        "<ceramic_head>"
+    ],
+    "./data/myvlm_data/ceramic_head/ceramic_head_2.jpg": [
+        "<ceramic_head>"
+    ],
+    "./data/myvlm_data/ceramic_head/ceramic_head_3.jpg": [
+        "<ceramic_head>"
+    ],
+    "./data/myvlm_data/ceramic_head/ceramic_head_4.jpg": [
+        "<ceramic_head>"
+    ],
+    "./data/myvlm_data/ceramic_head/ceramic_head_5.jpg": [
+        "<ceramic_head>"
+    ],
+    "./data/myvlm_data/ceramic_head/ceramic_head_6.jpg": [
+        "<ceramic_head>"
+    ],
+    "./data/myvlm_data/ceramic_head/ceramic_head_7.jpg": [
+        "<ceramic_head>"
+    ],
+    "./data/myvlm_data/ceramic_head/ceramic_head_8.jpg": [
+        "<ceramic_head>"
+    ],
+    "./data/myvlm_data/ceramic_head/ceramic_head_9.jpg": [
+        "<ceramic_head>"
+    ],
+    "./data/myvlm_data/ceramic_head/ceramic_head_10.jpg": [
+        "<ceramic_head>"
+    ],
+    "./data/myvlm_data/ceramic_head/ceramic_head_11.jpg": [
+        "<ceramic_head>"
+    ],
+    "./data/myvlm_data/ceramic_head/ceramic_head_12.jpg": [
+        "<ceramic_head>"
+    ],
+    "./data/myvlm_data/ceramic_head/ceramic_head_13.jpg": [
+        "<ceramic_head>"
+    ],
+    "./data/myvlm_data/ceramic_head/ceramic_head_14.jpg": [
+        "<ceramic_head>"
+    ],
+    "./data/myvlm_data/ceramic_head/ceramic_head_15.jpg": [
+        "<ceramic_head>"
+    ],
+    "./data/myvlm_data/chicken_bean_bag/chicken_bean_bag_1.jpg": [
+        "<chicken_bean_bag>"
+    ],
+    "./data/myvlm_data/chicken_bean_bag/chicken_bean_bag_2.jpg": [
+        "<chicken_bean_bag>"
+    ],
+    "./data/myvlm_data/chicken_bean_bag/chicken_bean_bag_3.jpg": [
+        "<chicken_bean_bag>"
+    ],
+    "./data/myvlm_data/chicken_bean_bag/chicken_bean_bag_4.jpg": [
+        "<chicken_bean_bag>"
+    ],
+    "./data/myvlm_data/chicken_bean_bag/chicken_bean_bag_5.jpg": [
+        "<chicken_bean_bag>"
+    ],
+    "./data/myvlm_data/chicken_bean_bag/chicken_bean_bag_6.jpg": [
+        "<chicken_bean_bag>"
+    ],
+    "./data/myvlm_data/chicken_bean_bag/chicken_bean_bag_7.jpg": [
+        "<chicken_bean_bag>"
+    ],
+    "./data/myvlm_data/chicken_bean_bag/chicken_bean_bag_8.jpg": [
+        "<chicken_bean_bag>"
+    ],
+    "./data/myvlm_data/chicken_bean_bag/chicken_bean_bag_9.jpg": [
+        "<chicken_bean_bag>"
+    ],
+    "./data/myvlm_data/chicken_bean_bag/chicken_bean_bag_10.jpg": [
+        "<chicken_bean_bag>"
+    ],
+    "./data/myvlm_data/chicken_bean_bag/chicken_bean_bag_11.jpg": [
+        "<chicken_bean_bag>"
+    ],
+    "./data/myvlm_data/chicken_bean_bag/chicken_bean_bag_12.jpg": [
+        "<chicken_bean_bag>"
+    ],
+    "./data/myvlm_data/chicken_bean_bag/chicken_bean_bag_13.jpg": [
+        "<chicken_bean_bag>"
+    ],
+    "./data/myvlm_data/chicken_bean_bag/chicken_bean_bag_14.jpg": [
+        "<chicken_bean_bag>"
+    ],
+    "./data/myvlm_data/chicken_bean_bag/chicken_bean_bag_15.jpg": [
+        "<chicken_bean_bag>"
+    ],
+    "./data/myvlm_data/chicken_bean_bag/chicken_bean_bag_16.jpg": [
+        "<chicken_bean_bag>"
+    ],
+    "./data/myvlm_data/chicken_bean_bag/chicken_bean_bag_17.jpg": [
+        "<chicken_bean_bag>"
+    ],
+    "./data/myvlm_data/colorful_teapot/colorful_teapot_1.jpg": [
+        "<colorful_teapot>"
+    ],
+    "./data/myvlm_data/colorful_teapot/colorful_teapot_2.jpg": [
+        "<colorful_teapot>"
+    ],
+    "./data/myvlm_data/colorful_teapot/colorful_teapot_3.jpg": [
+        "<colorful_teapot>"
+    ],
+    "./data/myvlm_data/colorful_teapot/colorful_teapot_4.jpg": [
+        "<colorful_teapot>"
+    ],
+    "./data/myvlm_data/colorful_teapot/colorful_teapot_5.jpg": [
+        "<colorful_teapot>"
+    ],
+    "./data/myvlm_data/colorful_teapot/colorful_teapot_6.jpg": [
+        "<colorful_teapot>"
+    ],
+    "./data/myvlm_data/colorful_teapot/colorful_teapot_7.jpg": [
+        "<colorful_teapot>"
+    ],
+    "./data/myvlm_data/colorful_teapot/colorful_teapot_8.jpg": [
+        "<colorful_teapot>"
+    ],
+    "./data/myvlm_data/colorful_teapot/colorful_teapot_9.jpg": [
+        "<colorful_teapot>"
+    ],
+    "./data/myvlm_data/colorful_teapot/colorful_teapot_10.jpg": [
+        "<colorful_teapot>"
+    ],
+    "./data/myvlm_data/colorful_teapot/colorful_teapot_11.jpg": [
+        "<colorful_teapot>"
+    ],
+    "./data/myvlm_data/dangling_child/dangling_child_1.jpg": [
+        "<dangling_child>"
+    ],
+    "./data/myvlm_data/dangling_child/dangling_child_2.jpg": [
+        "<dangling_child>"
+    ],
+    "./data/myvlm_data/dangling_child/dangling_child_3.jpg": [
+        "<dangling_child>"
+    ],
+    "./data/myvlm_data/dangling_child/dangling_child_4.jpg": [
+        "<dangling_child>"
+    ],
+    "./data/myvlm_data/dangling_child/dangling_child_5.jpg": [
+        "<dangling_child>"
+    ],
+    "./data/myvlm_data/dangling_child/dangling_child_6.jpg": [
+        "<dangling_child>"
+    ],
+    "./data/myvlm_data/dangling_child/dangling_child_7.jpg": [
+        "<dangling_child>"
+    ],
+    "./data/myvlm_data/dangling_child/dangling_child_8.jpg": [
+        "<dangling_child>"
+    ],
+    "./data/myvlm_data/dangling_child/dangling_child_9.jpg": [
+        "<dangling_child>"
+    ],
+    "./data/myvlm_data/dangling_child/dangling_child_10.jpg": [
+        "<dangling_child>"
+    ],
+    "./data/myvlm_data/dangling_child/dangling_child_11.jpg": [
+        "<dangling_child>"
+    ],
+    "./data/myvlm_data/elephant_sphere/elephant_sphere_1.jpg": [
+        "<elephant_sphere>"
+    ],
+    "./data/myvlm_data/elephant_sphere/elephant_sphere_2.jpg": [
+        "<elephant_sphere>"
+    ],
+    "./data/myvlm_data/elephant_sphere/elephant_sphere_3.jpg": [
+        "<elephant_sphere>"
+    ],
+    "./data/myvlm_data/elephant_sphere/elephant_sphere_4.jpg": [
+        "<elephant_sphere>"
+    ],
+    "./data/myvlm_data/elephant_sphere/elephant_sphere_5.jpg": [
+        "<elephant_sphere>"
+    ],
+    "./data/myvlm_data/elephant_sphere/elephant_sphere_6.jpg": [
+        "<elephant_sphere>"
+    ],
+    "./data/myvlm_data/elephant_sphere/elephant_sphere_7.jpg": [
+        "<elephant_sphere>"
+    ],
+    "./data/myvlm_data/elephant_statue/elephant_statue_1.jpg": [
+        "<elephant_statue>"
+    ],
+    "./data/myvlm_data/elephant_statue/elephant_statue_2.jpg": [
+        "<elephant_statue>"
+    ],
+    "./data/myvlm_data/elephant_statue/elephant_statue_3.jpg": [
+        "<elephant_statue>"
+    ],
+    "./data/myvlm_data/elephant_statue/elephant_statue_4.jpg": [
+        "<elephant_statue>"
+    ],
+    "./data/myvlm_data/elephant_statue/elephant_statue_5.jpg": [
+        "<elephant_statue>"
+    ],
+    "./data/myvlm_data/elephant_statue/elephant_statue_6.jpg": [
+        "<elephant_statue>"
+    ],
+    "./data/myvlm_data/elephant_statue/elephant_statue_7.jpg": [
+        "<elephant_statue>"
+    ],
+    "./data/myvlm_data/elephant_statue/elephant_statue_8.jpg": [
+        "<elephant_statue>"
+    ],
+    "./data/myvlm_data/elephant_statue/elephant_statue_9.jpg": [
+        "<elephant_statue>"
+    ],
+    "./data/myvlm_data/elephant_statue/elephant_statue_10.jpg": [
+        "<elephant_statue>"
+    ],
+    "./data/myvlm_data/elephant_statue/elephant_statue_11.jpg": [
+        "<elephant_statue>"
+    ],
+    "./data/myvlm_data/elephant_statue/elephant_statue_12.jpg": [
+        "<elephant_statue>"
+    ],
+    "./data/myvlm_data/elephant_statue/elephant_statue_13.jpg": [
+        "<elephant_statue>"
+    ],
+    "./data/myvlm_data/elephant_statue/elephant_statue_14.jpg": [
+        "<elephant_statue>"
+    ],
+    "./data/myvlm_data/elephant_statue/elephant_statue_15.jpg": [
+        "<elephant_statue>"
+    ],
+    "./data/myvlm_data/espresso_cup/espresso_cup_1.jpg": [
+        "<espresso_cup>"
+    ],
+    "./data/myvlm_data/espresso_cup/espresso_cup_2.jpg": [
+        "<espresso_cup>"
+    ],
+    "./data/myvlm_data/espresso_cup/espresso_cup_3.jpg": [
+        "<espresso_cup>"
+    ],
+    "./data/myvlm_data/espresso_cup/espresso_cup_4.jpg": [
+        "<espresso_cup>"
+    ],
+    "./data/myvlm_data/espresso_cup/espresso_cup_5.jpg": [
+        "<espresso_cup>"
+    ],
+    "./data/myvlm_data/espresso_cup/espresso_cup_6.jpg": [
+        "<espresso_cup>"
+    ],
+    "./data/myvlm_data/espresso_cup/espresso_cup_7.jpg": [
+        "<espresso_cup>"
+    ],
+    "./data/myvlm_data/espresso_cup/espresso_cup_8.jpg": [
+        "<espresso_cup>"
+    ],
+    "./data/myvlm_data/espresso_cup/espresso_cup_9.jpg": [
+        "<espresso_cup>"
+    ],
+    "./data/myvlm_data/espresso_cup/espresso_cup_10.jpg": [
+        "<espresso_cup>"
+    ],
+    "./data/myvlm_data/gengar_toy/gengar_toy_1.jpg": [
+        "<gengar_toy>"
+    ],
+    "./data/myvlm_data/gengar_toy/gengar_toy_2.jpg": [
+        "<gengar_toy>"
+    ],
+    "./data/myvlm_data/gengar_toy/gengar_toy_3.jpg": [
+        "<gengar_toy>"
+    ],
+    "./data/myvlm_data/gengar_toy/gengar_toy_4.jpg": [
+        "<gengar_toy>"
+    ],
+    "./data/myvlm_data/gengar_toy/gengar_toy_5.jpg": [
+        "<gengar_toy>"
+    ],
+    "./data/myvlm_data/gengar_toy/gengar_toy_6.jpg": [
+        "<gengar_toy>"
+    ],
+    "./data/myvlm_data/gengar_toy/gengar_toy_7.jpg": [
+        "<gengar_toy>"
+    ],
+    "./data/myvlm_data/gengar_toy/gengar_toy_8.jpg": [
+        "<gengar_toy>"
+    ],
+    "./data/myvlm_data/gengar_toy/gengar_toy_9.jpg": [
+        "<gengar_toy>"
+    ],
+    "./data/myvlm_data/gengar_toy/gengar_toy_10.jpg": [
+        "<gengar_toy>"
+    ],
+    "./data/myvlm_data/gold_pineapple/gold_pineapple_1.jpg": [
+        "<gold_pineapple>"
+    ],
+    "./data/myvlm_data/gold_pineapple/gold_pineapple_2.jpg": [
+        "<gold_pineapple>"
+    ],
+    "./data/myvlm_data/gold_pineapple/gold_pineapple_3.jpg": [
+        "<gold_pineapple>"
+    ],
+    "./data/myvlm_data/gold_pineapple/gold_pineapple_4.jpg": [
+        "<gold_pineapple>"
+    ],
+    "./data/myvlm_data/gold_pineapple/gold_pineapple_5.jpg": [
+        "<gold_pineapple>"
+    ],
+    "./data/myvlm_data/gold_pineapple/gold_pineapple_6.jpg": [
+        "<gold_pineapple>"
+    ],
+    "./data/myvlm_data/gold_pineapple/gold_pineapple_7.jpg": [
+        "<gold_pineapple>"
+    ],
+    "./data/myvlm_data/gold_pineapple/gold_pineapple_8.jpg": [
+        "<gold_pineapple>"
+    ],
+    "./data/myvlm_data/gold_pineapple/gold_pineapple_9.jpg": [
+        "<gold_pineapple>"
+    ],
+    "./data/myvlm_data/gold_pineapple/gold_pineapple_10.jpg": [
+        "<gold_pineapple>"
+    ],
+    "./data/myvlm_data/gold_pineapple/gold_pineapple_11.jpg": [
+        "<gold_pineapple>"
+    ],
+    "./data/myvlm_data/gold_pineapple/gold_pineapple_12.jpg": [
+        "<gold_pineapple>"
+    ],
+    "./data/myvlm_data/gold_pineapple/gold_pineapple_13.jpg": [
+        "<gold_pineapple>"
+    ],
+    "./data/myvlm_data/gold_pineapple/gold_pineapple_14.jpg": [
+        "<gold_pineapple>"
+    ],
+    "./data/myvlm_data/green_doll/green_doll_1.jpg": [
+        "<green_doll>"
+    ],
+    "./data/myvlm_data/green_doll/green_doll_2.jpg": [
+        "<green_doll>"
+    ],
+    "./data/myvlm_data/green_doll/green_doll_3.jpg": [
+        "<green_doll>"
+    ],
+    "./data/myvlm_data/green_doll/green_doll_4.jpg": [
+        "<green_doll>"
+    ],
+    "./data/myvlm_data/green_doll/green_doll_5.jpg": [
+        "<green_doll>"
+    ],
+    "./data/myvlm_data/green_doll/green_doll_6.jpg": [
+        "<green_doll>"
+    ],
+    "./data/myvlm_data/green_doll/green_doll_7.jpg": [
+        "<green_doll>"
+    ],
+    "./data/myvlm_data/green_doll/green_doll_8.jpg": [
+        "<green_doll>"
+    ],
+    "./data/myvlm_data/green_doll/green_doll_9.jpg": [
+        "<green_doll>"
+    ],
+    "./data/myvlm_data/green_doll/green_doll_10.jpg": [
+        "<green_doll>"
+    ],
+    "./data/myvlm_data/green_doll/green_doll_11.jpg": [
+        "<green_doll>"
+    ],
+    "./data/myvlm_data/green_doll/green_doll_12.jpg": [
+        "<green_doll>"
+    ],
+    "./data/myvlm_data/iverson_funko_pop/iverson_funko_pop_1.jpg": [
+        "<iverson_funko_pop>"
+    ],
+    "./data/myvlm_data/iverson_funko_pop/iverson_funko_pop_2.jpg": [
+        "<iverson_funko_pop>"
+    ],
+    "./data/myvlm_data/iverson_funko_pop/iverson_funko_pop_3.jpg": [
+        "<iverson_funko_pop>"
+    ],
+    "./data/myvlm_data/iverson_funko_pop/iverson_funko_pop_4.jpg": [
+        "<iverson_funko_pop>"
+    ],
+    "./data/myvlm_data/iverson_funko_pop/iverson_funko_pop_5.jpg": [
+        "<iverson_funko_pop>"
+    ],
+    "./data/myvlm_data/iverson_funko_pop/iverson_funko_pop_6.jpg": [
+        "<iverson_funko_pop>"
+    ],
+    "./data/myvlm_data/iverson_funko_pop/iverson_funko_pop_7.jpg": [
+        "<iverson_funko_pop>"
+    ],
+    "./data/myvlm_data/iverson_funko_pop/iverson_funko_pop_8.jpg": [
+        "<iverson_funko_pop>"
+    ],
+    "./data/myvlm_data/iverson_funko_pop/iverson_funko_pop_9.jpg": [
+        "<iverson_funko_pop>"
+    ],
+    "./data/myvlm_data/iverson_funko_pop/iverson_funko_pop_10.jpg": [
+        "<iverson_funko_pop>"
+    ],
+    "./data/myvlm_data/maeve_dog/maeve_dog_1.jpg": [
+        "<maeve_dog>"
+    ],
+    "./data/myvlm_data/maeve_dog/maeve_dog_2.jpg": [
+        "<maeve_dog>"
+    ],
+    "./data/myvlm_data/maeve_dog/maeve_dog_3.jpg": [
+        "<maeve_dog>"
+    ],
+    "./data/myvlm_data/maeve_dog/maeve_dog_4.jpg": [
+        "<maeve_dog>"
+    ],
+    "./data/myvlm_data/maeve_dog/maeve_dog_5.jpg": [
+        "<maeve_dog>"
+    ],
+    "./data/myvlm_data/maeve_dog/maeve_dog_6.jpg": [
+        "<maeve_dog>"
+    ],
+    "./data/myvlm_data/maeve_dog/maeve_dog_7.jpg": [
+        "<maeve_dog>"
+    ],
+    "./data/myvlm_data/maeve_dog/maeve_dog_9.jpg": [
+        "<maeve_dog>"
+    ],
+    "./data/myvlm_data/maeve_dog/maeve_dog_11.jpg": [
+        "<maeve_dog>"
+    ],
+    "./data/myvlm_data/maeve_dog/maeve_dog_12.jpg": [
+        "<maeve_dog>"
+    ],
+    "./data/myvlm_data/maeve_dog/maeve_dog_13.jpg": [
+        "<maeve_dog>"
+    ],
+    "./data/myvlm_data/maeve_dog/maeve_dog_14.jpg": [
+        "<maeve_dog>"
+    ],
+    "./data/myvlm_data/minion_toy/minion_toy_1.jpg": [
+        "<minion_toy>"
+    ],
+    "./data/myvlm_data/minion_toy/minion_toy_2.jpg": [
+        "<minion_toy>"
+    ],
+    "./data/myvlm_data/minion_toy/minion_toy_3.jpg": [
+        "<minion_toy>"
+    ],
+    "./data/myvlm_data/minion_toy/minion_toy_4.jpg": [
+        "<minion_toy>"
+    ],
+    "./data/myvlm_data/minion_toy/minion_toy_5.jpg": [
+        "<minion_toy>"
+    ],
+    "./data/myvlm_data/minion_toy/minion_toy_6.jpg": [
+        "<minion_toy>"
+    ],
+    "./data/myvlm_data/minion_toy/minion_toy_7.jpg": [
+        "<minion_toy>"
+    ],
+    "./data/myvlm_data/minion_toy/minion_toy_8.jpg": [
+        "<minion_toy>"
+    ],
+    "./data/myvlm_data/minion_toy/minion_toy_9.jpg": [
+        "<minion_toy>"
+    ],
+    "./data/myvlm_data/minion_toy/minion_toy_10.jpg": [
+        "<minion_toy>"
+    ],
+    "./data/myvlm_data/minion_toy/minion_toy_11.jpg": [
+        "<minion_toy>"
+    ],
+    "./data/myvlm_data/my_cat/my_cat_3.jpg": [
+        "<my_cat>"
+    ],
+    "./data/myvlm_data/my_cat/my_cat_4.jpg": [
+        "<my_cat>"
+    ],
+    "./data/myvlm_data/my_cat/my_cat_6.jpg": [
+        "<my_cat>"
+    ],
+    "./data/myvlm_data/my_cat/my_cat_7.jpg": [
+        "<my_cat>"
+    ],
+    "./data/myvlm_data/my_cat/my_cat_8.jpg": [
+        "<my_cat>"
+    ],
+    "./data/myvlm_data/rabbit_toy/rabbit_toy_1.jpg": [
+        "<rabbit_toy>"
+    ],
+    "./data/myvlm_data/rabbit_toy/rabbit_toy_2.jpg": [
+        "<rabbit_toy>"
+    ],
+    "./data/myvlm_data/rabbit_toy/rabbit_toy_3.jpg": [
+        "<rabbit_toy>"
+    ],
+    "./data/myvlm_data/rabbit_toy/rabbit_toy_4.jpg": [
+        "<rabbit_toy>"
+    ],
+    "./data/myvlm_data/rabbit_toy/rabbit_toy_5.jpg": [
+        "<rabbit_toy>"
+    ],
+    "./data/myvlm_data/rabbit_toy/rabbit_toy_6.jpg": [
+        "<rabbit_toy>"
+    ],
+    "./data/myvlm_data/rabbit_toy/rabbit_toy_7.jpg": [
+        "<rabbit_toy>"
+    ],
+    "./data/myvlm_data/rabbit_toy/rabbit_toy_8.jpg": [
+        "<rabbit_toy>"
+    ],
+    "./data/myvlm_data/rabbit_toy/rabbit_toy_9.jpg": [
+        "<rabbit_toy>"
+    ],
+    "./data/myvlm_data/rabbit_toy/rabbit_toy_10.jpg": [
+        "<rabbit_toy>"
+    ],
+    "./data/myvlm_data/red_chicken/red_chicken_1.jpg": [
+        "<red_chicken>"
+    ],
+    "./data/myvlm_data/red_chicken/red_chicken_2.jpg": [
+        "<red_chicken>"
+    ],
+    "./data/myvlm_data/red_chicken/red_chicken_3.jpg": [
+        "<red_chicken>"
+    ],
+    "./data/myvlm_data/red_chicken/red_chicken_4.jpg": [
+        "<red_chicken>"
+    ],
+    "./data/myvlm_data/red_chicken/red_chicken_5.jpg": [
+        "<red_chicken>"
+    ],
+    "./data/myvlm_data/red_chicken/red_chicken_6.jpg": [
+        "<red_chicken>"
+    ],
+    "./data/myvlm_data/red_chicken/red_chicken_7.jpg": [
+        "<red_chicken>"
+    ],
+    "./data/myvlm_data/red_chicken/red_chicken_8.jpg": [
+        "<red_chicken>"
+    ],
+    "./data/myvlm_data/red_chicken/red_chicken_9.jpg": [
+        "<red_chicken>"
+    ],
+    "./data/myvlm_data/red_chicken/red_chicken_10.jpg": [
+        "<red_chicken>"
+    ],
+    "./data/myvlm_data/red_chicken/red_chicken_11.jpg": [
+        "<red_chicken>"
+    ],
+    "./data/myvlm_data/red_piggy_bank/red_piggy_bank_1.jpg": [
+        "<red_piggy_bank>"
+    ],
+    "./data/myvlm_data/red_piggy_bank/red_piggy_bank_2.jpg": [
+        "<red_piggy_bank>"
+    ],
+    "./data/myvlm_data/red_piggy_bank/red_piggy_bank_3.jpg": [
+        "<red_piggy_bank>"
+    ],
+    "./data/myvlm_data/red_piggy_bank/red_piggy_bank_4.jpg": [
+        "<red_piggy_bank>"
+    ],
+    "./data/myvlm_data/red_piggy_bank/red_piggy_bank_5.jpg": [
+        "<red_piggy_bank>"
+    ],
+    "./data/myvlm_data/red_piggy_bank/red_piggy_bank_6.jpg": [
+        "<red_piggy_bank>"
+    ],
+    "./data/myvlm_data/red_piggy_bank/red_piggy_bank_7.jpg": [
+        "<red_piggy_bank>"
+    ],
+    "./data/myvlm_data/red_piggy_bank/red_piggy_bank_8.jpg": [
+        "<red_piggy_bank>"
+    ],
+    "./data/myvlm_data/red_piggy_bank/red_piggy_bank_9.jpg": [
+        "<red_piggy_bank>"
+    ],
+    "./data/myvlm_data/red_piggy_bank/red_piggy_bank_10.jpg": [
+        "<red_piggy_bank>"
+    ],
+    "./data/myvlm_data/red_piggy_bank/red_piggy_bank_11.jpg": [
+        "<red_piggy_bank>"
+    ],
+    "./data/myvlm_data/red_piggy_bank/red_piggy_bank_12.jpg": [
+        "<red_piggy_bank>"
+    ],
+    "./data/myvlm_data/red_piggy_bank/red_piggy_bank_13.jpg": [
+        "<red_piggy_bank>"
+    ],
+    "./data/myvlm_data/robot_toy/robot_toy_1.jpg": [
+        "<robot_toy>"
+    ],
+    "./data/myvlm_data/robot_toy/robot_toy_2.jpg": [
+        "<robot_toy>"
+    ],
+    "./data/myvlm_data/robot_toy/robot_toy_3.jpg": [
+        "<robot_toy>"
+    ],
+    "./data/myvlm_data/robot_toy/robot_toy_4.jpg": [
+        "<robot_toy>"
+    ],
+    "./data/myvlm_data/robot_toy/robot_toy_5.jpg": [
+        "<robot_toy>"
+    ],
+    "./data/myvlm_data/robot_toy/robot_toy_6.jpg": [
+        "<robot_toy>"
+    ],
+    "./data/myvlm_data/robot_toy/robot_toy_7.jpg": [
+        "<robot_toy>"
+    ],
+    "./data/myvlm_data/robot_toy/robot_toy_8.jpg": [
+        "<robot_toy>"
+    ],
+    "./data/myvlm_data/robot_toy/robot_toy_9.jpg": [
+        "<robot_toy>"
+    ],
+    "./data/myvlm_data/robot_toy/robot_toy_10.jpg": [
+        "<robot_toy>"
+    ],
+    "./data/myvlm_data/robot_toy/robot_toy_11.jpg": [
+        "<robot_toy>"
+    ],
+    "./data/myvlm_data/running_shoes/running_shoes_1.jpg": [
+        "<running_shoes>"
+    ],
+    "./data/myvlm_data/running_shoes/running_shoes_2.jpg": [
+        "<running_shoes>"
+    ],
+    "./data/myvlm_data/running_shoes/running_shoes_3.jpg": [
+        "<running_shoes>"
+    ],
+    "./data/myvlm_data/running_shoes/running_shoes_4.jpg": [
+        "<running_shoes>"
+    ],
+    "./data/myvlm_data/running_shoes/running_shoes_5.jpg": [
+        "<running_shoes>"
+    ],
+    "./data/myvlm_data/running_shoes/running_shoes_6.jpg": [
+        "<running_shoes>"
+    ],
+    "./data/myvlm_data/running_shoes/running_shoes_7.jpg": [
+        "<running_shoes>"
+    ],
+    "./data/myvlm_data/running_shoes/running_shoes_8.jpg": [
+        "<running_shoes>"
+    ],
+    "./data/myvlm_data/running_shoes/running_shoes_9.jpg": [
+        "<running_shoes>"
+    ],
+    "./data/myvlm_data/running_shoes/running_shoes_10.jpg": [
+        "<running_shoes>"
+    ],
+    "./data/myvlm_data/running_shoes/running_shoes_11.jpg": [
+        "<running_shoes>"
+    ],
+    "./data/myvlm_data/running_shoes/running_shoes_12.jpg": [
+        "<running_shoes>"
+    ],
+    "./data/myvlm_data/running_shoes/running_shoes_13.jpg": [
+        "<running_shoes>"
+    ],
+    "./data/myvlm_data/running_shoes/running_shoes_14.jpg": [
+        "<running_shoes>"
+    ],
+    "./data/myvlm_data/sheep_pillow/sheep_pillow_1.jpg": [
+        "<sheep_pillow>"
+    ],
+    "./data/myvlm_data/sheep_pillow/sheep_pillow_2.jpg": [
+        "<sheep_pillow>"
+    ],
+    "./data/myvlm_data/sheep_pillow/sheep_pillow_3.jpg": [
+        "<sheep_pillow>"
+    ],
+    "./data/myvlm_data/sheep_pillow/sheep_pillow_4.jpg": [
+        "<sheep_pillow>"
+    ],
+    "./data/myvlm_data/sheep_pillow/sheep_pillow_5.jpg": [
+        "<sheep_pillow>"
+    ],
+    "./data/myvlm_data/sheep_pillow/sheep_pillow_6.jpg": [
+        "<sheep_pillow>"
+    ],
+    "./data/myvlm_data/sheep_pillow/sheep_pillow_7.jpg": [
+        "<sheep_pillow>"
+    ],
+    "./data/myvlm_data/sheep_pillow/sheep_pillow_8.jpg": [
+        "<sheep_pillow>"
+    ],
+    "./data/myvlm_data/sheep_pillow/sheep_pillow_9.jpg": [
+        "<sheep_pillow>"
+    ],
+    "./data/myvlm_data/sheep_pillow/sheep_pillow_10.jpg": [
+        "<sheep_pillow>"
+    ],
+    "./data/myvlm_data/sheep_plush/sheep_plush_1.jpg": [
+        "<sheep_plush>"
+    ],
+    "./data/myvlm_data/sheep_plush/sheep_plush_2.jpg": [
+        "<sheep_plush>"
+    ],
+    "./data/myvlm_data/sheep_plush/sheep_plush_3.jpg": [
+        "<sheep_plush>"
+    ],
+    "./data/myvlm_data/sheep_plush/sheep_plush_4.jpg": [
+        "<sheep_plush>"
+    ],
+    "./data/myvlm_data/sheep_plush/sheep_plush_5.jpg": [
+        "<sheep_plush>"
+    ],
+    "./data/myvlm_data/sheep_plush/sheep_plush_6.jpg": [
+        "<sheep_plush>"
+    ],
+    "./data/myvlm_data/sheep_plush/sheep_plush_7.jpg": [
+        "<sheep_plush>"
+    ],
+    "./data/myvlm_data/sheep_plush/sheep_plush_8.jpg": [
+        "<sheep_plush>"
+    ],
+    "./data/myvlm_data/sheep_plush/sheep_plush_9.jpg": [
+        "<sheep_plush>"
+    ],
+    "./data/myvlm_data/sheep_toy/sheep_toy_1.jpg": [
+        "<sheep_toy>"
+    ],
+    "./data/myvlm_data/sheep_toy/sheep_toy_2.jpg": [
+        "<sheep_toy>"
+    ],
+    "./data/myvlm_data/sheep_toy/sheep_toy_3.jpg": [
+        "<sheep_toy>"
+    ],
+    "./data/myvlm_data/sheep_toy/sheep_toy_4.jpg": [
+        "<sheep_toy>"
+    ],
+    "./data/myvlm_data/sheep_toy/sheep_toy_5.jpg": [
+        "<sheep_toy>"
+    ],
+    "./data/myvlm_data/sheep_toy/sheep_toy_6.jpg": [
+        "<sheep_toy>"
+    ],
+    "./data/myvlm_data/sheep_toy/sheep_toy_7.jpg": [
+        "<sheep_toy>"
+    ],
+    "./data/myvlm_data/sheep_toy/sheep_toy_8.jpg": [
+        "<sheep_toy>"
+    ],
+    "./data/myvlm_data/sheep_toy/sheep_toy_9.jpg": [
+        "<sheep_toy>"
+    ],
+    "./data/myvlm_data/sheep_toy/sheep_toy_10.jpg": [
+        "<sheep_toy>"
+    ],
+    "./data/myvlm_data/skulls_mug/skulls_mug_1.jpg": [
+        "<skulls_mug>"
+    ],
+    "./data/myvlm_data/skulls_mug/skulls_mug_2.jpg": [
+        "<skulls_mug>"
+    ],
+    "./data/myvlm_data/skulls_mug/skulls_mug_3.jpg": [
+        "<skulls_mug>"
+    ],
+    "./data/myvlm_data/skulls_mug/skulls_mug_4.jpg": [
+        "<skulls_mug>"
+    ],
+    "./data/myvlm_data/skulls_mug/skulls_mug_5.jpg": [
+        "<skulls_mug>"
+    ],
+    "./data/myvlm_data/skulls_mug/skulls_mug_6.jpg": [
+        "<skulls_mug>"
+    ],
+    "./data/myvlm_data/skulls_mug/skulls_mug_7.jpg": [
+        "<skulls_mug>"
+    ],
+    "./data/myvlm_data/skulls_mug/skulls_mug_8.jpg": [
+        "<skulls_mug>"
+    ],
+    "./data/myvlm_data/skulls_mug/skulls_mug_9.jpg": [
+        "<skulls_mug>"
+    ],
+    "./data/myvlm_data/skulls_mug/skulls_mug_10.jpg": [
+        "<skulls_mug>"
+    ],
+    "./data/myvlm_data/skulls_mug/skulls_mug_11.jpg": [
+        "<skulls_mug>"
+    ],
+    "./data/myvlm_data/skulls_mug/skulls_mug_12.jpg": [
+        "<skulls_mug>"
+    ],
+    "./data/myvlm_data/skulls_mug/skulls_mug_13.jpg": [
+        "<skulls_mug>"
+    ],
+    "./data/myvlm_data/skulls_mug/skulls_mug_14.jpg": [
+        "<skulls_mug>"
+    ],
+    "./data/myvlm_data/small_penguin/small_penguin_1.jpg": [
+        "<small_penguin>"
+    ],
+    "./data/myvlm_data/small_penguin/small_penguin_2.jpg": [
+        "<small_penguin>"
+    ],
+    "./data/myvlm_data/small_penguin/small_penguin_3.jpg": [
+        "<small_penguin>"
+    ],
+    "./data/myvlm_data/small_penguin/small_penguin_4.jpg": [
+        "<small_penguin>"
+    ],
+    "./data/myvlm_data/small_penguin/small_penguin_5.jpg": [
+        "<small_penguin>"
+    ],
+    "./data/myvlm_data/small_penguin/small_penguin_6.jpg": [
+        "<small_penguin>"
+    ],
+    "./data/myvlm_data/small_penguin/small_penguin_7.jpg": [
+        "<small_penguin>"
+    ],
+    "./data/myvlm_data/small_penguin/small_penguin_8.jpg": [
+        "<small_penguin>"
+    ],
+    "./data/myvlm_data/small_penguin/small_penguin_9.jpg": [
+        "<small_penguin>"
+    ],
+    "./data/myvlm_data/small_penguin/small_penguin_10.jpg": [
+        "<small_penguin>"
+    ],
+    "./data/myvlm_data/small_penguin/small_penguin_11.jpg": [
+        "<small_penguin>"
+    ],
+    "./data/myvlm_data/small_penguin/small_penguin_12.jpg": [
+        "<small_penguin>"
+    ],
+    "./data/myvlm_data/small_penguin/small_penguin_13.jpg": [
+        "<small_penguin>"
+    ],
+    "./data/myvlm_data/small_penguin/small_penguin_14.jpg": [
+        "<small_penguin>"
+    ]
+}

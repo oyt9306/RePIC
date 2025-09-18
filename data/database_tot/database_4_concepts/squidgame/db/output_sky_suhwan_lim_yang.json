@@ -1,0 +1,34 @@
+{
+    "concept_dict": {
+        "<sky>": {
+            "name": "Sky",
+            "image": "./__assets__/multi/sky.jpg",
+            "info": "A charming actor with a youthful vibe, he balances playful charisma with subtle emotional depth. His expressive gestures add charm to every public appearance.",
+            "category": "human"
+        },
+        "<suhwan>": {
+            "name": "Suhwan",
+            "image": "./__assets__/multi/suhwan.jpg",
+            "info": "He often brings levity to the screen with his comedic timing and approachable personality. His signature glasses and sincere demeanor make him a memorable presence.",
+            "category": "human"
+        },
+        "<lim>": {
+            "name": "Lim",
+            "image": "./__assets__/multi/lim.jpg",
+            "info": "With a youthful and sincere look, he brings realism and relatability to his roles. His office-style portrayal highlights everyday charm and depth.",
+            "category": "human"
+        },
+        "<yang>": {
+            "name": "Yang",
+            "image": "./__assets__/multi/yang.jpg",
+            "info": "Wearing a Netflix varsity jacket, he blends a casual and creative vibe with unique personality. His round glasses and natural curls enhance his artistic and approachable look.",
+            "category": "human"
+        }
+    },
+    "path_to_concept": {
+        "./__assets__/multi/sky.jpg": "<sky>",
+        "./__assets__/multi/suhwan.jpg": "<suhwan>",
+        "./__assets__/multi/lim.jpg": "<lim>",
+        "./__assets__/multi/yang.jpg": "<yang>"
+    }
+}

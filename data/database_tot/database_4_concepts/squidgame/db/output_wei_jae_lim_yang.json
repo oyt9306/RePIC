@@ -1,0 +1,34 @@
+{
+    "concept_dict": {
+        "<wei>": {
+            "name": "Wei",
+            "image": "./__assets__/multi/wei.jpg",
+            "info": "He exudes quiet strength and sophistication, often portraying serious and intense characters. His minimalist style enhances his charismatic presence.",
+            "category": "human"
+        },
+        "<jae>": {
+            "name": "Jae",
+            "image": "./__assets__/multi/jae.jpg",
+            "info": "Known for his commanding presence and mature charm, he often takes on pivotal, emotionally complex roles. His sharp gaze adds weight to every performance.",
+            "category": "human"
+        },
+        "<lim>": {
+            "name": "Lim",
+            "image": "./__assets__/multi/lim.jpg",
+            "info": "With a youthful and sincere look, he brings realism and relatability to his roles. His office-style portrayal highlights everyday charm and depth.",
+            "category": "human"
+        },
+        "<yang>": {
+            "name": "Yang",
+            "image": "./__assets__/multi/yang.jpg",
+            "info": "Wearing a Netflix varsity jacket, he blends a casual and creative vibe with unique personality. His round glasses and natural curls enhance his artistic and approachable look.",
+            "category": "human"
+        }
+    },
+    "path_to_concept": {
+        "./__assets__/multi/wei.jpg": "<wei>",
+        "./__assets__/multi/jae.jpg": "<jae>",
+        "./__assets__/multi/lim.jpg": "<lim>",
+        "./__assets__/multi/yang.jpg": "<yang>"
+    }
+}

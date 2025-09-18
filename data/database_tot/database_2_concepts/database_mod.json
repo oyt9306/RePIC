@@ -1,0 +1,118 @@
+{
+    "concept_dict": {
+        "<Anya>": {
+            "name": "Anya",
+            "image": "./data/database_tot/database_2_concepts/Anya.jpg",
+            "info": "A young girl with pink hair and big green eyes.",
+            "category": "person"
+        },
+        "<Baby_Q>": {
+            "name": "Baby_Q",
+            "image": "./data/database_tot/database_2_concepts/Baby_Q.jpg",
+            "info": "A baby is sleeping peacefully in a carrier. The baby is wrapped in a soft, colorful blanket and is secured by a black strap.",
+            "category": "person"
+        },
+        "<Bingo>": {
+            "name": "Bingo",
+            "image": "./data/database_tot/database_2_concepts/Bingo.jpg",
+            "info": "A plush toy. It is orange with a yellow belly and a brown nose.",
+            "category": "plush toy"
+        },
+        "<Bluey>": {
+            "name": "Bluey",
+            "image": "./data/database_tot/database_2_concepts/Bluey.jpg",
+            "info": "This is a plush toy of the bluey character. It is a light blue color with a purple patch on its head, and its ears are yellow.",
+            "category": "plush toy"
+        },
+        "<Bond>": {
+            "name": "Bond",
+            "image": "./data/database_tot/database_2_concepts/Bond.jpg",
+            "info": "A white dog wearing a black bow tie.",
+            "category": "dog"
+        },
+        "<Bull_dog>": {
+            "name": "Bull_dog",
+            "image": "./data/database_tot/database_2_concepts/Bull_dog.jpg",
+            "info": "A french bulldog. The dog is light brown in color.",
+            "category": "dog"
+        },
+        "<Character_A>": {
+            "name": "Character_A",
+            "image": "./data/database_tot/database_2_concepts/Character_A.jpg",
+            "info": "A cartoon rabbit with large ears, a police officer's hat, and a red and yellow safety vest. She has a sweet, innocent look on its face, and its fur is brown and grey.",
+            "category": "cartoon character"
+        },
+        "<Character_B>": {
+            "name": "Character_B",
+            "image": "./data/database_tot/database_2_concepts/Character_B.jpg",
+            "info": "A cartoon fox wearing a yellow button-down shirt and a purple tie. He has big eyes, fluffy fur, and a sly grin on his face.",
+            "category": "cartoon character"
+        },
+        "<C_dog>": {
+            "name": "C_dog",
+            "image": "./data/database_tot/database_2_concepts/C_dog.jpg",
+            "info": "A black and white border collie dog.",
+            "category": "dog"
+        },
+        "<G_cat>": {
+            "name": "G_cat",
+            "image": "./data/database_tot/database_2_concepts/G_cat.jpg",
+            "info": "A small ginger kitten with bright blue eyes looks up at the camera.",
+            "category": "cat"
+        },
+        "<H>": {
+            "name": "H",
+            "image": "./data/database_tot/database_2_concepts/H.jpg",
+            "info": "A young man is wearing a plain tan t-shirt. His hair is short and curly.",
+            "category": "person"
+        },
+        "<J>": {
+            "name": "J",
+            "image": "./data/database_tot/database_2_concepts/J.jpg",
+            "info": " A man wearing a white t-shirt and black shorts.",
+            "category": "person"
+        },
+        "<K>": {
+            "name": "K",
+            "image": "./data/database_tot/database_2_concepts/K.jpg",
+            "info": "A young woman is sitting in a chair, wearing a blue polka-dotted dress. Her hair is tied back with a brown and white scrunchie.",
+            "category": "person"
+        },
+        "<Parrot_1>": {
+            "name": "Parrot_1",
+            "image": "./data/database_tot/database_2_concepts/Parrot_1.jpg",
+            "info": "A green parrot with a bright red beak is perched on a branch.",
+            "category": "parrot"
+        },
+        "<Parrot_2>": {
+            "name": "Parrot_2",
+            "image": "./data/database_tot/database_2_concepts/Parrot_2.jpg",
+            "info": "This is a light blue parrot with pink feet. It has a light blue head and a white ring around its neck.",
+            "category": "parrot"
+        },
+        "<T>": {
+            "name": "T",
+            "image": "./data/database_tot/database_2_concepts/T.jpg",
+            "info": "A young woman with blonde hair is wearing a white tank top and blue jeans.",
+            "category": "person"
+        }
+    },
+    "path_to_concept": {
+        "./data/database_tot/database_2_concepts/Anya.jpg": "<Anya>",
+        "./data/database_tot/database_2_concepts/Baby_Q.jpg": "<Baby_Q>",
+        "./data/database_tot/database_2_concepts/Bingo.jpg": "<Bingo>",
+        "./data/database_tot/database_2_concepts/Bluey.jpg": "<Bluey>",
+        "./data/database_tot/database_2_concepts/Bull_dog.jpg": "<Bull_dog>",
+        "./data/database_tot/database_2_concepts/Bond.jpg": "<Bond>",
+        "./data/database_tot/database_2_concepts/Character_A.jpg": "<Character_A>",
+        "./data/database_tot/database_2_concepts/Character_B.jpg": "<Character_B>",
+        "./data/database_tot/database_2_concepts/C_dog.jpg": "<C_dog>",
+        "./data/database_tot/database_2_concepts/G_cat.jpg": "<G_cat>",
+        "./data/database_tot/database_2_concepts/H.jpg": "<H>",
+        "./data/database_tot/database_2_concepts/J.jpg": "<J>",
+        "./data/database_tot/database_2_concepts/K.jpg": "<K>",
+        "./data/database_tot/database_2_concepts/Parrot_1.jpg": "<Parrot_1>",
+        "./data/database_tot/database_2_concepts/Parrot_2.jpg": "<Parrot_2>",
+        "./data/database_tot/database_2_concepts/T.jpg": "<T>"
+    }
+}

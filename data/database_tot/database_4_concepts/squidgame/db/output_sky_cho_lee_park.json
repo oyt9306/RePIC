@@ -1,0 +1,34 @@
+{
+    "concept_dict": {
+        "<sky>": {
+            "name": "Sky",
+            "image": "./__assets__/multi/sky.jpg",
+            "info": "A charming actor with a youthful vibe, he balances playful charisma with subtle emotional depth. His expressive gestures add charm to every public appearance.",
+            "category": "human"
+        },
+        "<cho>": {
+            "name": "Cho",
+            "image": "./__assets__/multi/cho.jpg",
+            "info": "A rising actress with a bright and cheerful aura, she brings energy to the screen and stage alike. Her youthful confidence and style catch the spotlight with ease.",
+            "category": "human"
+        },
+        "<lee>": {
+            "name": "Lee",
+            "image": "./__assets__/multi/lee.jpg",
+            "info": "A globally recognized actor, he is renowned for his versatile acting and warm smile. His refined appearance blends intensity with approachability.",
+            "category": "human"
+        },
+        "<park>": {
+            "name": "Park",
+            "image": "./__assets__/multi/park.jpg",
+            "info": "An elegant actress with a modern and poised style, she brings sophistication to her roles. Her calm gaze and confident stance show her composure and strength.",
+            "category": "human"
+        }
+    },
+    "path_to_concept": {
+        "./__assets__/multi/sky.jpg": "<sky>",
+        "./__assets__/multi/cho.jpg": "<cho>",
+        "./__assets__/multi/lee.jpg": "<lee>",
+        "./__assets__/multi/park.jpg": "<park>"
+    }
+}

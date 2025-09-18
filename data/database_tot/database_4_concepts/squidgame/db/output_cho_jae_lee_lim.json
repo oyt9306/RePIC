@@ -1,0 +1,34 @@
+{
+    "concept_dict": {
+        "<cho>": {
+            "name": "Cho",
+            "image": "./__assets__/multi/cho.jpg",
+            "info": "A rising actress with a bright and cheerful aura, she brings energy to the screen and stage alike. Her youthful confidence and style catch the spotlight with ease.",
+            "category": "human"
+        },
+        "<jae>": {
+            "name": "Jae",
+            "image": "./__assets__/multi/jae.jpg",
+            "info": "Known for his commanding presence and mature charm, he often takes on pivotal, emotionally complex roles. His sharp gaze adds weight to every performance.",
+            "category": "human"
+        },
+        "<lee>": {
+            "name": "Lee",
+            "image": "./__assets__/multi/lee.jpg",
+            "info": "A globally recognized actor, he is renowned for his versatile acting and warm smile. His refined appearance blends intensity with approachability.",
+            "category": "human"
+        },
+        "<lim>": {
+            "name": "Lim",
+            "image": "./__assets__/multi/lim.jpg",
+            "info": "With a youthful and sincere look, he brings realism and relatability to his roles. His office-style portrayal highlights everyday charm and depth.",
+            "category": "human"
+        }
+    },
+    "path_to_concept": {
+        "./__assets__/multi/cho.jpg": "<cho>",
+        "./__assets__/multi/jae.jpg": "<jae>",
+        "./__assets__/multi/lee.jpg": "<lee>",
+        "./__assets__/multi/lim.jpg": "<lim>"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "concept_dict": {
+        "<black widow>": {
+            "name": "Black Widow",
+            "image": "./__assets__/multi/black widow.jpg",
+            "info": "A former Russian spy and master martial artist, Black Widow uses her intelligence, agility, and espionage skills to support the Avengers. Despite lacking superpowers, she plays a crucial leadership and tactical role in the team.",
+            "category": "human"
+        },
+        "<captain america>": {
+            "name": "Captain America",
+            "image": "./__assets__/multi/captain america.jpg",
+            "info": "Enhanced to peak human potential by a super-soldier serum, Captain America is a symbol of justice, courage, and leadership. Armed with an indestructible shield, he leads the Avengers with moral clarity and battlefield expertise.",
+            "category": "human"
+        },
+        "<hawkeye>": {
+            "name": "Hawkeye",
+            "image": "./__assets__/multi/hawkeye.jpg",
+            "info": "A master archer with extraordinary aim and combat skills, Hawkeye is a former S.H.I.E.L.D. agent who supports the team with strategic precision. Though human, his loyalty and resourcefulness make him a dependable Avenger.",
+            "category": "human"
+        },
+        "<quick silver>": {
+            "name": "Quicksilver",
+            "image": "./__assets__/multi/quick silver.jpg",
+            "info": "Scarlet Witch’s twin brother, Quicksilver possesses superhuman speed, allowing him to move and react faster than the eye can see. He is impulsive and protective, often acting before thinking to shield those he cares about.",
+            "category": "human"
+        }
+    },
+    "path_to_concept": {
+        "./__assets__/multi/black widow.jpg": "<black widow>",
+        "./__assets__/multi/captain america.jpg": "<captain america>",
+        "./__assets__/multi/hawkeye.jpg": "<hawkeye>",
+        "./__assets__/multi/quick silver.jpg": "<quick silver>"
+    }
+}

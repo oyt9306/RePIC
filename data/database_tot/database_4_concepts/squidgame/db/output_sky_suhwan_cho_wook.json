@@ -1,0 +1,34 @@
+{
+    "concept_dict": {
+        "<sky>": {
+            "name": "Sky",
+            "image": "./__assets__/multi/sky.jpg",
+            "info": "A charming actor with a youthful vibe, he balances playful charisma with subtle emotional depth. His expressive gestures add charm to every public appearance.",
+            "category": "human"
+        },
+        "<suhwan>": {
+            "name": "Suhwan",
+            "image": "./__assets__/multi/suhwan.jpg",
+            "info": "He often brings levity to the screen with his comedic timing and approachable personality. His signature glasses and sincere demeanor make him a memorable presence.",
+            "category": "human"
+        },
+        "<cho>": {
+            "name": "Cho",
+            "image": "./__assets__/multi/cho.jpg",
+            "info": "A rising actress with a bright and cheerful aura, she brings energy to the screen and stage alike. Her youthful confidence and style catch the spotlight with ease.",
+            "category": "human"
+        },
+        "<wook>": {
+            "name": "Wook",
+            "image": "./__assets__/multi/wook.jpg",
+            "info": "He gives off a composed and intellectual aura, often seen in professional or office settings. His subtle smile and clean-cut appearance suggest quiet confidence and thoughtfulness.",
+            "category": "human"
+        }
+    },
+    "path_to_concept": {
+        "./__assets__/multi/sky.jpg": "<sky>",
+        "./__assets__/multi/suhwan.jpg": "<suhwan>",
+        "./__assets__/multi/cho.jpg": "<cho>",
+        "./__assets__/multi/wook.jpg": "<wook>"
+    }
+}

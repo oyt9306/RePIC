@@ -1,0 +1,34 @@
+{
+    "concept_dict": {
+        "<mr.krab>": {
+            "name": "Mr.Krabs",
+            "image": "./__assets__/multi/mr.krab.jpg",
+            "info": "He is the money-obsessed owner of the Krusty Krab and father to Pearl. Always chasing profit, he often puts business above all else, but cares deeply about his restaurant.",
+            "category": "character"
+        },
+        "<sandy>": {
+            "name": "Sandy",
+            "image": "./__assets__/multi/sandy.jpg",
+            "info": "Sandy is a smart, strong Texan squirrel who lives underwater in a special dome. She's an expert in science and karate, often acting as the voice of reason.",
+            "category": "character"
+        },
+        "<spongebob>": {
+            "name": "SpongeBob",
+            "image": "./__assets__/multi/spongebob.jpg",
+            "info": "SpongeBob is a cheerful and hardworking sea sponge who lives in a pineapple under the sea. Known for his optimism and energy, he’s a loyal friend and passionate fry cook.",
+            "category": "character"
+        },
+        "<squidward>": {
+            "name": "Squidward",
+            "image": "./__assets__/multi/squidward.jpg",
+            "info": "Squidward is SpongeBob’s grumpy neighbor and co-worker who dreams of a peaceful, artistic life. He is often annoyed by SpongeBob’s boundless enthusiasm.",
+            "category": "character"
+        }
+    },
+    "path_to_concept": {
+        "./__assets__/multi/mr.krab.jpg": "<mr.krab>",
+        "./__assets__/multi/sandy.jpg": "<sandy>",
+        "./__assets__/multi/spongebob.jpg": "<spongebob>",
+        "./__assets__/multi/squidward.jpg": "<squidward>"
+    }
+}
