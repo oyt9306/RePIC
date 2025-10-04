@@ -12,7 +12,7 @@ Recent multi-modal large language models (MLLMs) often struggle to generate pers
 
 ## 🧑‍🔬 Authors & Affiliations
 
-* **Authors**: Yeongtak Oh, Jisoo Mok, Dohyun Chung, Juhyeon Shin, Sangha Park, Johan Barthelemy, and Sungroh Yoon
+* **Authors**: Yeongtak Oh, Dohyun Chung, Juhyeon Shin, Sangha Park, Johan Barthelemy, Jisoo Mok, and Sungroh Yoon
 * **Affiliations**: Seoul National University, NVIDIA
 
 ---
