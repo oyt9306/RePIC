@@ -176,7 +176,19 @@ Feel free to try it out! The example screenshots are as follows.
 </p>
 
 ---
+## Cite
 
+If you find this repository useful in your research, please cite:
+
+```bibtex
+@article{oh2025repic,
+  title={RePIC: Reinforced Post-Training for Personalizing Multi-Modal Language Models},
+  author={Oh, Yeongtak and Mok, Jisoo and Chung, Dohyun and Shin, Juhyeon and Park, Sangha and Barthelemy, Johan and Yoon, Sungroh},
+  journal={arXiv preprint arXiv:2506.18369},
+  year={2025}
+}
+```
+---
 ## 🙏 Acknowledgements
 
 We gratefully acknowledge the following open-source repositories and resources that supported our work:
