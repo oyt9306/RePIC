@@ -2,7 +2,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2506.18369-b31b1b.svg)](https://arxiv.org/abs/2506.18369) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow)](https://huggingface.co/Yeongtak/RePIC_Qwen2.5VL_7B) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-yellow)](https://huggingface.co/datasets/Yeongtak/RePIC-training-data) [![Google Drive](https://img.shields.io/badge/Google%20Drive-Training_Dataset-blue)](https://drive.google.com/file/d/1DKPmLI58NZUpSUFEUgzpUmMKKPK3Oguc/view?usp=sharing) [![Google Drive](https://img.shields.io/badge/Google%20Drive-LoRA_ckpt-blue)](https://drive.google.com/file/d/1d33cP7VWxS_7PWqaV7yAYgNIfMFWcrlA/view?usp=sharing) [![Google Drive](https://img.shields.io/badge/Google%20Drive-2_concept_dataset-violet)](https://drive.google.com/file/d/1VzNLzzjqEfVcpWDT-3m6O71CAImoD8qE/view?usp=sharing) 
 
-We introduce RePIC, the first RL-based post-training framework for personalized image captioning, which leverages GRPO with three novel verifiable rewards (object consistency, visual localization, and identity consistency) to mitigate the data-centric limitations of previous SFT-based methods and achieve strong, generalizable performance in multi-concept personalization scenarios.
+We introduce RePIC, a first RL-based post-training framework for personalized image captioning, which leverages GRPO with three novel verifiable rewards (object consistency, visual localization, and identity consistency) to mitigate the data-centric limitations of previous SFT-based methods and achieve strong, generalizable performance in multi-concept personalization scenarios.
 
 
 
